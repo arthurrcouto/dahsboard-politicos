@@ -1,0 +1,504 @@
+{
+  "dados": [
+    {
+      "id": 2630068,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630068",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2880,
+      "ano": 2026,
+      "ementa": "Cria o Sistema Nacional de Reabilitação Juvenil, revoga a Lei nº 12.594, de 18 de janeiro de 2012 (Sistema Nacional de Atendimento Socioeducativo – Sinase) e os arts. 103 a 128 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), altera a redação do art. 6º, inciso IV, da Lei 10.826 de 2003, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T17:57"
+    },
+    {
+      "id": 2630060,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630060",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2879,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para aumentar o percentual de recursos repassados ao Fundo Nacional de Segurança Pública (FNSP).",
+      "dataApresentacao": "2026-06-03T16:39"
+    },
+    {
+      "id": 2630057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630057",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2878,
+      "ano": 2026,
+      "ementa": "Dispõe sobre diretrizes para o atendimento educacional em ambiente hospitalar ou de cuidados domiciliares de saúde para estudantes da educação básica e superior.",
+      "dataApresentacao": "2026-06-03T16:25"
+    },
+    {
+      "id": 2630056,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630056",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2877,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar o reconhecimento da legítima defesa como excludente de ilicitude quando a conduta do agente resultar em morte de criança.",
+      "dataApresentacao": "2026-06-03T16:18"
+    },
+    {
+      "id": 2630054,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630054",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2876,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Turismo de Base Comunitária e Destinos de Identidade Cultural, Ambiental e Tradicional – DESTINOS DO BRASIL, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T16:10"
+    },
+    {
+      "id": 2630047,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630047",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2875,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para dispor sobre o procedimento extrajudicial de atualização dos assentos de registro civil do filho no caso de alteração superveniente do nome do pai ou da mãe.",
+      "dataApresentacao": "2026-06-03T16:02"
+    },
+    {
+      "id": 2630046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630046",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2874,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para qualificar o crime de maus-tratos contra animais quando praticado para fins de produção, divulgação ou monetização de conteúdo audiovisual.",
+      "dataApresentacao": "2026-06-03T15:59"
+    },
+    {
+      "id": 2630042,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630042",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2873,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Digital e Inteligência Artificial para a Agricultura Familiar – AGROFAMÍLIA 5.0.",
+      "dataApresentacao": "2026-06-03T15:51"
+    },
+    {
+      "id": 2630040,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630040",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2872,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Salvaguarda dos Mestres dos Saberes Tradicionais do Brasil, cria o Cadastro Nacional dos Mestres da Cultura Popular e estabelece mecanismos de proteção, valorização e transmissão dos conhecimentos tradicionais brasileiros.",
+      "dataApresentacao": "2026-06-03T15:42"
+    },
+    {
+      "id": 2630039,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630039",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2871,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Autonomia Digital da Pessoa Idosa, estabelece diretrizes para promoção da inclusão, acessibilidade, segurança e cidadania digital da população idosa e dá outras providências.",
+      "dataApresentacao": "2026-06-03T15:41"
+    },
+    {
+      "id": 2630038,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630038",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2870,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção contra a Exclusão Digital da Pessoa Idosa, estabelece garantias de acesso alternativo a serviços essenciais e dá outras providências.",
+      "dataApresentacao": "2026-06-03T15:41"
+    },
+    {
+      "id": 2630037,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630037",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2869,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Acessibilidade Digital da Pessoa Idosa, estabelece direitos, garantias e padrões mínimos de acessibilidade em ambientes digitais públicos e privados, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T15:41"
+    },
+    {
+      "id": 2630034,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630034",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2868,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, para estabelecer o cabimento de recurso adesivo no âmbito dos Juizados Especiais Cíveis.",
+      "dataApresentacao": "2026-06-03T15:35"
+    },
+    {
+      "id": 2630032,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630032",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2867,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Planejamento de Futuro, Autonomia Juvenil e Responsabilidade Familiar – PROJETO DE VIDA BRASIL.",
+      "dataApresentacao": "2026-06-03T15:34"
+    },
+    {
+      "id": 2630030,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630030",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2866,
+      "ano": 2026,
+      "ementa": "Declara Lamartine Babo, Patrono dos Hinos de Futebol do Brasil.",
+      "dataApresentacao": "2026-06-03T15:28"
+    },
+    {
+      "id": 2630029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630029",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2865,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Turismo de Base Comunitária e de Valorização dos Destinos de Identidade Cultural, Ambiental e Tradicional – DESTINOS DO BRASIL.",
+      "dataApresentacao": "2026-06-03T15:27"
+    },
+    {
+      "id": 2630025,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630025",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2864,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Salvaguarda dos Mestres dos Saberes Tradicionais do Brasil, cria o Cadastro Nacional dos Mestres dos Saberes Tradicionais e estabelece mecanismos de proteção, valorização e transmissão dos conhecimentos tradicionais brasileiros.",
+      "dataApresentacao": "2026-06-03T15:14"
+    },
+    {
+      "id": 2630021,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630021",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2863,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), a fim de determinar a isenção de custas processuais para a solicitação, a revisão e a adoção de medidas protetivas à mulher em situação de violência doméstica e familiar, independentemente de comprovação de hipossuficiência financeira.",
+      "dataApresentacao": "2026-06-03T14:52"
+    },
+    {
+      "id": 2630007,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630007",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2862,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Navegação do Paciente no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "dataApresentacao": "2026-06-03T13:48"
+    },
+    {
+      "id": 2630001,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630001",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2861,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para qualificar o crime de ato obsceno quando praticado em instalações sanitárias, vestiários ou dependências congêneres de uso coletivo, bem como em locais acessíveis a crianças e adolescentes.",
+      "dataApresentacao": "2026-06-03T13:40"
+    },
+    {
+      "id": 2629993,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629993",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2860,
+      "ano": 2026,
+      "ementa": "Acrescenta § 9º ao art. 9º da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer o sigilo de informações constantes dos boletins de ocorrência policial e dos autos de processos judiciais decorrentes da prática de violência doméstica e familiar contra a mulher.",
+      "dataApresentacao": "2026-06-03T13:14"
+    },
+    {
+      "id": 2629983,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629983",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2859,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para disciplinar o conteúdo e os limites da anotação do novo casamento nos assentos dos casamentos anteriores.",
+      "dataApresentacao": "2026-06-03T12:50"
+    },
+    {
+      "id": 2629982,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629982",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2858,
+      "ano": 2026,
+      "ementa": "Altera o art. 92 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre as informações do Cadastro Nacional de Inclusão da Pessoa com Deficiência (Cadastro-Inclusão).",
+      "dataApresentacao": "2026-06-03T12:38"
+    },
+    {
+      "id": 2629979,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629979",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2857,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da divulgação de informações relativas a promoção ou patrocínio de eventos artísticos, culturais e esportivos com recursos públicos, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T12:28"
+    },
+    {
+      "id": 2629973,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629973",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2856,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.347, de 24 de julho de 1985, para incluir as entidades dedicadas à proteção dos direitos de crianças e adolescentes entre os agentes legitimados para propor a ação civil pública.",
+      "dataApresentacao": "2026-06-03T12:13"
+    },
+    {
+      "id": 2629970,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629970",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para aprimorar a segurança jurídica, a eficiência administrativa e a racionalidade econômica na regularização ambiental de imóveis rurais.",
+      "dataApresentacao": "2026-06-03T11:48"
+    },
+    {
+      "id": 2629948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629948",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação da profissão de Guarda-Vidas ou Salva-Vidas em todo o território nacional e dá outras providências.",
+      "dataApresentacao": "2026-06-03T11:02"
+    },
+    {
+      "id": 2629947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629947",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2852,
+      "ano": 2026,
+      "ementa": "Dispõe, para efeito de interpretação da legislação tributária, que a alimentação fornecida aos trabalhadores, seja in natura, em pecúnia ou sob a forma de instrumentos de pagamento, tem natureza indenizatória, não se inclui no salário de contribuição para efeito de determinação das contribuições previdenciárias a cargo da empresa e do segurado, nem na base de cálculo do Imposto de Renda do beneficiário.",
+      "dataApresentacao": "2026-06-03T11:00"
+    },
+    {
+      "id": 2629944,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629944",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2851,
+      "ano": 2026,
+      "ementa": "Altera a Lei dos Planos de Saúde, para limitar a cobrança mensal de coparticipação ou de franquia a 10% (dez por cento) do valor da mensalidade do plano privado de assistência à saúde.",
+      "dataApresentacao": "2026-06-03T10:24"
+    },
+    {
+      "id": 2629940,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629940",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2850,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transição Profissional Tecnológica – PNTPT, destinada à preparação, proteção e requalificação dos trabalhadores diante dos impactos da automação, da inteligência artificial e das novas tecnologias no mercado de trabalho.",
+      "dataApresentacao": "2026-06-03T10:08"
+    },
+    {
+      "id": 2629936,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629936",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2849,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação do Canal Nacional de Denúncias Acessível para atendimento e recebimento de denúncias de pessoas com deficiência, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:49"
+    },
+    {
+      "id": 2629935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2848,
+      "ano": 2026,
+      "ementa": "Institui o Selo “Empresa Inclusiva”, estabelece critérios técnicos de certificação, mecanismos de monitoramento e incentivos, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:49"
+    },
+    {
+      "id": 2629934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629934",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2847,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Bolsas de Estudo para Estudantes com Deficiência, destinado à garantia do acesso, permanência e conclusão da educação básica, técnica e superior por pessoas com deficiência, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629933,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629933",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2846,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o fortalecimento da fiscalização do cumprimento das normas de educação inclusiva nas instituições de ensino públicas e privadas e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629932,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629932",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2845,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de acessibilidade digital em sites, aplicativos e plataformas eletrônicas destinados ao consumo de produtos e serviços, garantindo o acesso pleno às pessoas com deficiência.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629931,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629931",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2844,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento prioritário, acessível e adaptado às pessoas com deficiência nos Serviços de Atendimento ao Consumidor (SACs), inclusive com oferta de atendimento em Língua Brasileira de Sinais – Libras, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629930,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629930",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2843,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a garantia de transporte escolar acessível para estudantes com deficiência na rede pública de ensino.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629929",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2842,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento presencial com estrutura adaptada às pessoas com deficiência e mobilidade reduzida em estabelecimentos públicos e privados, e dá outras providências.",
+      "dataApresentacao": "2026-06-03T09:48"
+    },
+    {
+      "id": 2629917,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629917",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2841,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Sucessão e Empreendedorismo Rural Familiar, em articulação com a Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais e com a Política Nacional de Assistência Técnica e Extensão Rural, e dá outras providências.",
+      "dataApresentacao": "2026-06-02T20:11"
+    },
+    {
+      "id": 2629915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629915",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2840,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de espaços reservados e adaptados para pessoas com Transtorno do Espectro Autista - TEA em estádios e arenas esportivas com capacidade igual ou superior a 5.000 pessoas, em todo território nacional.",
+      "dataApresentacao": "2026-06-02T19:08"
+    },
+    {
+      "id": 2629881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629881",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2839,
+      "ano": 2026,
+      "ementa": "Torna obrigatória a oferta de turmas femininas em escolinhas ou projetos de futebol que recebam recursos públicos federais.",
+      "dataApresentacao": "2026-06-02T18:22"
+    },
+    {
+      "id": 2629880,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629880",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2838,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a utilização, por pessoas em recuperação pós-cirúrgica com mobilidade reduzida, das vagas de estacionamento reservadas a idosos e a pessoas com deficiência.",
+      "dataApresentacao": "2026-06-02T18:16"
+    },
+    {
+      "id": 2629879,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629879",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2837,
+      "ano": 2026,
+      "ementa": "Declara o Complexo Esportivo do Maracanã patrimônio cultural, esportivo e turístico do Brasil.",
+      "dataApresentacao": "2026-06-02T18:13"
+    },
+    {
+      "id": 2629878,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629878",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2836,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para promover o ingresso e a permanência da pessoa idosa em programas de educação superior, educação profissional, técnica, tecnológica e de qualificação continuada.",
+      "dataApresentacao": "2026-06-02T18:12"
+    },
+    {
+      "id": 2629875,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629875",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2835,
+      "ano": 2026,
+      "ementa": "Declara o Museu do Flamengo como bem de interesse cultural e turístico do Brasil e o incluí na Rota do Turismo Nacional",
+      "dataApresentacao": "2026-06-02T18:10"
+    },
+    {
+      "id": 2629867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629867",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2833,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção à Saúde Mental Digital de Crianças e Adolescentes e o Direito à Desconexão Digital Infantojuvenil, e dá outras providências.",
+      "dataApresentacao": "2026-06-02T18:02"
+    },
+    {
+      "id": 2629858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629858",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2832,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 — Código de Processo Civil — e a Lei nº 7.347, de 24 de julho de 1985 — Lei da Ação Civil Pública — para instituir o Incidente de Verificação de Litigiosidade Estrutural em ações individuais e disciplinar a comunicação ao Ministério Público e aos demais legitimados coletivos.",
+      "dataApresentacao": "2026-06-02T17:49"
+    },
+    {
+      "id": 2629817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629817",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2831,
+      "ano": 2026,
+      "ementa": "Acrescenta o inciso XV ao art. 39 da Lei nº 8.078, de 11 de setembro de 1990, para enquadrar como prática abusiva a associação, distribuição ou comercialização de itens colecionáveis infantis à compra de alimentos e bebidas ultraprocessados",
+      "dataApresentacao": "2026-06-02T17:14"
+    },
+    {
+      "id": 2629812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629812",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2830,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023, para instituir normas gerais sobre a Indenização por Supressão de Folga Operacional devida aos policiais militares e bombeiros militares dos Estados, do Distrito Federal e dos Territórios.",
+      "dataApresentacao": "2026-06-02T17:04"
+    },
+    {
+      "id": 2629808,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2629808",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2829,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a instituição da Política Nacional de Inclusão Produtiva, Qualificação Profissional e Trabalho Decente nas Refinarias, Polos Petroquímicos e Indústrias Estratégicas, estabelece diretrizes para geração de empregos formais, contratação de jovens, mulheres em situação de violência doméstica e familiar, trabalhadores locais e profissionais egressos da educação profissional e tecnológica, condiciona benefícios, contratos e financiamentos públicos federais à adoção de planos de emprego e qualificação, fortalece a proteção trabalhista nas cadeias terceirizadas e dá outras providências.",
+      "dataApresentacao": "2026-06-02T16:55"
+    }
+  ]
+}

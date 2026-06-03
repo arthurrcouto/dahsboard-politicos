@@ -1,0 +1,1944 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Painel Político Brasil</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --verde: #00c896;
+    --amarelo: #f5c400;
+    --azul: #1a6bff;
+    --vermelho: #ff3b3b;
+    --bg: #080c10;
+    --bg2: #0f1520;
+    --bg3: #182030;
+    --border: rgba(255,255,255,0.07);
+    --text: #e8edf5;
+    --muted: #6b7a90;
+    --card-glow: rgba(0,200,150,0.06);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Mono', monospace;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* GRID DE FUNDO */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,200,150,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,200,150,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* HEADER */
+  header {
+    position: relative;
+    z-index: 10;
+    padding: 20px 32px;
+    border-bottom: 1px solid var(--border);
+    background: rgba(8,12,16,0.95);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--verde), var(--azul));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+  }
+
+  .logo h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  .logo span { color: var(--verde); }
+
+  .header-meta {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.6;
+  }
+  #last-update {
+    display: block;
+    font-size: 0.65rem;
+    color: var(--verde);
+    margin-top: 3px;
+  }
+
+  .live-dot {
+    display: inline-block;
+    width: 7px; height: 7px;
+    background: var(--verde);
+    border-radius: 50%;
+    margin-right: 5px;
+    animation: pulse 1.5s infinite;
+  }
+
+  @keyframes pulse {
+    0%,100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  /* NAVEGAÇÃO DE ABAS */
+  nav {
+    position: relative; z-index: 10;
+    padding: 0 32px;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+  }
+
+  nav::-webkit-scrollbar { height: 2px; }
+  nav::-webkit-scrollbar-track { background: transparent; }
+  nav::-webkit-scrollbar-thumb { background: var(--verde); }
+
+  .tab {
+    padding: 14px 20px;
+    font-family: 'Syne', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--muted);
+    cursor: pointer;
+    border: none;
+    background: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+    white-space: nowrap;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--verde); border-bottom-color: var(--verde); }
+
+  /* FILTROS */
+  .filters-bar {
+    position: relative; z-index: 10;
+    padding: 14px 32px;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .filter-label {
+    font-size: 0.65rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-right: 4px;
+  }
+
+  select, input[type="text"] {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem;
+    padding: 7px 12px;
+    border-radius: 6px;
+    outline: none;
+    cursor: pointer;
+    transition: border-color 0.2s;
+  }
+
+  select:hover, input[type="text"]:hover,
+  select:focus, input[type="text"]:focus {
+    border-color: var(--verde);
+  }
+
+  .btn {
+    padding: 7px 16px;
+    background: var(--verde);
+    color: #000;
+    font-family: 'Syne', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: opacity 0.2s, transform 0.1s;
+  }
+
+  .btn:hover { opacity: 0.85; }
+  .btn:active { transform: scale(0.97); }
+
+  .btn-secondary {
+    background: var(--bg3);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+
+  /* MAIN CONTENT */
+  main {
+    position: relative; z-index: 1;
+    padding: 28px 32px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  /* PAINÉIS */
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* GRID DE STATS */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+
+  .stat-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--card-glow);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .stat-card:hover { border-color: rgba(0,200,150,0.3); transform: translateY(-2px); }
+  .stat-card:hover::before { opacity: 1; }
+
+  .stat-label {
+    font-size: 0.65rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 8px;
+  }
+
+  .stat-value {
+    font-family: 'Syne', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+
+  .stat-sub {
+    font-size: 0.68rem;
+    color: var(--muted);
+  }
+
+  .accent-verde { color: var(--verde); }
+  .accent-amarelo { color: var(--amarelo); }
+  .accent-azul { color: var(--azul); }
+  .accent-vermelho { color: var(--vermelho); }
+
+  /* GRID DE CONTEÚDO */
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 28px;
+  }
+
+  .content-grid.three { grid-template-columns: 2fr 1fr 1fr; }
+  .content-grid.full { grid-template-columns: 1fr; }
+
+  @media (max-width: 900px) {
+    .content-grid, .content-grid.three { grid-template-columns: 1fr; }
+  }
+
+  /* CARDS */
+  .card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .card-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+
+  .card-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .card-badge {
+    font-size: 0.62rem;
+    padding: 2px 8px;
+    border-radius: 99px;
+    background: rgba(0,200,150,0.12);
+    color: var(--verde);
+    border: 1px solid rgba(0,200,150,0.2);
+  }
+
+  .card-body { padding: 20px; }
+
+  /* TABELA */
+  .table-wrap { overflow-x: auto; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.75rem;
+  }
+
+  thead th {
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 0.62rem;
+    font-weight: 500;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(255,255,255,0.03);
+    transition: background 0.15s;
+  }
+
+  tbody tr:hover { background: rgba(255,255,255,0.025); }
+
+  tbody td {
+    padding: 11px 14px;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
+  /* AVATAR */
+  .dep-row { display: flex; align-items: center; gap: 10px; }
+
+  .dep-avatar {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .dep-name { font-weight: 500; }
+  .dep-party { font-size: 0.65rem; color: var(--muted); margin-top: 1px; }
+
+  /* PARTIDO TAG */
+  .partido-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 3px 9px;
+    border-radius: 5px;
+    font-size: 0.68rem;
+    font-weight: 600;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  /* LOADING */
+  .loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    gap: 14px;
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+
+  .spinner {
+    width: 32px; height: 32px;
+    border: 2px solid var(--border);
+    border-top-color: var(--verde);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ERRO */
+  .error-msg {
+    padding: 20px;
+    border-radius: 8px;
+    background: rgba(255,59,59,0.08);
+    border: 1px solid rgba(255,59,59,0.2);
+    color: #ff8080;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+
+  /* BARRA DE PARTIDO */
+  .party-bar-wrap { display: flex; flex-direction: column; gap: 10px; }
+
+  .party-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .party-name {
+    font-size: 0.7rem;
+    width: 60px;
+    flex-shrink: 0;
+    color: var(--text);
+  }
+
+  .bar-track {
+    flex: 1;
+    height: 8px;
+    background: var(--bg3);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    background: linear-gradient(90deg, var(--verde), var(--azul));
+    transition: width 0.8s ease;
+  }
+
+  .party-count {
+    font-size: 0.68rem;
+    color: var(--muted);
+    width: 35px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  /* VOTAÇÕES */
+  .votacao-item {
+    padding: 14px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+  }
+
+  .votacao-item:last-child { border-bottom: none; }
+
+  .votacao-title {
+    font-size: 0.75rem;
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+
+  .votacao-meta {
+    display: flex;
+    gap: 12px;
+    font-size: 0.65rem;
+    color: var(--muted);
+    flex-wrap: wrap;
+  }
+
+  .voto-sim { color: var(--verde); }
+  .voto-nao { color: var(--vermelho); }
+  .voto-abs { color: var(--muted); }
+
+  /* SENADORES */
+  .senador-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+  }
+
+  .senador-card {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+    text-align: center;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .senador-card:hover {
+    border-color: rgba(0,200,150,0.3);
+    transform: translateY(-2px);
+  }
+
+  .senador-foto {
+    width: 52px; height: 52px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: var(--bg2);
+    margin: 0 auto 8px;
+    display: block;
+    border: 2px solid var(--border);
+  }
+
+  .senador-nome {
+    font-size: 0.68rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 3px;
+  }
+
+  .senador-uf {
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+
+  /* PAGINAÇÃO */
+  .pagination {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    padding: 16px;
+  }
+
+  .page-btn {
+    padding: 5px 12px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .page-btn:hover, .page-btn.active {
+    background: var(--verde);
+    color: #000;
+    border-color: var(--verde);
+  }
+
+  /* CHART CONTAINER */
+  .chart-container {
+    position: relative;
+    padding: 10px;
+  }
+
+  /* TOOLTIP INFO */
+  .info-tip {
+    font-size: 0.65rem;
+    color: var(--muted);
+    padding: 10px 20px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* AUTOCOMPLETE */
+  .ac-item {
+    padding: 10px 14px;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    transition: background 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .ac-item:last-child { border-bottom: none; }
+  .ac-item:hover { background: rgba(0,200,150,0.08); }
+  .ac-item-name { font-size: 0.75rem; color: var(--text); }
+  .ac-item-sub { font-size: 0.65rem; color: var(--muted); margin-top: 1px; }
+
+  /* SCROLL */
+  ::-webkit-scrollbar { width: 4px; height: 4px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--verde); }
+
+  /* DETALHE DEPUTADO */
+  #dep-detail-section {
+    background: var(--bg2);
+    border: 1px solid rgba(0,200,150,0.2);
+    border-radius: 12px;
+    padding: 20px;
+  }
+
+  tbody tr:hover td { background: rgba(0,200,150,0.04); }
+  tbody tr { cursor: default; }
+
+  /* ANIMAÇÃO ENTRADA */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .panel.active > * {
+    animation: fadeUp 0.3s ease forwards;
+  }
+
+  .empty-state {
+    padding: 40px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+
+  .tag-uf {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(26,107,255,0.12);
+    color: #6b9eff;
+    font-size: 0.65rem;
+    border: 1px solid rgba(26,107,255,0.2);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">🏛</div>
+    <h1>Painel <span>Político</span> BR</h1>
+  </div>
+  <div class="header-meta">
+    <span class="live-dot"></span>Dados em tempo real · APIs públicas<br>
+    Câmara · Senado Federal
+    <span id="last-update"></span>
+  </div>
+</header>
+
+<nav id="nav">
+  <button class="tab active" data-panel="painel-deputados">Deputados Federais</button>
+  <button class="tab" data-panel="painel-partidos">Partidos</button>
+  <button class="tab" data-panel="painel-votacoes">Votações / Proposições</button>
+  <button class="tab" data-panel="painel-despesas">Despesas</button>
+  <button class="tab" data-panel="painel-senado">Senadores</button>
+</nav>
+
+<div class="filters-bar" id="filters-bar">
+  <!-- Filtros dinâmicos por painel -->
+</div>
+
+<main>
+
+  <!-- ========== DEPUTADOS ========== -->
+  <div class="panel active" id="painel-deputados">
+    <div class="stats-grid" id="stats-dep"></div>
+    <!-- Cards de detalhe do deputado selecionado -->
+    <div id="dep-detail-section" style="display:none;margin-bottom:28px">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:14px">
+        <img id="dep-detail-foto" style="width:52px;height:52px;border-radius:50%;border:2px solid var(--verde);object-fit:cover" src="" alt="">
+        <div>
+          <div id="dep-detail-nome" style="font-family:'Syne',sans-serif;font-size:1rem;font-weight:700"></div>
+          <div id="dep-detail-sub" style="font-size:0.7rem;color:var(--muted);margin-top:2px"></div>
+        </div>
+        <button class="btn btn-secondary" style="margin-left:auto;font-size:0.65rem" onclick="fecharDetalheDep()">✕ Fechar</button>
+      </div>
+      <div class="stats-grid" id="stats-dep-detail"></div>
+    </div>
+    <div class="content-grid">
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Deputados Federais</span>
+          <span class="card-badge" id="total-dep-badge">carregando...</span>
+        </div>
+        <div id="tabela-dep"><div class="loading"><div class="spinner"></div>Buscando dados da Câmara...</div></div>
+        <div class="pagination" id="pag-dep"></div>
+        <div class="info-tip">Fonte: api.camara.leg.br · Legislatura atual</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Distribuição por Partido</span>
+        </div>
+        <div class="card-body">
+          <div class="chart-container" style="height:320px">
+            <canvas id="chart-partidos-dep"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== PARTIDOS ========== -->
+  <div class="panel" id="painel-partidos">
+    <div class="stats-grid" id="stats-partidos"></div>
+    <div class="content-grid">
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Partidos com Representação</span>
+          <span class="card-badge" id="total-partidos-badge">carregando...</span>
+        </div>
+        <div id="lista-partidos"><div class="loading"><div class="spinner"></div>Buscando partidos...</div></div>
+        <div class="info-tip">Fonte: api.camara.leg.br</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-title">Cadeiras por Partido (Top 15)</span></div>
+        <div class="card-body" id="bars-partidos">
+          <div class="loading"><div class="spinner"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== VOTAÇÕES ========== -->
+  <div class="panel" id="painel-votacoes">
+    <div class="content-grid full">
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Votações Recentes</span>
+          <span class="card-badge">Câmara</span>
+        </div>
+        <div id="lista-votacoes"><div class="loading"><div class="spinner"></div>Buscando votações...</div></div>
+        <div class="info-tip">Fonte: api.camara.leg.br/votacoes</div>
+      </div>
+    </div>
+    <div class="content-grid">
+      <div class="card">
+        <div class="card-header"><span class="card-title">Proposições em Tramitação</span></div>
+        <div id="lista-proposicoes"><div class="loading"><div class="spinner"></div>Buscando proposições...</div></div>
+        <div class="info-tip">Fonte: api.camara.leg.br/proposicoes</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-title">Resultados (%) · Últimas Votações</span></div>
+        <div class="card-body">
+          <div class="chart-container" style="height:280px">
+            <canvas id="chart-votacoes"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== DESPESAS ========== -->
+  <div class="panel" id="painel-despesas">
+    <div class="stats-grid" id="stats-desp"></div>
+    <div class="content-grid">
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Despesas por Deputado</span>
+          <span class="card-badge" id="badge-desp-ano"></span>
+        </div>
+        <div id="tabela-despesas"><div class="loading"><div class="spinner"></div>Buscando despesas...</div></div>
+        <div class="info-tip">Fonte: api.camara.leg.br · Cotas parlamentares</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-title">Despesas por Tipo</span></div>
+        <div class="card-body">
+          <div class="chart-container" style="height:320px">
+            <canvas id="chart-tipo-despesa"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== SENADO ========== -->
+  <div class="panel" id="painel-senado">
+    <div class="stats-grid" id="stats-sen"></div>
+    <div class="content-grid">
+      <div class="card" style="grid-column: 1 / -1;">
+        <div class="card-header">
+          <span class="card-title">Senadores da República</span>
+          <span class="card-badge" id="total-senadores-badge">carregando...</span>
+        </div>
+        <div id="lista-senadores"><div class="loading"><div class="spinner"></div>Buscando senadores...</div></div>
+        <div class="info-tip">Fonte: legis.senado.leg.br/dadosabertos</div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ==================== CONFIG ====================
+const CAMARA = 'https://dadosabertos.camara.leg.br/api/v2';
+const SENADO_API = 'https://legis.senado.leg.br/dadosabertos';
+
+// Cores de partidos
+const PARTY_COLORS = {
+  'PT': '#e31c1c', 'PL': '#1a3c8a', 'UNIÃO': '#0066cc', 'PP': '#003399',
+  'REPUBLICANOS': '#e87722', 'PSD': '#006633', 'MDB': '#009900', 'PDT': '#c8a400',
+  'PSDB': '#00a0e4', 'PSB': '#f06400', 'SOLIDARIEDADE': '#e84600', 'AVANTE': '#006633',
+  'PODE': '#1a6bff', 'PSOL': '#ff5c00', 'NOVO': '#ff6f00', 'PRD': '#003f87',
+  'DC': '#800080', 'PCdoB': '#cc0000', 'REDE': '#009966', 'PMN': '#e53935',
+};
+function partyColor(sigla) {
+  return PARTY_COLORS[sigla] || `hsl(${sigla.split('').reduce((a,c)=>a+c.charCodeAt(0),0) % 360}, 60%, 55%)`;
+}
+
+// Estado global
+const state = {
+  deputados: [],
+  partidoMap: {},
+  despesasDeputado: null,
+  pagDep: 1,
+  filterUF: '',
+  filterPartido: '',
+  filterNome: '',
+  chartPartidos: null,
+  chartVotacoes: null,
+  chartTipoDespesa: null,
+};
+
+// ==================== UTILS ====================
+// Lê JSON pré-gerado pelo script Python (GitHub Pages).
+// Se não encontrar, cai na API da Câmara em tempo real (fallback).
+async function fetchJSON(url) {
+  const r = await fetch(url, { headers: { 'Accept': 'application/json' } });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+// Lê arquivo JSON estático do repositório
+async function fetchLocal(path) {
+  try {
+    const r = await fetch(path);
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  } catch {
+    return null;
+  }
+}
+
+function fmt(n) {
+  if (!n) return '–';
+  return Number(n).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+}
+
+function fmtN(n) {
+  return Number(n || 0).toLocaleString('pt-BR');
+}
+
+// ==================== NAVEGAÇÃO ====================
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(btn.dataset.panel).classList.add('active');
+    updateFilters(btn.dataset.panel);
+  });
+});
+
+function updateFilters(panel) {
+  const bar = document.getElementById('filters-bar');
+  bar.innerHTML = '';
+
+  if (panel === 'painel-deputados') {
+    bar.innerHTML = `
+      <span class="filter-label">Filtrar:</span>
+      <select id="f-uf" onchange="applyDepFilter()">
+        <option value="">Todos os estados</option>
+        ${UFs.map(u => `<option value="${u}">${u}</option>`).join('')}
+      </select>
+      <select id="f-partido" onchange="applyDepFilter()">
+        <option value="">Todos os partidos</option>
+      </select>
+      <input type="text" id="f-nome" placeholder="Buscar por nome..." oninput="applyDepFilter()" style="width:180px">
+    `;
+    populatePartidoFilter();
+  } else if (panel === 'painel-despesas') {
+    const ano = new Date().getFullYear();
+    bar.innerHTML = `
+      <span class="filter-label">Ano:</span>
+      <select id="f-ano-desp" onchange="loadDespesas()">
+        ${[ano, ano-1, ano-2].map(y => `<option value="${y}">${y}</option>`).join('')}
+      </select>
+      <select id="f-mes-desp" onchange="loadDespesas()">
+        ${['Todos os meses',...Array.from({length:12},(_,i)=>new Date(2000,i).toLocaleString('pt-BR',{month:'long'}))].map((m,i)=>`<option value="${i===0?'':i}">${m}</option>`).join('')}
+      </select>
+      <span class="filter-label" style="margin-left:8px">Deputado:</span>
+      <div style="position:relative;display:inline-block">
+        <input type="text" id="f-dep-nome" placeholder="Buscar por nome..." style="width:220px" oninput="onDepNomeInput()" autocomplete="off">
+        <div id="dep-autocomplete" style="
+          display:none;position:absolute;top:100%;left:0;width:320px;
+          background:var(--bg2);border:1px solid var(--border);border-radius:8px;
+          max-height:220px;overflow-y:auto;z-index:999;margin-top:4px;box-shadow:0 8px 24px rgba(0,0,0,0.4)
+        "></div>
+      </div>
+      <button class="btn btn-secondary" onclick="clearDepFiltro()">Limpar</button>
+    `;
+  } else if (panel === 'painel-votacoes') {
+    bar.innerHTML = `
+      <span class="filter-label">Ano:</span>
+      <select id="f-ano-vot" onchange="loadVotacoes()">
+        ${[2025,2024,2023,2022].map(y=>`<option value="${y}">${y}</option>`).join('')}
+      </select>
+    `;
+  }
+}
+
+const UFs = ['AC','AL','AM','AP','BA','CE','DF','ES','GO','MA','MG','MS','MT','PA','PB','PE','PI','PR','RJ','RN','RO','RR','RS','SC','SE','SP','TO'];
+
+// ==================== DEPUTADOS ====================
+async function loadDeputados() {
+  try {
+    document.getElementById('tabela-dep').innerHTML = '<div class="loading"><div class="spinner"></div>Carregando deputados...</div>';
+
+    // Tenta JSON local (GitHub Pages — instantâneo)
+    let data = await fetchLocal('data/deputados.json');
+
+    // Fallback: API da Câmara em tempo real
+    if (!data || !data.dados?.length) {
+      document.getElementById('tabela-dep').innerHTML = '<div class="loading"><div class="spinner"></div>Conectando à API da Câmara...</div>';
+      data = await fetchJSON(`${CAMARA}/deputados?itens=513&ordem=ASC&ordenarPor=nome`);
+      // Reconstrói mapa de partidos se veio da API
+      const pm = {};
+      (data.dados || []).forEach(d => { pm[d.siglaPartido || 'SEM PARTIDO'] = (pm[d.siglaPartido||'SEM PARTIDO']||0)+1; });
+      data.partidoMap = pm;
+    }
+
+    state.deputados  = data.dados || [];
+    state.partidoMap = data.partidoMap || {};
+
+    renderDeputados();
+    renderStatsDeputados();
+    renderChartPartidos();
+    populatePartidoFilter();
+    mostrarUltimaAtualizacao();
+  } catch(e) {
+    document.getElementById('tabela-dep').innerHTML = `<div class="error-msg">Erro ao carregar: ${e.message}<br>A API da Câmara pode estar temporariamente indisponível.</div>`;
+  }
+}
+
+// Exibe o timestamp da última atualização automática no header
+async function mostrarUltimaAtualizacao() {
+  try {
+    const meta = await fetchLocal('data/meta.json');
+    if (meta?.atualizado_em) {
+      const el = document.getElementById('last-update');
+      if (el) el.textContent = 'Atualizado em: ' + meta.atualizado_em;
+    }
+  } catch { /* silencioso */ }
+}
+
+function renderStatsDeputados() {
+  const d = state.deputados;
+  const partidos = Object.keys(state.partidoMap).length;
+  const ufs = [...new Set(d.map(x=>x.siglaUf))].length;
+  const maior = Object.entries(state.partidoMap).sort((a,b)=>b[1]-a[1])[0];
+  // Stats gerais ficam no painel de deputados
+  document.getElementById('stats-dep').innerHTML = `
+    <div class="stat-card"><div class="stat-label">Total de Deputados</div><div class="stat-value accent-verde">${d.length}</div><div class="stat-sub">Câmara dos Deputados</div></div>
+    <div class="stat-card"><div class="stat-label">Partidos</div><div class="stat-value accent-amarelo">${partidos}</div><div class="stat-sub">Com representação</div></div>
+    <div class="stat-card"><div class="stat-label">Estados (UFs)</div><div class="stat-value accent-azul">${ufs}</div><div class="stat-sub">Representados</div></div>
+    <div class="stat-card"><div class="stat-label">Maior Bancada</div>
+      <div class="stat-value accent-vermelho">${maior?.[0]||'–'}</div>
+      <div class="stat-sub">${maior?.[1]||0} deputados</div></div>
+    <div class="stat-card" style="cursor:pointer;border-style:dashed;opacity:0.7" onclick="document.querySelector('.tab.active').click()">
+      <div class="stat-label">Detalhar Deputado</div>
+      <div class="stat-value" style="font-size:1.3rem">👆</div>
+      <div class="stat-sub">Clique em uma linha da tabela</div>
+    </div>
+  `;
+  // Mesmos cards também na aba de partidos
+  const sp = document.getElementById('stats-partidos');
+  if (sp) sp.innerHTML = `
+    <div class="stat-card"><div class="stat-label">Total de Deputados</div><div class="stat-value accent-verde">${d.length}</div><div class="stat-sub">Câmara dos Deputados</div></div>
+    <div class="stat-card"><div class="stat-label">Partidos</div><div class="stat-value accent-amarelo">${partidos}</div><div class="stat-sub">Com representação</div></div>
+    <div class="stat-card"><div class="stat-label">Estados (UFs)</div><div class="stat-value accent-azul">${ufs}</div><div class="stat-sub">Representados</div></div>
+    <div class="stat-card"><div class="stat-label">Maior Bancada</div>
+      <div class="stat-value accent-vermelho">${maior?.[0]||'–'}</div>
+      <div class="stat-sub">${maior?.[1]||0} deputados</div></div>
+  `;
+}
+
+function applyDepFilter() {
+  state.filterUF = document.getElementById('f-uf')?.value || '';
+  state.filterPartido = document.getElementById('f-partido')?.value || '';
+  state.filterNome = document.getElementById('f-nome')?.value?.toLowerCase() || '';
+  state.pagDep = 1;
+  renderDeputados();
+
+  // Recalcula o mapa de partidos com base nos deputados filtrados
+  let depsFiltrados = state.deputados;
+  if (state.filterUF) depsFiltrados = depsFiltrados.filter(d => d.siglaUf === state.filterUF);
+  if (state.filterPartido) depsFiltrados = depsFiltrados.filter(d => d.siglaPartido === state.filterPartido);
+  if (state.filterNome) depsFiltrados = depsFiltrados.filter(d => d.nome?.toLowerCase().includes(state.filterNome));
+
+  const partidoCount = {};
+  depsFiltrados.forEach(d => {
+    const s = d.siglaPartido || 'SEM PARTIDO';
+    partidoCount[s] = (partidoCount[s] || 0) + 1;
+  });
+  renderChartPartidos(partidoCount);
+}
+
+function renderDeputados() {
+  let deps = state.deputados;
+  if (state.filterUF) deps = deps.filter(d => d.siglaUf === state.filterUF);
+  if (state.filterPartido) deps = deps.filter(d => d.siglaPartido === state.filterPartido);
+  if (state.filterNome) deps = deps.filter(d => d.nome?.toLowerCase().includes(state.filterNome));
+
+  const total = deps.length;
+  document.getElementById('total-dep-badge').textContent = `${total} deputados`;
+
+  const pageSize = 15;
+  const pages = Math.ceil(total / pageSize);
+  const page = state.pagDep;
+  const slice = deps.slice((page-1)*pageSize, page*pageSize);
+
+  if (!slice.length) {
+    document.getElementById('tabela-dep').innerHTML = '<div class="empty-state">Nenhum deputado encontrado com os filtros aplicados.</div>';
+    document.getElementById('pag-dep').innerHTML = '';
+    return;
+  }
+
+  document.getElementById('tabela-dep').innerHTML = `
+    <div class="table-wrap">
+    <table>
+      <thead><tr>
+        <th>Deputado</th>
+        <th>Partido</th>
+        <th>UF</th>
+        <th>ID</th>
+      </tr></thead>
+      <tbody>
+        ${slice.map(d => `
+          <tr style="cursor:pointer" onclick="abrirDetalheDep(${d.id})">
+            <td>
+              <div class="dep-row">
+                <img class="dep-avatar" src="${d.urlFoto||''}" onerror="this.src=''" alt="">
+                <div>
+                  <div class="dep-name">${d.nome}</div>
+                  <div class="dep-party">${d.email||''}</div>
+                </div>
+              </div>
+            </td>
+            <td><span class="partido-tag" style="border-color:${partyColor(d.siglaPartido)}33;color:${partyColor(d.siglaPartido)}">${d.siglaPartido||'–'}</span></td>
+            <td><span class="tag-uf">${d.siglaUf||'–'}</span></td>
+            <td style="color:var(--muted);font-size:0.65rem">${d.id}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+    </div>
+  `;
+
+  // Paginação
+  const pag = document.getElementById('pag-dep');
+  let btns = '';
+  if (page > 1) btns += `<button class="page-btn" onclick="goPage(${page-1})">‹</button>`;
+  for (let i = Math.max(1,page-2); i <= Math.min(pages,page+2); i++) {
+    btns += `<button class="page-btn ${i===page?'active':''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  if (page < pages) btns += `<button class="page-btn" onclick="goPage(${page+1})">›</button>`;
+  pag.innerHTML = btns;
+}
+
+function goPage(p) {
+  state.pagDep = p;
+  renderDeputados();
+  document.getElementById('painel-deputados').scrollIntoView({behavior:'smooth'});
+}
+
+function populatePartidoFilter() {
+  const sel = document.getElementById('f-partido');
+  if (!sel) return;
+  const partidos = Object.keys(state.partidoMap).sort();
+  sel.innerHTML = `<option value="">Todos os partidos</option>` +
+    partidos.map(p => `<option value="${p}">${p} (${state.partidoMap[p]})</option>`).join('');
+}
+
+function renderChartPartidos(mapaOverride) {
+  const mapa = mapaOverride || state.partidoMap;
+  const sorted = Object.entries(mapa).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  const ctx = document.getElementById('chart-partidos-dep');
+  if (!ctx) return;
+  if (state.chartPartidos) state.chartPartidos.destroy();
+  state.chartPartidos = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: sorted.map(([s])=>s),
+      datasets: [{
+        data: sorted.map(([,n])=>n),
+        backgroundColor: sorted.map(([s])=>partyColor(s)+'cc'),
+        borderColor: sorted.map(([s])=>partyColor(s)),
+        borderWidth: 1,
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: {
+        callbacks: { label: ctx => ` ${ctx.raw} deputados` }
+      }},
+      scales: {
+        x: { ticks: { color: '#6b7a90', font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.04)' } },
+        y: { ticks: { color: '#6b7a90', font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.04)' } }
+      }
+    }
+  });
+}
+
+// ==================== PARTIDOS ====================
+async function loadPartidos() {
+  try {
+    const data = await fetchJSON(`${CAMARA}/partidos?itens=100&ordem=ASC&ordenarPor=sigla`);
+    const partidos = data.dados || [];
+    document.getElementById('total-partidos-badge').textContent = `${partidos.length} partidos`;
+
+    // Tabela
+    document.getElementById('lista-partidos').innerHTML = `
+      <div class="table-wrap">
+      <table>
+        <thead><tr><th>Sigla</th><th>Nome</th><th>Sede</th><th>ID</th></tr></thead>
+        <tbody>
+          ${partidos.map(p=>`
+            <tr>
+              <td><span class="partido-tag" style="color:${partyColor(p.sigla)};border-color:${partyColor(p.sigla)}33">${p.sigla}</span></td>
+              <td>${p.nome}</td>
+              <td style="color:var(--muted);font-size:0.7rem">${p.numeroEleitoral||'–'}</td>
+              <td style="color:var(--muted);font-size:0.65rem">${p.id}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      </div>
+    `;
+
+    // Barras com dados reais de deputados
+    renderBarsPartidos();
+  } catch(e) {
+    document.getElementById('lista-partidos').innerHTML = `<div class="error-msg">Erro: ${e.message}</div>`;
+  }
+}
+
+function renderBarsPartidos() {
+  if (!Object.keys(state.partidoMap).length) {
+    document.getElementById('bars-partidos').innerHTML = '<div class="empty-state">Carregue deputados primeiro.</div>';
+    return;
+  }
+  const sorted = Object.entries(state.partidoMap).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  const max = sorted[0][1];
+  document.getElementById('bars-partidos').innerHTML = `
+    <div class="party-bar-wrap">
+      ${sorted.map(([s,n])=>`
+        <div class="party-row">
+          <div class="party-name" style="color:${partyColor(s)}">${s}</div>
+          <div class="bar-track"><div class="bar-fill" style="width:${(n/max*100).toFixed(1)}%;background:${partyColor(s)}"></div></div>
+          <div class="party-count">${n}</div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+// ==================== VOTAÇÕES ====================
+async function loadVotacoes() {
+  const ano = document.getElementById('f-ano-vot')?.value || 2025;
+  document.getElementById('lista-votacoes').innerHTML = '<div class="loading"><div class="spinner"></div>Buscando votações...</div>';
+  try {
+    // Tenta JSON local pré-gerado (instantâneo, sem CORS)
+    let vots = null;
+    const anoAtual = new Date().getFullYear();
+    if (String(ano) === String(anoAtual)) {
+      const local = await fetchLocal('data/votacoes.json');
+      if (local?.dados?.length) vots = local.dados;
+    }
+    // Fallback: arquivo estático via proxy CORS
+    if (!vots) {
+      const targetUrl = encodeURIComponent(
+        `https://dadosabertos.camara.leg.br/arquivos/votacoes/json/votacoes-${ano}.json`
+      );
+      const r = await fetch(`https://corsproxy.io/?url=${targetUrl}`);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const json = await r.json();
+      vots = Array.isArray(json) ? json : (json.dados || []);
+    }
+    vots = vots.sort((a,b)=>(b.dataHoraRegistro||b.data||'').localeCompare(a.dataHoraRegistro||a.data||'')).slice(0,20);
+
+    if (!vots.length) {
+      document.getElementById('lista-votacoes').innerHTML = '<div class="empty-state">Nenhuma votação encontrada.</div>';
+      return;
+    }
+
+    document.getElementById('lista-votacoes').innerHTML = `
+      <div style="padding:10px 20px">
+        ${vots.map(v=>`
+          <div class="votacao-item">
+            <div class="votacao-title">${v.descricao || v.titulo || 'Votação sem descrição'}</div>
+            <div class="votacao-meta">
+              <span>${new Date(v.dataHoraRegistro||v.data).toLocaleString('pt-BR')}</span>
+              ${v.aprovacao!==undefined ? `<span class="${v.aprovacao?'voto-sim':'voto-nao'}">${v.aprovacao?'✓ Aprovada':'✗ Rejeitada'}</span>` : ''}
+              ${v.siglaOrgao?`<span style="color:var(--azul)">${v.siglaOrgao}</span>`:''}
+              <span style="font-size:0.6rem;color:var(--muted)">#${v.id}</span>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
+    // Chart
+    const aprovadas = vots.filter(v=>v.aprovacao===true||v.aprovacao===1||v.aprovacao==='Sim').length;
+    const rejeitadas = vots.filter(v=>v.aprovacao===false||v.aprovacao===0||String(v.aprovacao).toLowerCase().includes('n')).length;
+    const outras = vots.length - aprovadas - rejeitadas;
+    renderChartVotacoes(aprovadas, rejeitadas, outras);
+  } catch(e) {
+    document.getElementById('lista-votacoes').innerHTML = `<div class="error-msg">Erro: ${e.message}</div>`;
+  }
+}
+
+function renderChartVotacoes(ap, rej, out) {
+  const ctx = document.getElementById('chart-votacoes');
+  if (!ctx) return;
+  if (state.chartVotacoes) state.chartVotacoes.destroy();
+  state.chartVotacoes = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: ['Aprovadas', 'Rejeitadas', 'Outras'],
+      datasets: [{ data: [ap, rej, out],
+        backgroundColor: ['#00c896cc','#ff3b3bcc','#6b7a90cc'],
+        borderColor: ['#00c896','#ff3b3b','#6b7a90'],
+        borderWidth: 1 }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { labels: { color: '#e8edf5', font: { size: 11 } } },
+        tooltip: { callbacks: { label: c => ` ${c.raw} votações` } }
+      }
+    }
+  });
+}
+
+async function loadProposicoes() {
+  document.getElementById('lista-proposicoes').innerHTML = '<div class="loading"><div class="spinner"></div>Buscando proposições...</div>';
+  try {
+    const data = await fetchJSON(`${CAMARA}/proposicoes?ano=2025&itens=20&ordem=DESC&ordenarPor=id&siglaTipo=PL`);
+    const props = data.dados || [];
+    document.getElementById('lista-proposicoes').innerHTML = `
+      <div class="table-wrap">
+      <table>
+        <thead><tr><th>Tipo</th><th>Número</th><th>Ementa</th><th>Ano</th></tr></thead>
+        <tbody>
+          ${props.map(p=>`
+            <tr>
+              <td><span class="partido-tag">${p.siglaTipo}</span></td>
+              <td style="color:var(--verde)">${p.numero}</td>
+              <td style="max-width:300px;white-space:normal;font-size:0.7rem;line-height:1.4">${(p.ementa||'').slice(0,120)}${p.ementa?.length>120?'…':''}</td>
+              <td style="color:var(--muted)">${p.ano}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      </div>
+    `;
+  } catch(e) {
+    document.getElementById('lista-proposicoes').innerHTML = `<div class="error-msg">Erro: ${e.message}</div>`;
+  }
+}
+
+// ==================== DESPESAS ====================
+// Estado do deputado selecionado para despesas
+state.depSelecionado = null;
+
+function onDepNomeInput() {
+  const q = document.getElementById('f-dep-nome')?.value?.toLowerCase().trim() || '';
+  const box = document.getElementById('dep-autocomplete');
+  if (!box) return;
+  if (q.length < 2) { box.style.display = 'none'; return; }
+
+  const matches = state.deputados
+    .filter(d => d.nome?.toLowerCase().includes(q))
+    .slice(0, 8);
+
+  if (!matches.length) { box.style.display = 'none'; return; }
+
+  box.innerHTML = matches.map(d => `
+    <div class="ac-item" onclick="selecionarDeputado(${d.id}, '${d.nome.replace(/'/g,"\'")}', '${d.siglaPartido}', '${d.siglaUf}')">
+      <img src="${d.urlFoto||''}" onerror="this.style.display='none'" style="width:28px;height:28px;border-radius:50%;object-fit:cover;background:var(--bg3);border:1px solid var(--border);flex-shrink:0">
+      <div>
+        <div class="ac-item-name">${d.nome}</div>
+        <div class="ac-item-sub">${d.siglaPartido} · ${d.siglaUf}</div>
+      </div>
+    </div>
+  `).join('');
+  box.style.display = 'block';
+}
+
+function selecionarDeputado(id, nome, partido, uf) {
+  state.depSelecionado = { id, nome, partido, uf };
+  const input = document.getElementById('f-dep-nome');
+  if (input) input.value = nome;
+  const box = document.getElementById('dep-autocomplete');
+  if (box) box.style.display = 'none';
+  loadDespesas();
+}
+
+function clearDepFiltro() {
+  state.depSelecionado = null;
+  const input = document.getElementById('f-dep-nome');
+  if (input) input.value = '';
+  loadDespesas();
+}
+
+// Fecha autocomplete ao clicar fora
+document.addEventListener('click', e => {
+  const box = document.getElementById('dep-autocomplete');
+  if (box && !box.contains(e.target) && e.target.id !== 'f-dep-nome') {
+    box.style.display = 'none';
+  }
+});
+
+async function loadDespesas() {
+  const ano = document.getElementById('f-ano-desp')?.value || new Date().getFullYear();
+  const mes = document.getElementById('f-mes-desp')?.value || '';
+  document.getElementById('badge-desp-ano').textContent = `${ano}${mes ? ` · mês ${mes}` : ''}`;
+  document.getElementById('tabela-despesas').innerHTML = '<div class="loading"><div class="spinner"></div>Carregando despesas...</div>';
+
+  // Usa deputado selecionado ou o primeiro da lista como padrão
+  const dep = state.depSelecionado
+    ? state.deputados.find(d => d.id === state.depSelecionado.id) || state.depSelecionado
+    : state.deputados[0];
+
+  if (!dep) {
+    document.getElementById('tabela-despesas').innerHTML = '<div class="empty-state">Aguardando carregamento dos deputados...</div>';
+    return;
+  }
+
+  try {
+    let despesas = [];
+    if (mes) {
+      // Mês específico: busca direta
+      const data = await fetchJSON(`${CAMARA}/deputados/${dep.id}/despesas?ano=${ano}&mes=${mes}&itens=200`);
+      despesas = data.dados || [];
+    } else {
+      // Ano inteiro: busca mês a mês e concatena para pegar tudo
+      const meses = [1,2,3,4,5,6,7,8,9,10,11,12];
+      const resultados = await Promise.all(
+        meses.map(m => fetchJSON(`${CAMARA}/deputados/${dep.id}/despesas?ano=${ano}&mes=${m}&itens=200`)
+          .then(r => r.dados || []).catch(() => []))
+      );
+      despesas = resultados.flat();
+    }
+
+    if (!despesas.length) {
+      document.getElementById('tabela-despesas').innerHTML = '<div class="empty-state">Sem despesas registradas para este período.</div>';
+      document.getElementById('stats-desp').innerHTML = '';
+      return;
+    }
+
+    const total = despesas.reduce((s, d) => s + (d.valorDocumento || 0), 0);
+    const maior = Math.max(...despesas.map(d => d.valorDocumento || 0));
+
+    document.getElementById('stats-desp').innerHTML = `
+      <div class="stat-card">
+        <div class="stat-label">Deputado</div>
+        <div class="stat-value" style="font-size:1rem;line-height:1.2">${dep.nome}</div>
+        <div class="stat-sub">${dep.siglaPartido||dep.partido||'–'} · ${dep.siglaUf||dep.uf||'–'}</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Total no Período</div>
+        <div class="stat-value accent-amarelo">${fmt(total)}</div>
+        <div class="stat-sub">${despesas.length} lançamentos</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Maior Gasto</div>
+        <div class="stat-value accent-vermelho">${fmt(maior)}</div>
+      </div>
+    `;
+
+    document.getElementById('tabela-despesas').innerHTML = `
+      <div class="table-wrap">
+      <table>
+        <thead><tr><th>Tipo</th><th>Fornecedor</th><th>Data</th><th>Valor</th><th>Doc</th></tr></thead>
+        <tbody>
+          ${despesas.map(d => `
+            <tr>
+              <td style="max-width:150px;white-space:normal;font-size:0.68rem">${d.tipoDespesa || '–'}</td>
+              <td style="color:var(--text)">${(d.nomeFornecedor || '–').slice(0, 35)}</td>
+              <td style="color:var(--muted)">${d.dataDocumento || '–'}</td>
+              <td style="color:${(d.valorDocumento || 0) > 5000 ? 'var(--vermelho)' : 'var(--verde)'};font-weight:600">${fmt(d.valorDocumento)}</td>
+              <td style="color:var(--muted);font-size:0.65rem">${d.numDocumento || '–'}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      </div>
+    `;
+
+    renderChartTipoDespesa(despesas);
+  } catch(e) {
+    document.getElementById('tabela-despesas').innerHTML = `<div class="error-msg">Erro: ${e.message}</div>`;
+  }
+}
+
+function renderChartTipoDespesa(despesas) {
+  const tipos = {};
+  despesas.forEach(d => {
+    const t = d.tipoDespesa || 'Outros';
+    tipos[t] = (tipos[t]||0) + (d.valorDocumento||0);
+  });
+  const sorted = Object.entries(tipos).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const ctx = document.getElementById('chart-tipo-despesa');
+  if (!ctx) return;
+  if (state.chartTipoDespesa) state.chartTipoDespesa.destroy();
+  const colors = ['#00c896','#f5c400','#1a6bff','#ff3b3b','#9b59b6','#e67e22','#1abc9c','#e74c3c'];
+  state.chartTipoDespesa = new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: sorted.map(([t])=>t.slice(0,30)),
+      datasets: [{ data: sorted.map(([,v])=>v),
+        backgroundColor: colors.map(c=>c+'cc'), borderColor: colors, borderWidth: 1 }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { position: 'right', labels: { color: '#e8edf5', font: { size: 9 }, boxWidth: 12 } },
+        tooltip: { callbacks: { label: c => ` ${fmt(c.raw)}` } }
+      }
+    }
+  });
+}
+
+// ==================== SENADO ====================
+async function loadSenadores() {
+  document.getElementById('lista-senadores').innerHTML = '<div class="loading"><div class="spinner"></div>Buscando senadores...</div>';
+  try {
+    // Tenta JSON local pré-gerado (instantâneo, sem CORS)
+    let lista = null;
+    const localSen = await fetchLocal('data/senadores.json');
+    if (localSen?.dados?.length) {
+      lista = localSen.dados.map(s => ({
+        IdentificacaoParlamentar: {
+          NomeParlamentar:          s.nome,
+          SiglaPartidoParlamentar:  s.partido,
+          UfParlamentar:            s.uf,
+          UrlFotoParlamentar:       s.foto,
+        }
+      }));
+    }
+    // Fallback: API do Senado via proxy CORS
+    if (!lista) {
+      const senUrl = encodeURIComponent(`${SENADO_API}/senador/lista/atual.json`);
+      const senR = await fetch(`https://corsproxy.io/?url=${senUrl}`, { headers: { 'Accept': 'application/json' } });
+      if (!senR.ok) throw new Error(`HTTP ${senR.status}`);
+      const data = await senR.json();
+      lista = data?.ListaParlamentarEmExercicio?.Parlamentares?.Parlamentar || [];
+    }
+
+    document.getElementById('total-senadores-badge').textContent = `${lista.length} senadores`;
+
+    const totalByPartido = {};
+    lista.forEach(s => {
+      const p = s.IdentificacaoParlamentar?.SiglaPartidoParlamentar || '–';
+      totalByPartido[p] = (totalByPartido[p]||0)+1;
+    });
+
+    document.getElementById('stats-sen').innerHTML = `
+      <div class="stat-card"><div class="stat-label">Total</div><div class="stat-value accent-verde">${lista.length}</div><div class="stat-sub">Em exercício</div></div>
+      <div class="stat-card"><div class="stat-label">Partidos</div><div class="stat-value accent-amarelo">${Object.keys(totalByPartido).length}</div></div>
+      <div class="stat-card"><div class="stat-label">Maior bancada</div><div class="stat-value accent-azul">${Object.entries(totalByPartido).sort((a,b)=>b[1]-a[1])[0]?.[0]||'–'}</div><div class="stat-sub">${Object.entries(totalByPartido).sort((a,b)=>b[1]-a[1])[0]?.[1]||0} senadores</div></div>
+    `;
+
+    document.getElementById('lista-senadores').innerHTML = `
+      <div class="senador-grid" style="padding:20px">
+        ${lista.map(s => {
+          const id = s.IdentificacaoParlamentar;
+          const nome = id?.NomeParlamentar || id?.NomeCompletoParlamentar || '–';
+          const partido = id?.SiglaPartidoParlamentar || '–';
+          const uf = id?.UfParlamentar || '–';
+          const foto = id?.UrlFotoParlamentar || '';
+          return `
+            <div class="senador-card">
+              <img class="senador-foto" src="${foto}" onerror="this.style.display='none'" alt="">
+              <div class="senador-nome">${nome}</div>
+              <div class="senador-uf">
+                <span class="partido-tag" style="color:${partyColor(partido)};margin-right:4px;font-size:0.58rem">${partido}</span>
+                <span class="tag-uf" style="font-size:0.58rem">${uf}</span>
+              </div>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    `;
+  } catch(e) {
+    document.getElementById('lista-senadores').innerHTML = `<div class="error-msg">Erro ao acessar API do Senado: ${e.message}<br>Verifique o CORS ou tente novamente.</div>`;
+  }
+}
+
+// ==================== DETALHE DO DEPUTADO ====================
+
+// Calcula dias úteis entre duas datas (seg–sex)
+function diasUteis(inicio, fim) {
+  let count = 0;
+  const d = new Date(inicio);
+  while (d <= fim) {
+    const dow = d.getDay();
+    if (dow !== 0 && dow !== 6) count++;
+    d.setDate(d.getDate() + 1);
+  }
+  return count;
+}
+
+// ── UTILITÁRIOS DE CONTROLE DE CONCORRÊNCIA E RETRY ─────────────────────────
+
+// Pausa a execução por `ms` milissegundos
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// Fetch com retry automático em caso de 429 (rate limit) ou erro de rede.
+// Aguarda `delay` ms antes de cada retry, dobrando o tempo a cada tentativa.
+async function fetchComRetry(url, tentativas = 3, delay = 800) {
+  for (let t = 0; t < tentativas; t++) {
+    try {
+      const r = await fetch(url, { headers: { Accept: 'application/json' } });
+      if (r.status === 429) {
+        // Rate limit: aguarda e tenta novamente
+        await sleep(delay * Math.pow(2, t)); // 800ms, 1600ms, 3200ms
+        continue;
+      }
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return await r.json();
+    } catch(e) {
+      if (t === tentativas - 1) throw e; // última tentativa: propaga o erro
+      await sleep(delay * Math.pow(2, t));
+    }
+  }
+}
+
+// Executa promises com no máximo `limit` simultâneas + delay entre lotes
+// para respeitar o rate limit da API da Câmara (~10 req/s)
+async function poolAll(tasks, limit = 4) {
+  const results = new Array(tasks.length);
+  let i = 0;
+  async function worker() {
+    while (i < tasks.length) {
+      const idx = i++;
+      results[idx] = await tasks[idx]();
+      // Pequena pausa entre requests do mesmo worker para não sobrecarregar
+      if (i < tasks.length) await sleep(50);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, tasks.length) }, worker));
+  return results;
+}
+
+// ── PROPOSIÇÕES ─────────────────────────────────────────────────────────────
+// API REST pura — sem arquivos estáticos (causam CORS + timeout no browser).
+
+const TIPOS_PL = ['PL','PLP','PEC','PDC','PRC'];
+
+// Conta todas as proposições de autoria de um deputado num ano (todos os tipos).
+async function contarTotalProposicoesAno(depId, ano) {
+  let total = 0, pg = 1;
+  try {
+    while (true) {
+      const r = await fetchComRetry(
+        `${CAMARA}/proposicoes?idDeputadoAutor=${depId}&ano=${ano}&itens=100&pagina=${pg}`
+      );
+      const lote = r?.dados || [];
+      total += lote.length;
+      if (!r?.links?.some(l => l.rel === 'next') || lote.length < 100) break;
+      pg++; if (pg > 40) break;
+      await sleep(120);
+    }
+  } catch { /* silencioso */ }
+  return total;
+}
+
+// Conta PLs substantivos (PL, PLP, PEC, PDC, PRC) num ano.
+// 1 req/tipo com itens=1 — lê total do link 'last' (O(1) por tipo).
+async function contarPLsAno(depId, ano) {
+  let total = 0;
+  for (const tipo of TIPOS_PL) {
+    try {
+      const r = await fetchComRetry(
+        `${CAMARA}/proposicoes?idDeputadoAutor=${depId}&ano=${ano}&siglaTipo=${tipo}&itens=1`
+      );
+      const ll = r?.links?.find(l => l.rel === 'last')?.href || '';
+      const mP = ll.match(/[?&]pagina=([0-9]+)/);
+      const mI = ll.match(/[?&]itens=([0-9]+)/);
+      total += (mP && mI) ? parseInt(mP[1]) * parseInt(mI[1]) : (r?.dados?.length || 0);
+      await sleep(80);
+    } catch { /* silencioso */ }
+  }
+  return total;
+}
+
+// Retorna { total, pls } para um ano.
+async function contarProposicoesAno(depId, ano) {
+  const [total, pls] = await Promise.all([
+    contarTotalProposicoesAno(depId, ano),
+    contarPLsAno(depId, ano),
+  ]);
+  return { total, pls };
+}
+
+// Conta aprovadas (codSituacao=1140). Sanity check: 100 na 1ª pág = filtro ignorado.
+async function contarProposicoesAprovadas(depId) {
+  let total = 0, pg = 1;
+  try {
+    while (true) {
+      const r = await fetchComRetry(
+        `${CAMARA}/proposicoes?idDeputadoAutor=${depId}&codSituacao=1140&itens=100&pagina=${pg}`
+      );
+      const lote = r?.dados || [];
+      if (pg === 1 && lote.length === 100) return 0; // API ignorou filtro
+      total += lote.length;
+      if (!r?.links?.some(l => l.rel === 'next') || lote.length < 100) break;
+      pg++; if (pg > 5) break;
+      await sleep(200);
+    }
+  } catch { /* silencioso */ }
+  return total;
+}
+
+function loadingCard(label) {
+  return `<div class="stat-card"><div class="stat-label">${label}</div><div class="loading" style="padding:8px 0"><div class="spinner" style="width:18px;height:18px;border-width:2px"></div></div></div>`;
+}
+
+async function abrirDetalheDep(id) {
+  const dep = state.deputados.find(d => d.id === id);
+  if (!dep) return;
+
+  const section = document.getElementById('dep-detail-section');
+  section.style.display = 'block';
+  section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+  document.getElementById('dep-detail-foto').src = dep.urlFoto || '';
+  document.getElementById('dep-detail-nome').textContent = dep.nome;
+  document.getElementById('dep-detail-sub').textContent = `${dep.siglaPartido} · ${dep.siglaUf} · ID ${dep.id}`;
+
+  const grid = document.getElementById('stats-dep-detail');
+
+  // Limpa indicador de afastamento anterior
+  const oldAlert = document.getElementById('dep-afastamento-alert');
+  if (oldAlert) oldAlert.remove();
+
+  grid.innerHTML = [
+    'Eventos Parlamentares', 'Frequência nos Eventos',
+    'Total de Proposições', 'Projetos de Lei (PL/PLP/PEC)',
+    'Aprovadas (Norma Jurídica)', 'Discursos', 'Gasto Total'
+  ].map(loadingCard).join('');
+
+  // Mandato atual: 57ª legislatura = 01/02/2023 a 31/01/2027
+  const mandatoInicio = new Date('2023-02-01');
+  const mandatoFim    = new Date('2027-01-31');
+  const hoje          = new Date();
+  const fimEfetivo    = hoje < mandatoFim ? hoje : mandatoFim;
+  const anos          = [2023, 2024, 2025, 2026, 2027].filter(a => a <= hoje.getFullYear());
+
+  // ── 1. Dados detalhados do deputado (situação / afastamentos) ──────────────
+  // Tenta carregar detalhe pré-computado (instantâneo)
+  const detalheLocal = await fetchLocal(`data/detalhes/${id}.json`);
+
+  if (detalheLocal?.id) {
+    // ── Dados do cache local ──────────────────────────────────────────────
+    const d = detalheLocal;
+    const dias_uteis      = d.dias_uteis || 0;
+    const dias_afastado   = d.dias_afastado || 0;
+    const dias_ativos     = Math.max(0, dias_uteis - dias_afastado);
+
+    if (d.alerta_afastamento || dias_afastado > 0) {
+      const alertDiv = document.createElement('div');
+      alertDiv.id = 'dep-afastamento-alert';
+      alertDiv.style.cssText = 'margin-bottom:14px;padding:10px 16px;border-radius:8px;background:rgba(245,196,0,0.08);border:1px solid rgba(245,196,0,0.25);color:#f5c400;font-size:0.72rem;display:flex;align-items:center;gap:10px';
+      alertDiv.innerHTML = `<span style="font-size:1.1rem">⚠️</span><div><strong>Indicador de Afastamento:</strong> ${d.alerta_afastamento || 'Período de licença detectado'} ${dias_afastado > 0 ? ` · <strong>${dias_afastado} dias úteis</strong> descontados` : ''}</div>`;
+      grid.parentNode.insertBefore(alertDiv, grid);
+    }
+
+    const fmtN0 = n => (n == null) ? '–' : Number(n).toLocaleString('pt-BR');
+    const totalEventos  = d.presenca?.total_eventos || 0;
+    const totalPresente = d.presenca?.presente || 0;
+    const taxaFreq = totalEventos > 0 ? Math.min(100, Math.round((totalPresente/totalEventos)*100)) : null;
+    const corFreq  = taxaFreq === null ? 'var(--muted)' : taxaFreq >= 75 ? 'var(--verde)' : taxaFreq >= 50 ? 'var(--amarelo)' : 'var(--vermelho)';
+    const anos     = [2023,2024,2025,2026];
+
+    grid.innerHTML = `
+      <div class="stat-card">
+        <div class="stat-label">Eventos Parlamentares</div>
+        <div class="stat-value accent-azul">${fmtN0(totalEventos)}</div>
+        <div class="stat-sub">Plenário + Comissões · 2023–2026</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Frequência nos Eventos</div>
+        <div class="stat-value" style="color:${corFreq}">${fmtN0(totalPresente)}</div>
+        <div class="stat-sub">${taxaFreq !== null ? `<span style="color:${corFreq};font-weight:600">${taxaFreq}% de presença</span>` : 'Dados não disponíveis'} · Plenário e Comissões</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Total de Proposições</div>
+        <div class="stat-value accent-verde">${fmtN0(d.proposicoes?.total)}</div>
+        <div class="stat-sub">Todos os tipos de autoria · 2023–2026<br><span style="opacity:.7;font-size:.65rem">PL, PEC, REQ, INC, EMC e outros</span></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Projetos de Lei (PL/PLP/PEC)</div>
+        <div class="stat-value accent-verde">${fmtN0(d.proposicoes?.pls)}</div>
+        <div class="stat-sub">Proposições substantivas · 2023–2026<br><span style="opacity:.7;font-size:.65rem">PL · PLP · PEC · PDC · PRC</span></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Aprovadas (Norma Jurídica)</div>
+        <div class="stat-value accent-verde">${fmtN0(d.aprovadas)}</div>
+        <div class="stat-sub">Cod. 1140 · 2023–2026</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Discursos</div>
+        <div class="stat-value accent-azul">${fmtN0(d.discursos)}</div>
+        <div class="stat-sub">Pronunciamentos registrados · 2023–2026</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Gasto Total no Mandato</div>
+        <div class="stat-value accent-amarelo" style="font-size:${d.gasto_total > 1e6 ? '1rem' : '1.3rem'}">${d.gasto_total ? fmt(d.gasto_total) : '–'}</div>
+        <div class="stat-sub">Cota parlamentar (CEAP) · 2023–2026<br><span style="opacity:.7;font-size:.65rem">Atualizado em: ${d.atualizado_em?.slice(0,10) || '–'}</span></div>
+      </div>
+    `;
+    return; // dados locais renderizados, sem chamadas à API
+  }
+
+  // ── Fallback: busca em tempo real (quando detalhe local não existe) ────────
+  const [detalhesRes, mandatosRes] = await Promise.allSettled([
+    fetchComRetry(`${CAMARA}/deputados/${id}`),
+    fetchComRetry(`${CAMARA}/deputados/${id}/mandatos`),
+  ]);
+
+  // Detectar afastamentos / licenças
+  let diasAfastado = 0;
+  let alertaAfastamento = '';
+  if (mandatosRes.status === 'fulfilled') {
+    const mandatos = mandatosRes.value.dados || [];
+    mandatos.forEach(m => {
+      if (m.situacaoNaData && /licen|afasta|suspens/i.test(m.situacaoNaData)) {
+        const ini = new Date(m.dataInicio || mandatoInicio);
+        const fim = m.dataFim ? new Date(m.dataFim) : fimEfetivo;
+        diasAfastado += diasUteis(ini, fim);
+        alertaAfastamento = m.situacaoNaData;
+      }
+    });
+  }
+  // Fallback: verificar campo situacao nos detalhes
+  if (!alertaAfastamento && detalhesRes.status === 'fulfilled') {
+    const sit = detalhesRes.value.dados?.ultimoStatus?.situacao || '';
+    if (/licen|afasta|suspens/i.test(sit)) alertaAfastamento = sit;
+  }
+
+  // Dias úteis totais do mandato até hoje (descontando afastamentos)
+  const diasUteisTotais   = diasUteis(mandatoInicio, fimEfetivo);
+  const diasUteisAtivos   = Math.max(0, diasUteisTotais - diasAfastado);
+
+  // Mostrar alerta de afastamento se houver
+  if (alertaAfastamento || diasAfastado > 0) {
+    const alertDiv = document.createElement('div');
+    alertDiv.id = 'dep-afastamento-alert';
+    alertDiv.style.cssText = 'margin-bottom:14px;padding:10px 16px;border-radius:8px;background:rgba(245,196,0,0.08);border:1px solid rgba(245,196,0,0.25);color:#f5c400;font-size:0.72rem;display:flex;align-items:center;gap:10px';
+    alertDiv.innerHTML = `
+      <span style="font-size:1.1rem">⚠️</span>
+      <div>
+        <strong>Indicador de Afastamento:</strong> ${alertaAfastamento || 'Período de licença/afastamento detectado'}
+        ${diasAfastado > 0 ? ` · <strong>${diasAfastado} dias úteis</strong> descontados do cômputo de presença` : ''}
+        <div style="margin-top:3px;opacity:0.8">Os indicadores de presença consideram apenas o período em que o deputado estava em exercício.</div>
+      </div>
+    `;
+    grid.parentNode.insertBefore(alertDiv, grid);
+  }
+
+  // ── 2. Busca principal: proposições, presença, discursos, despesas ──────────
+
+  let gastoTotalCalc = 0;
+
+  // Discursos: paginação real no período completo
+  async function totalDiscursosDeputado() {
+    let total = 0;
+    try {
+      const base = `${CAMARA}/deputados/${id}/discursos?dataInicio=${anos[0]}-01-01&dataFim=${anos[anos.length-1]}-12-31&itens=100`;
+      const primeira = await fetchComRetry(`${base}&pagina=1`);
+      const lote1 = primeira?.dados || [];
+      total += lote1.length;
+      if (lote1.length < 100) return total;
+      const mPag = primeira?.links?.find(l=>l.rel==='last')?.href?.match(/[?&]pagina=([0-9]+)/);
+      const ultima = mPag ? Math.min(parseInt(mPag[1]), 20) : 5;
+      const tasks = [];
+      for (let p = 2; p <= ultima; p++) {
+        const pg = p;
+        tasks.push(() => fetchComRetry(`${base}&pagina=${pg}`).then(r=>(r?.dados||[]).length).catch(()=>0));
+      }
+      total += (await poolAll(tasks, 4)).reduce((a,b)=>a+b,0);
+    } catch { /* silencioso */ }
+    return total;
+  }
+
+  // Presença em eventos via API REST (plenário + comissões)
+  async function buscarPresencaEventos() {
+    let totalEventos = 0, totalPresente = 0;
+    try {
+      for (const ano of anos) {
+        let pg = 1;
+        while (true) {
+          const r = await fetchComRetry(
+            `${CAMARA}/deputados/${id}/eventos?dataInicio=${ano}-01-01&dataFim=${ano}-12-31&itens=200&pagina=${pg}`
+          );
+          const lote = r?.dados || [];
+          totalEventos  += lote.length;
+          totalPresente += lote.filter(e => {
+            const f = (e.frequenciaDeputado || '').toUpperCase();
+            return f === 'P' || f === '';
+          }).length;
+          if (!r?.links?.some(l => l.rel === 'next') || lote.length < 200) break;
+          pg++; if (pg > 10) break;
+          await sleep(100);
+        }
+        await sleep(80);
+      }
+    } catch { /* silencioso */ }
+    return { totalEventos, totalPresente };
+  }
+
+  // Despesas: pool de 4 simultâneos
+  const mesesList = anos.flatMap(a =>
+    [1,2,3,4,5,6,7,8,9,10,11,12].map(m => ({ a, m }))
+  );
+  const despTasks = mesesList.map(({ a, m }) => async () => {
+    try {
+      const r = await fetchComRetry(`${CAMARA}/deputados/${id}/despesas?ano=${a}&mes=${m}&itens=200`);
+      const lote = r?.dados || [];
+      return { gasto: lote.reduce((s,d) => s+(d.valorDocumento||0), 0), temDados: lote.length > 0 };
+    } catch { return { gasto: 0, temDados: false }; }
+  });
+
+  // ── EXECUÇÃO ──────────────────────────────────────────────────────────────
+  // Proposições por ano: sequencial para não saturar a API
+  const propTotalPorAno = [], propPLsPorAno = [];
+  for (const a of anos) {
+    const { total, pls } = await contarProposicoesAno(id, a);
+    propTotalPorAno.push(total);
+    propPLsPorAno.push(pls);
+    await sleep(100);
+  }
+
+  // Aprovadas, discursos, presença e despesas em paralelo
+  const [aprovTotal, discTotal, presencaRes, despResultados] = await Promise.all([
+    contarProposicoesAprovadas(id),
+    totalDiscursosDeputado(),
+    buscarPresencaEventos(),
+    poolAll(despTasks, 4),
+  ]);
+
+  despResultados.forEach(({ gasto, temDados }) => {
+    if (temDados) gastoTotalCalc += gasto;
+  });
+
+  // ── RESULTADOS ────────────────────────────────────────────────────────────
+  const totalPropAll = propTotalPorAno.reduce((a,b)=>a+b, 0);
+  const totalPropPLs = propPLsPorAno.reduce((a,b)=>a+b, 0);
+  const { totalEventos, totalPresente } = presencaRes;
+  const gastoTotal = gastoTotalCalc > 0 ? gastoTotalCalc : null;
+
+  const taxaFreq = totalEventos > 0
+    ? Math.min(100, Math.round((totalPresente / totalEventos) * 100))
+    : null;
+  const corFreq = taxaFreq === null ? 'var(--muted)'
+    : taxaFreq >= 75 ? 'var(--verde)'
+    : taxaFreq >= 50 ? 'var(--amarelo)'
+    : 'var(--vermelho)';
+
+  const fmtN0 = n => (n == null) ? '–' : Number(n).toLocaleString('pt-BR');
+
+  grid.innerHTML = `
+    <div class="stat-card">
+      <div class="stat-label">Eventos Parlamentares</div>
+      <div class="stat-value accent-azul">${fmtN0(totalEventos)}</div>
+      <div class="stat-sub">Plenário + Comissões · ${anos[0]}–${anos[anos.length-1]}</div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Frequência nos Eventos</div>
+      <div class="stat-value" style="color:${corFreq}">${fmtN0(totalPresente)}</div>
+      <div class="stat-sub">
+        ${taxaFreq !== null
+          ? `<span style="color:${corFreq};font-weight:600">${taxaFreq}% de presença</span>`
+          : 'Dados não disponíveis'}
+        · Plenário e Comissões
+      </div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Total de Proposições</div>
+      <div class="stat-value accent-verde">${fmtN0(totalPropAll)}</div>
+      <div class="stat-sub">
+        Todos os tipos de autoria · ${anos[0]}–${anos[anos.length-1]}
+        <br><span style="opacity:.7;font-size:.65rem">PL, PEC, REQ, INC, EMC e outros</span>
+      </div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Projetos de Lei (PL/PLP/PEC)</div>
+      <div class="stat-value accent-verde">${fmtN0(totalPropPLs)}</div>
+      <div class="stat-sub">
+        Proposições substantivas · ${anos[0]}–${anos[anos.length-1]}
+        <br><span style="opacity:.7;font-size:.65rem">PL · PLP · PEC · PDC · PRC</span>
+      </div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Aprovadas (Norma Jurídica)</div>
+      <div class="stat-value accent-verde">${fmtN0(aprovTotal)}</div>
+      <div class="stat-sub">Cod. 1140 · ${anos[0]}–${anos[anos.length-1]}</div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Discursos</div>
+      <div class="stat-value accent-azul">${fmtN0(discTotal)}</div>
+      <div class="stat-sub">Pronunciamentos registrados · ${anos[0]}–${anos[anos.length-1]}</div>
+    </div>
+
+    <div class="stat-card">
+      <div class="stat-label">Gasto Total no Mandato</div>
+      <div class="stat-value accent-amarelo" style="font-size:${gastoTotal && gastoTotal > 1e6 ? '1rem' : '1.3rem'}">${gastoTotal !== null ? fmt(gastoTotal) : '–'}</div>
+      <div class="stat-sub">Cota parlamentar (CEAP) · ${anos[0]}–${anos[anos.length-1]}</div>
+    </div>
+  `;
+
+function fecharDetalheDep() {
+  const section = document.getElementById('dep-detail-section');
+  if (section) section.style.display = 'none';
+  const alert = document.getElementById('dep-afastamento-alert');
+  if (alert) alert.remove();
+}
+
+// ==================== INIT ====================
+updateFilters('painel-deputados');
+
+(async () => {
+  await loadDeputados();
+  loadPartidos();
+  loadVotacoes();
+  loadProposicoes();
+  loadDespesas();
+  loadSenadores();
+})();
+</script>
+</body>
+</html>
