@@ -1,0 +1,72 @@
+name: Atualizar Dados Políticos
+
+on:
+  # Roda todos os dias às 3:30 AM (horário de Brasília = 06:30 UTC)
+  schedule:
+    - cron: '30 6 * * *'
+
+  # Permite rodar manualmente pelo painel do GitHub Actions
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'Modo de coleta'
+        required: true
+        default: 'base'
+        type: choice
+        options:
+          - base       # Lista de deputados + votações + senadores (rápido ~2 min)
+          - completo   # Tudo + detalhe de todos os 513 deputados (lento ~3-4h)
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240  # 4 horas máximo para o modo completo
+
+    steps:
+      # ── 1. Baixa o repositório ───────────────────────────────────────────────
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      # ── 2. Configura Python 3.11 ─────────────────────────────────────────────
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Instala dependências ───────────────────────────────────────────────
+      - name: Instalar dependências
+        run: pip install requests
+
+      # ── 4. Executa o coletor (modo base — rápido, roda todo dia) ─────────────
+      - name: Coletar dados base (deputados, votações, senadores)
+        if: github.event_name == 'schedule' || inputs.modo == 'base'
+        run: python coletar_dados.py --lista
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      # ── 5. Executa coleta completa (só quando solicitado manualmente) ─────────
+      - name: Coletar detalhes de todos os deputados
+        if: inputs.modo == 'completo'
+        run: python coletar_dados.py --todos
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      # ── 6. Copia o HTML para a pasta docs (GitHub Pages serve de /docs) ───────
+      - name: Copiar HTML para docs/
+        run: |
+          mkdir -p docs/data/detalhes
+          cp index.html docs/index.html
+          cp -r data/* docs/data/
+          echo "Arquivos gerados:"
+          ls -lh docs/data/
+
+      # ── 7. Faz commit e push dos dados atualizados ────────────────────────────
+      - name: Commit e push dos dados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ docs/index.html
+          # Só faz commit se houver mudanças
+          git diff --staged --quiet || git commit -m "chore: atualizar dados $(date -u '+%d/%m/%Y %H:%M UTC')"
+          git push
