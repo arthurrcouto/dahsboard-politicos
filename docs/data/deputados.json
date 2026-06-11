@@ -4137,17 +4137,6 @@
       "email": "dep.otonidepaula@camara.leg.br"
     },
     {
-      "id": 220706,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220706",
-      "nome": "Padovani",
-      "siglaPartido": "PP",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-      "siglaUf": "PR",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
-      "email": "dep.padovani@camara.leg.br"
-    },
-    {
       "id": 160556,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
       "nome": "Padre João",
@@ -5039,6 +5028,17 @@
       "email": "dep.sandroalex@camara.leg.br"
     },
     {
+      "id": 236518,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/236518",
+      "nome": "Santin Roveda",
+      "siglaPartido": "UNIÃO",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+      "siglaUf": "PR",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/236518.jpg",
+      "email": "dep.santinroveda@camara.leg.br"
+    },
+    {
       "id": 204387,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204387",
       "nome": "Sargento Fahur",
@@ -5369,6 +5369,17 @@
       "email": "dep.tuliogadelha@camara.leg.br"
     },
     {
+      "id": 236423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/236423",
+      "nome": "Valdir Trindade",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "PB",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/236423.jpg",
+      "email": "dep.valdirtrindade@camara.leg.br"
+    },
+    {
       "id": 160610,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160610",
       "nome": "Valmir Assunção",
@@ -5638,12 +5649,12 @@
     "PL": 97,
     "PSDB": 18,
     "NOVO": 5,
-    "PP": 47,
+    "PP": 46,
     "PT": 65,
     "PDT": 9,
-    "REPUBLICANOS": 42,
+    "REPUBLICANOS": 43,
     "CIDADANIA": 2,
-    "UNIÃO": 51,
+    "UNIÃO": 52,
     "PCdoB": 11,
     "PV": 6,
     "REDE": 4,
