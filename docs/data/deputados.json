@@ -1508,6 +1508,17 @@
       "email": "dep.denisepessoa@camara.leg.br"
     },
     {
+      "id": 220689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220689",
+      "nome": "Detinha",
+      "siglaPartido": "PL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+      "siglaUf": "MA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
+      "email": "dep.detinha@camara.leg.br"
+    },
+    {
       "id": 160588,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160588",
       "nome": "Diego Andrade",
@@ -2960,6 +2971,17 @@
       "email": "dep.josenildo@camara.leg.br"
     },
     {
+      "id": 204563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204563",
+      "nome": "Josimar Maranhãozinho",
+      "siglaPartido": "PL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+      "siglaUf": "MA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204563.jpg",
+      "email": "dep.josimarmaranhaozinho@camara.leg.br"
+    },
+    {
       "id": 215043,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215043",
       "nome": "Josivaldo JP",
@@ -4335,17 +4357,6 @@
       "email": "dep.paulomagalhaes@camara.leg.br"
     },
     {
-      "id": 128760,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760",
-      "nome": "Paulo Marinho Jr",
-      "siglaPartido": "PL",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-      "siglaUf": "MA",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/128760.jpg",
-      "email": "dep.paulomarinhojr@camara.leg.br"
-    },
-    {
       "id": 74400,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74400",
       "nome": "Paulo Pimenta",
@@ -5147,17 +5158,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
       "email": "dep.silviacristina@camara.leg.br"
-    },
-    {
-      "id": 227310,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227310",
-      "nome": "Silvio Antonio",
-      "siglaPartido": "PL",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-      "siglaUf": "MA",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227310.jpg",
-      "email": "dep.silvioantonio@camara.leg.br"
     },
     {
       "id": 204425,

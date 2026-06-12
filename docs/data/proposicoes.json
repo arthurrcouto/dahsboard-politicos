@@ -1,6 +1,166 @@
 {
   "dados": [
     {
+      "id": 2632180,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2632180",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3069,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional da Primeira Empresa para estabelecer medidas de incentivo à formalização e ao empreendedorismo por meio da criação de regime jurídico diferenciado para pessoas naturais que constituam sua primeira empresa.",
+      "dataApresentacao": "2026-06-11T18:22"
+    },
+    {
+      "id": 2632104,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2632104",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3068,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, para instituir o procedimento simplificado de recuperação judicial destinado aos devedores de baixo endividamento.",
+      "dataApresentacao": "2026-06-11T17:57"
+    },
+    {
+      "id": 2631987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631987",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3067,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e a Lei nº 11.473, de 10 de maio de 2007, para instituir diretrizes nacionais para as Patrulhas Maria da Penha, baseadas na cooperação federativa e na articulação entre as polícias militares e as guardas municipais para monitorar e fiscalizar o cumprimento de medidas protetivas de urgência, e dá outras providências.",
+      "dataApresentacao": "2026-06-11T17:05"
+    },
+    {
+      "id": 2631841,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631841",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3066,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Modernização Econômica e Simplificação Regulatória, com o objetivo de fortalecer a liberdade econômica, reduzir a burocracia, promover a transformação digital da administração pública, incentivar a inovação, ampliar a segurança jurídica e elevar a competitividade nacional.",
+      "dataApresentacao": "2026-06-11T15:28"
+    },
+    {
+      "id": 2631818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631818",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3065,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o controle sanitário e ético da prescrição, manipulação, dispensação, comercialização e de implantes hormonais no território nacional.",
+      "dataApresentacao": "2026-06-11T14:27"
+    },
+    {
+      "id": 2631800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631800",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3064,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prevenção, detecção, preservação, comunicação, transparência e responsabilização de provedores e plataformas digitais em casos de exploração sexual de crianças e adolescentes no ambiente digital; altera a Lei nº 12.965, de 23 de abril de 2014, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 15.211, de 17 de setembro de 2025; e dá outras providências",
+      "dataApresentacao": "2026-06-11T13:03"
+    },
+    {
+      "id": 2631799,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631799",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3063,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção Integrada da Violência e Proteção Animal e dá outras providências.",
+      "dataApresentacao": "2026-06-11T12:55"
+    },
+    {
+      "id": 2631795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631795",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3062,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Desenvolvimento da Cadeia Produtiva do Amendoim – PROAMENDOIM, e dá outras providências.",
+      "dataApresentacao": "2026-06-11T12:37"
+    },
+    {
+      "id": 2631789,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631789",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3061,
+      "ano": 2026,
+      "ementa": "Institui o Programa Compra Nacional Justa, cria a Devolução de Equivalência Tributária do Varejo Nacional – DET-Varejo Federal, sob a forma de cashback de equivalência ao consumidor, e dá outras providências.",
+      "dataApresentacao": "2026-06-11T12:07"
+    },
+    {
+      "id": 2631787,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631787",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3060,
+      "ano": 2026,
+      "ementa": "Estabelece complementações ao regime nacional de governança da inteligência artificial, em matéria de deveres dos administradores de pessoas jurídicas privadas, tratamento diferenciado das micro, pequenas e médias empresas, soberania jurisdicional dos registros técnicos, tutela reforçada contra discriminação algorítmica e articulação institucional com as profissões reguladas; e dá outras providências.",
+      "dataApresentacao": "2026-06-11T12:00"
+    },
+    {
+      "id": 2631786,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631786",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3059,
+      "ano": 2026,
+      "ementa": "Veda a concessão de graça, indulto, comutação de pena, anistia e perdão judicial, bem como o reconhecimento de perdão do ofendido, em favor de quem pratique crime, doloso ou culposo, contra criança; e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Lei nº 8.072, de 25 de julho de 1990, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "dataApresentacao": "2026-06-11T11:29"
+    },
+    {
+      "id": 2631766,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631766",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3058,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 150, de 1º de junho de 2015, para dispor sobre a extinção do contrato de trabalho doméstico em virtude de morte do empregador.",
+      "dataApresentacao": "2026-06-11T11:27"
+    },
+    {
+      "id": 2631751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631751",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3057,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a inclusão de medicamentos na Relação Nacional de Medicamentos Essenciais (RENAME) e sua oferta gratuita pelo Sistema Único de Saúde (SUS), e dá outras providências.",
+      "dataApresentacao": "2026-06-11T10:52"
+    },
+    {
+      "id": 2631703,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631703",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3047,
+      "ano": 2026,
+      "ementa": "Concede ao Município de Vargem Grande do Sul, no Estado de São Paulo, o título de Capital Nacional da Batata.",
+      "dataApresentacao": "2026-06-10T20:41"
+    },
+    {
+      "id": 2631700,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631700",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3046,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a limitação da funcionalidade de rolagem contínua e automática (infinite scroll) em plataformas digitais e aplicativos de redes sociais, e dá outras providências.",
+      "dataApresentacao": "2026-06-10T20:21"
+    },
+    {
+      "id": 2631699,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631699",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3045,
+      "ano": 2026,
+      "ementa": "Estabelece prazos máximos para a realização de exames e procedimentos diagnósticos no âmbito do Sistema Único de Saúde (SUS), disciplina o aproveitamento de exames realizados na rede privada e dá outras providências.",
+      "dataApresentacao": "2026-06-10T19:35"
+    },
+    {
       "id": 2631653,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631653",
       "siglaTipo": "PL",
@@ -339,166 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a limpeza de pastagem em áreas rurais consolidadas, estabelece critérios objetivos para sua realização, disciplina a autodeclaração ambiental, limita a discricionariedade administrativa e dá outras providências.",
       "dataApresentacao": "2026-06-10T13:17"
-    },
-    {
-      "id": 2631235,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631235",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3001,
-      "ano": 2026,
-      "ementa": "Estabelece a responsabilidade civil e administrativa do poder público por acidentes em rodovias decorrentes de omissão na manutenção ou sinalização, determina a obrigatoriedade de sinalização imediata de risco à segurança viária e dá outras providências.",
-      "dataApresentacao": "2026-06-10T13:11"
-    },
-    {
-      "id": 2631225,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631225",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3000,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Redução de Perdas e Desperdício de Alimentos, estabelece metas obrigatórias, cria mecanismos de doação, reaproveitamento, rastreabilidade e responsabilização, e dá outras providências.",
-      "dataApresentacao": "2026-06-10T13:08"
-    },
-    {
-      "id": 2631222,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631222",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2999,
-      "ano": 2026,
-      "ementa": "Estabelece regras de quarentena para nomeações a Tribunais Superiores e Agências Reguladoras, veda a indicação de agentes com atuação político-partidária recente, limita o poder normativo do Poder Judiciário e reforça o princípio da separação dos Poderes.",
-      "dataApresentacao": "2026-06-10T13:03"
-    },
-    {
-      "id": 2631220,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631220",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2998,
-      "ano": 2026,
-      "ementa": "Institui a Agência Nacional de Regulação de Vestibulares e Seleções – ANRVS estabelece normas para a realização de processos seletivos de acesso ao ensino superior e dá outras providências.",
-      "dataApresentacao": "2026-06-10T12:59"
-    },
-    {
-      "id": 2631218,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631218",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2997,
-      "ano": 2026,
-      "ementa": "Institui o Dia Nacional de Conscientização sobre o Sono e seus Distúrbios Associados, a ser celebrado anualmente no dia 15 de março, e estabelece diretrizes para ações de conscientização, prevenção, diagnóstico, tratamento e cuidado.",
-      "dataApresentacao": "2026-06-10T12:42"
-    },
-    {
-      "id": 2631199,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631199",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2996,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a vedação à concessão de novos financiamentos, garantias, equalizações, subvenções creditícias ou quaisquer modalidades de apoio financeiro com recursos do Banco Nacional de Desenvolvimento Econômico e Social – BNDES a governos estrangeiros, entidades estatais estrangeiras ou empresas por eles controladas que possuam obrigações financeiras vencidas e não quitadas perante a República Federativa do Brasil, suas autarquias, fundações, empresas públicas ou sociedades de economia mista.",
-      "dataApresentacao": "2026-06-10T12:23"
-    },
-    {
-      "id": 2631196,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631196",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2995,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proteção dos consumidores idosos nas operações de crédito consignado e demais modalidades de empréstimo realizadas por instituições financeiras, vedando a contratação automatizada por sistemas de inteligência artificial e exigindo validação presencial para pessoas com idade igual ou superior a 60 (sessenta) anos.",
-      "dataApresentacao": "2026-06-10T12:12"
-    },
-    {
-      "id": 2631188,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631188",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2994,
-      "ano": 2026,
-      "ementa": "Institui o Estatuto Nacional de Proteção Financeira da Pessoa Idosa e dá outras providências.",
-      "dataApresentacao": "2026-06-10T11:48"
-    },
-    {
-      "id": 2631178,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631178",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2993,
-      "ano": 2026,
-      "ementa": "Define normativamente o requisito do “notável saber jurídico”, exigido pela Constituição Federal para a nomeação como Ministros de Tribunais Superiores e como Desembargadores dos Tribunais Regionais e Tribunais de Justiça dos Estados, do Distrito Federal e dos Territórios.",
-      "dataApresentacao": "2026-06-10T11:28"
-    },
-    {
-      "id": 2631177,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631177",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2992,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, a Lei nº 14.129, de 29 de março de 2021, e a Lei nº 13.460, de 26 de junho de 2017, para assegurar à pessoa idosa o acesso facilitado aos serviços públicos, inclusive em meio digital, e estabelecer diretrizes de inclusão digital e de atendimento multicanal.",
-      "dataApresentacao": "2026-06-10T11:27"
-    },
-    {
-      "id": 2631153,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631153",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2990,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional Pet Seguro em Grandes Eventos e Datas de Elevada Sensibilidade Sonora, estabelece medidas de prevenção de fugas, desaparecimentos, acidentes e situações de sofrimento de animais domésticos, cria o Sistema Nacional de Alerta Pet, a Rede Nacional de Apoio Emergencial Animal e dá outras providências.",
-      "dataApresentacao": "2026-06-10T11:08"
-    },
-    {
-      "id": 2631148,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631148",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2989,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para proibir a publicidade, a propaganda, a promoção, o patrocínio e demais formas de comunicação comercial relativas às apostas de quota fixa, e dá outras providências.",
-      "dataApresentacao": "2026-06-10T10:57"
-    },
-    {
-      "id": 2631129,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2631129",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2988,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a participação de estrangeiros em pessoas jurídicas que explorem recursos minerais classificados como críticos e estratégicos e dá outras providências.",
-      "dataApresentacao": "2026-06-10T10:21"
-    },
-    {
-      "id": 2630872,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630872",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2987,
-      "ano": 2026,
-      "ementa": "Institui a Lei Costura Digna e Inclusiva, que cria a Política Nacional de Valorização, Qualificação, Formalização e Proteção Produtiva das Costureiras, Costureiros e Trabalhadores da Confecção, estabelece diretrizes para inclusão produtiva, acesso ao crédito, compras públicas sustentáveis, rastreabilidade social da cadeia de confecção, saúde e segurança no trabalho, combate à precarização laboral e dá outras providências.",
-      "dataApresentacao": "2026-06-09T20:36"
-    },
-    {
-      "id": 2630870,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630870",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2986,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Proteção, Qualificação, Cadastramento Voluntário e Inclusão Socioprodutiva dos Trabalhadores Autônomos de Apoio à Movimentação de Cargas e Descargas, conhecidos como “chapas”, e dá outras providências.",
-      "dataApresentacao": "2026-06-09T20:36"
-    },
-    {
-      "id": 2630863,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2630863",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 2985,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Proteção da Produção Agropecuária e de Combate aos Crimes no Campo – “Lei da Blindagem Rural”, estabelece medidas de prevenção, repressão e resposta rápida a ilícitos que impactem a produção de alimentos, a logística e o abastecimento nacional, e dá outras providências.",
-      "dataApresentacao": "2026-06-09T20:20"
     }
   ]
 }
