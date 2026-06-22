@@ -1,6 +1,16 @@
 {
   "dados": [
     {
+      "id": 2634544,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634544",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3233,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.097, de 24 de novembro de 2009, para instituir critérios de elegibilidade econômica e de valorização comercial vinculados à rastreabilidade bovina na Amazônia Legal.",
+      "dataApresentacao": "2026-06-19T22:41"
+    },
+    {
       "id": 2634537,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634537",
       "siglaTipo": "PL",
@@ -488,16 +498,6 @@
       "numero": 3176,
       "ano": 2026,
       "ementa": "Modifica a Lei do Marco Legal da Primeira Infância, Lei nº 13.257, de 8 de março de 2016.",
-      "dataApresentacao": "2026-06-17T14:35"
-    },
-    {
-      "id": 2633338,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2633338",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3175,
-      "ano": 2026,
-      "ementa": "Altera a Lei n° 14.601, de 19 de junho de 2023, para excluir do cálculo de renda familiar por capita, para fins de concessão, manutenção e revisão dos benefícios do Programa Bolsa Família, a remuneração percebida por adolescente ou jovem contratado na condição de aprendiz.",
       "dataApresentacao": "2026-06-17T14:35"
     }
   ]
