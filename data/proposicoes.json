@@ -1,6 +1,176 @@
 {
   "dados": [
     {
+      "id": 2635417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635417",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3322,
+      "ano": 2026,
+      "ementa": "Altera a Lei n.º 14.214, de 6 de outubro de 2021, para prever a possibilidade de disponibilização de coletores menstruais e outros produtos menstruais reutilizáveis no âmbito das ações de proteção e promoção da saúde e da dignidade menstrual.",
+      "dataApresentacao": "2026-06-26T15:51"
+    },
+    {
+      "id": 2635416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635416",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3321,
+      "ano": 2026,
+      "ementa": "Institui a Declaração Pública de Posicionamento Partidário, o Termo de Adesão Programática e o Portal Nacional de Transparência Partidária; e dá outras providências.",
+      "dataApresentacao": "2026-06-26T15:48"
+    },
+    {
+      "id": 2635413,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635413",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3320,
+      "ano": 2026,
+      "ementa": "Institui o Selo de Diagnóstico Precoce do Diabetes Tipo 1, destinado a reconhecer os serviços de saúde que adotem protocolos de identificação precoce da doença e promovam a capacitação permanente de seus profissionais.",
+      "dataApresentacao": "2026-06-26T15:16"
+    },
+    {
+      "id": 2635412,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635412",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3319,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de estupro virtual e o crime de violação sexual mediante fraude digital, e estabelecer causas de aumento de pena.",
+      "dataApresentacao": "2026-06-26T15:09"
+    },
+    {
+      "id": 2635404,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635404",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3317,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para incluir as sequelas neurológicas limitantes permanentes entre as hipóteses de isenção do imposto sobre a renda incidente sobre proventos de aposentadoria ou reforma.",
+      "dataApresentacao": "2026-06-26T14:26"
+    },
+    {
+      "id": 2635400,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635400",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3316,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.818, de 16 de janeiro de 2024, para incorporar critérios de equidade territorial na execução do Programa Pé de Meia, com foco em estudantes residentes em áreas rurais, ribeirinhas, fluviais e de difícil acesso da Amazônia Legal.",
+      "dataApresentacao": "2026-06-26T13:02"
+    },
+    {
+      "id": 2635399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635399",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3315,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Economia Criativa de Base Local – CRIAR BRASIL, estabelece diretrizes, instrumentos, governança, metas e mecanismos de execução para o desenvolvimento produtivo, inovação, comercialização e internacionalização das cadeias criativas, com prioridade para a Região Norte, e dá outras providências.",
+      "dataApresentacao": "2026-06-26T12:57"
+    },
+    {
+      "id": 2635394,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635394",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3314,
+      "ano": 2026,
+      "ementa": "Institui a Rede Nacional Estruturante de Atenção Materno Infantil e Primeira Infância no Interior do País e na Amazônia Legal, estabelece padrões mínimos obrigatórios de atendimento, fixa metas nacionais de redução da mortalidade materna e infantil, dispõe sobre prazo máximo para regulação de parto de alto risco e transporte sanitário terrestre e aeromédico, com prioridade para o Estado de Roraima, e dá outras providências.",
+      "dataApresentacao": "2026-06-26T11:58"
+    },
+    {
+      "id": 2635392,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635392",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3313,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.205, de 21 de março de 2001, para dispor sobre a concessão de prioridade aos doadores regulares de sangue nas campanhas públicas de vacinação no âmbito da União e dá outras providências.",
+      "dataApresentacao": "2026-06-26T11:40"
+    },
+    {
+      "id": 2635391,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635391",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3312,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, a Lei nº 12.850, de 2 de agosto de 2013, e a Lei nº 9.613, de 3 de março de 1998, para tipificar a fraude mediante desconto indevido em folha de pagamento, benefício, pensão ou provento, e dá outras providências",
+      "dataApresentacao": "2026-06-26T11:35"
+    },
+    {
+      "id": 2635389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3311,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio a Lares Temporários de Animais – PRONALT, reconhece a função social do acolhimento temporário de cães e gatos resgatados, estabelece medidas de apoio alimentar, veterinário e de proteção jurídica aos lares temporários, e dá outras providências.",
+      "dataApresentacao": "2026-06-26T11:30"
+    },
+    {
+      "id": 2635388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3310,
+      "ano": 2026,
+      "ementa": "Institui o Programa Alimentação Digna da Pessoa Idosa, com a concessão de benefício alimentar mensal preferencialmente por meio de instrumento eletrônico, assegurando a segurança alimentar contínua da pessoa idosa em situação de vulnerabilidade, e dá outras providências.",
+      "dataApresentacao": "2026-06-26T11:22"
+    },
+    {
+      "id": 2635385,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635385",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3308,
+      "ano": 2026,
+      "ementa": "Institui o Selo de Identificação de Alimento Importado (SIAI) e acrescenta o art. 31-A à Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).",
+      "dataApresentacao": "2026-06-26T10:05"
+    },
+    {
+      "id": 2635383,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635383",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3307,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 38-A à Lei nº 13.869, de 5 de setembro de 2019 (Lei de Abuso de Autoridade), para tipificar condutas que atentem contra o livre exercício das prerrogativas de membros do Poder Legislativo.",
+      "dataApresentacao": "2026-06-26T09:44"
+    },
+    {
+      "id": 2635382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635382",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3306,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para dispor sobre a obrigatoriedade de instalação de banheiros família em estabelecimentos públicos e privados de grande circulação.",
+      "dataApresentacao": "2026-06-26T09:43"
+    },
+    {
+      "id": 2635380,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635380",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3305,
+      "ano": 2026,
+      "ementa": "Institui o Plano Brasil Sem Fome, com a finalidade de promover a segurança alimentar e nutricional e enfrentar a fome no território nacional, e dá outras providências.",
+      "dataApresentacao": "2026-06-26T00:01"
+    },
+    {
+      "id": 2635379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635379",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3304,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o exercício da profissão de Neuropsicopedagogo Institucional, estabelece os requisitos para o exercício profissional e dá outras providências.",
+      "dataApresentacao": "2026-06-25T21:17"
+    },
+    {
       "id": 2635370,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2635370",
       "siglaTipo": "PL",
@@ -329,176 +499,6 @@
       "ano": 2026,
       "ementa": "Institui a Política Nacional de Apoio ao Desenvolvimento Integral de Crianças e Adolescentes Neurodivergentes, cria o Fundo Nacional de Apoio ao Desenvolvimento Integral de Crianças e Adolescentes Neurodivergentes – FUNADINCA, estabelece critérios de prioridade com base no Cadastro Único para Programas Sociais do Governo Federal, e dá outras providências.",
       "dataApresentacao": "2026-06-23T14:44"
-    },
-    {
-      "id": 2634836,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634836",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3266,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a disponibilização e utilização de aparelhos de medição de glicose capilar em operações de fiscalização de trânsito e dá outras providências.",
-      "dataApresentacao": "2026-06-23T14:42"
-    },
-    {
-      "id": 2634834,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634834",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3265,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proteção da integridade da transmissão esportiva, veda a indução ao comportamento especulativo e a publicidade dissimulada de apostas de quota fixa durante a transmissão de eventos esportivos, institui a segregação de funções entre narração e consultoria de apostas, cria a certificação de tipster esportivo e estabelece a responsabilidade solidária das emissoras.",
-      "dataApresentacao": "2026-06-23T14:41"
-    },
-    {
-      "id": 2634766,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634766",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3264,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional de Monitoramento da Pesca Artesanal (SINAMPA), estabelece mecanismos de geolocalização voluntária e de acionamento de emergência para embarcações de pesca artesanal de pequeno porte.",
-      "dataApresentacao": "2026-06-23T11:55"
-    },
-    {
-      "id": 2634754,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634754",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3263,
-      "ano": 2026,
-      "ementa": "Altera o Marco Legal da Primeira Infância para prever a orientação e a capacitação prática de pais ou responsáveis de recém-nascidos, ainda nas maternidades e demais estabelecimentos de saúde em que se realizem partos.",
-      "dataApresentacao": "2026-06-23T11:13"
-    },
-    {
-      "id": 2634740,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634740",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3262,
-      "ano": 2026,
-      "ementa": "Cria a Universidade Federal do Xingu (UFX),  por desmembramento da Universidade Federal do Pará.",
-      "dataApresentacao": "2026-06-22T19:32"
-    },
-    {
-      "id": 2634739,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634739",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3261,
-      "ano": 2026,
-      "ementa": "Institui medidas transitórias de mitigação econômica decorrentes da redução constitucional da jornada semanal de trabalho, mediante desoneração previdenciária patronal integral e mecanismos de adaptação produtiva para empregadores efetivamente impactados pela redução da jornada semanal de 44 (quarenta e quatro) para 40 (quarenta) horas.",
-      "dataApresentacao": "2026-06-23T10:52"
-    },
-    {
-      "id": 2634712,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634712",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3260,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, e a Consolidação das Leis do Trabalho – CLT, para assegurar que a caracterização de discriminação nas relações de trabalho dependa da demonstração de conduta discriminatória efetiva, vedando a responsabilização baseada exclusivamente em critérios estatísticos ou na composição demográfica dos quadros funcionais.",
-      "dataApresentacao": "2026-06-23T10:03"
-    },
-    {
-      "id": 2634706,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634706",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3259,
-      "ano": 2026,
-      "ementa": "Inclui os representantes comerciais autônomos entre os beneficiários das linhas de financiamento do Programa Move Brasil, instituído pela Medida Provisória nº 1.359, de 19 de maio de 2026, destinadas à aquisição de veículos novos utilizados como instrumento de trabalho.",
-      "dataApresentacao": "2026-06-23T09:58"
-    },
-    {
-      "id": 2634701,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634701",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3258,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.705, de 25 de outubro de 2023, para instituir a Carteira Nacional de Identificação das pessoas acometidas por Síndrome de Fibromialgia, Síndrome da Fadiga Crônica, Síndrome Complexa de Dor Regional e demais condições abrangidas por essa Lei.",
-      "dataApresentacao": "2026-06-23T09:40"
-    },
-    {
-      "id": 2634696,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634696",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3257,
-      "ano": 2026,
-      "ementa": "Denominar o viaduto localizado no Km 48 da rodovia BR-280 no principal acesso ao Bairro Corticeira, de “Viaduto GUSTAVO RISTAU” pertencendo ao município de Guaramirim.",
-      "dataApresentacao": "2026-06-23T08:55"
-    },
-    {
-      "id": 2634682,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634682",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3256,
-      "ano": 2026,
-      "ementa": "Altera o art. 6º da Lei nº 10.820, de 17 de dezembro de 2003, para vedar a realização de descontos e retenções destinados à amortização de despesas decorrentes da utilização de cartão de crédito consignado ou cartão consignado de benefício, inclusive na modalidade de saque, por titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social e do benefício de prestação continuada de que trata o art. 20 da Lei nº 8.472, de 7 de dezembro de 1993.",
-      "dataApresentacao": "2026-06-22T18:43"
-    },
-    {
-      "id": 2634681,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634681",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3255,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.097, de 24 de novembro de 2009, para instituir critérios de elegibilidade econômica e de valorização comercial vinculados à rastreabilidade bovina na Amazônia Legal.",
-      "dataApresentacao": "2026-06-22T18:19"
-    },
-    {
-      "id": 2634680,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634680",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3254,
-      "ano": 2026,
-      "ementa": "Institui o Open Asset Brasil.",
-      "dataApresentacao": "2026-06-22T18:18"
-    },
-    {
-      "id": 2634661,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634661",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3251,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar a produção, o armazenamento e a divulgação de conteúdo audiovisual que retrate maus-tratos, abuso, mutilação ou atos de crueldade contra animais, e dá outras providências.",
-      "dataApresentacao": "2026-06-22T15:49"
-    },
-    {
-      "id": 2634640,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634640",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3250,
-      "ano": 2026,
-      "ementa": "Institui a Rede Nacional de Proteção e Defesa dos Direitos Humanos das Pessoas Idosas.",
-      "dataApresentacao": "2026-06-22T15:03"
-    },
-    {
-      "id": 2634636,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634636",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3249,
-      "ano": 2026,
-      "ementa": "Altera o art. 83 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para garantir às mulheres e às pessoas transmasculinas no sistema prisional que sejam gestantes, parturientes e/ou lactantes o direito ao cuidado e à amamentação de seus filhos de, no mínimo, até 12 (doze) meses de idade.",
-      "dataApresentacao": "2026-06-22T14:36"
-    },
-    {
-      "id": 2634633,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2634633",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3248,
-      "ano": 2026,
-      "ementa": "Estabelece medidas de proteção da renda familiar e de prevenção do superendividamento relacionado à utilização de plataformas de apostas de quota fixa.",
-      "dataApresentacao": "2026-06-22T14:17"
     }
   ]
 }

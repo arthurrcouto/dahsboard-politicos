@@ -3213,17 +3213,6 @@
       "email": "dep.ledaborges@camara.leg.br"
     },
     {
-      "id": 80815,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
-      "nome": "Leo Prates",
-      "siglaPartido": "REPUBLICANOS",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-      "siglaUf": "BA",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
-      "email": "dep.leoprates@camara.leg.br"
-    },
-    {
       "id": 74156,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74156",
       "nome": "Leonardo Monteiro",
@@ -5652,7 +5641,7 @@
     "PP": 46,
     "PT": 65,
     "PDT": 9,
-    "REPUBLICANOS": 43,
+    "REPUBLICANOS": 42,
     "CIDADANIA": 2,
     "UNIÃO": 52,
     "PCdoB": 11,
