@@ -1,6 +1,136 @@
 {
   "dados": [
     {
+      "id": 2636989,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636989",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3446,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Produtiva da População em Situação de Rua nos contratos de obras e de serviços da administração pública federal, mediante reserva de percentual mínimo de vagas de trabalho; estabelece incentivos à adesão voluntária de Estados, Distrito Federal e Municípios; altera a Lei nº 14.133, de 1º de abril de 2021; e dá outras providências.",
+      "dataApresentacao": "2026-07-02T16:20"
+    },
+    {
+      "id": 2636966,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636966",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3445,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, e a Lei nº 7.210, de 11 de julho de 1984 — Lei de Execução Penal, para recrudescer a pena no tipo disposto no art. 349-A do Código Penal, e para tipificar a posse, o porte, o uso, a guarda, o fornecimento e a ocultação de aparelho de comunicação não autorizado em estabelecimento prisional.",
+      "dataApresentacao": "2026-07-02T15:50"
+    },
+    {
+      "id": 2636925,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636925",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3443,
+      "ano": 2026,
+      "ementa": "Erige em monumento nacional a  Igreja Velha e o Sítio Histórico do Porto de São Mateus, no Estado do Espírito Santo.",
+      "dataApresentacao": "2026-07-02T15:32"
+    },
+    {
+      "id": 2636924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636924",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3442,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a realização da “Campanha Aniversário na Escola”, a realizar-se nos estabelecimentos de ensino de educação básica da rede pública.",
+      "dataApresentacao": "2026-07-02T15:32"
+    },
+    {
+      "id": 2636820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636820",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3441,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.357, de 16 de julho de 1964, e a Lei nº 8.212, de 24 de julho de 1991, para revogar dispositivos que restringem a distribuição de lucros, dividendos, bonificações, juros sobre capital próprio e demais formas lícitas de remuneração do capital por pessoas jurídicas com débitos perante a União, e estabelece norma expressa de não incidência de penalidades, restrições ou sanções administrativas fundadas nessa distribuição.",
+      "dataApresentacao": "2026-07-02T14:37"
+    },
+    {
+      "id": 2636817,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636817",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3440,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para permitir movimentação da conta vinculada do FGTS no caso em que o adquirente já seja proprietário ou promitente comprador de imóvel localizado no Município onde resida e para proibir que o uso do FGTS por um dos membros do casal impeça o exercício do direito do outro em financiamento imobiliário.",
+      "dataApresentacao": "2026-07-02T14:20"
+    },
+    {
+      "id": 2636783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636783",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3439,
+      "ano": 2026,
+      "ementa": "Reconhece o Festejo de São Raimundo Nonato dos Mulundus, realizado no Município de Vargem Grande, Estado do Maranhão, como manifestação da cultura nacional.",
+      "dataApresentacao": "2026-07-02T12:09"
+    },
+    {
+      "id": 2636748,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636748",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3438,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a promoção da integração entre educação e esporte nas categorias de base, por meio de programas de incentivo e cooperação.",
+      "dataApresentacao": "2026-07-02T11:26"
+    },
+    {
+      "id": 2636681,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636681",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3437,
+      "ano": 2026,
+      "ementa": "Altera o parágrafo único do art. 496 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para adequá-lo à redação do caput do referido artigo, mediante a supressão da expressão “em ambos os casos”.",
+      "dataApresentacao": "2026-07-02T10:45"
+    },
+    {
+      "id": 2636611,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636611",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3436,
+      "ano": 2026,
+      "ementa": "Institui o Disque-Transplante, serviço telefônico gratuito nacional destinado ao recebimento de informações sobre doação de órgãos e de denúncias de infrações previstas na Lei nº 9.434, de 4 de fevereiro de 1997.",
+      "dataApresentacao": "2026-07-02T09:51"
+    },
+    {
+      "id": 2636593,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636593",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3435,
+      "ano": 2026,
+      "ementa": "Concede ao Município de Guaraçaí, no Estado de São Paulo, o título de Capital Nacional do Abacaxi Havaiano.",
+      "dataApresentacao": "2026-07-02T09:28"
+    },
+    {
+      "id": 2636573,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636573",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3434,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a apresentação prévia de documentação médica por paciente em tratamento com medicamentos à base de Cannabis no exame toxicológico exigido para a obtenção e a renovação da Carteira Nacional de Habilitação.",
+      "dataApresentacao": "2026-07-02T09:05"
+    },
+    {
+      "id": 2636572,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636572",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3433,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.991, de 24 de julho de 2000, para instituir obrigação de aplicação de recursos em ações adicionais e complementares de compatibilização entre infraestrutura elétrica, arborização urbana, paisagem urbana e adaptação climática das cidades por concessionárias e permissionárias de distribuição de energia elétrica.",
+      "dataApresentacao": "2026-07-02T09:05"
+    },
+    {
       "id": 2636566,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636566",
       "siglaTipo": "PL",
@@ -369,136 +499,6 @@
       "ano": 2026,
       "ementa": "Estabelece obrigatoriedade de registro público eletrônico detalhado de benefícios previdenciários pagos por entes federativos e autarquias de previdência (valor bruto, descontos autorizados com indicação da base legal e identificador do responsável), institui auditorias periódicas por órgãos de controle (TCU, CGU e Ministério Público), exige autorização expressa e comprovada do beneficiário para descontos não compulsórios, cria mecanismo administrativo célere de restituição de valores indevidamente descontados, agrava sanções administrativas e penais aplicáveis a agentes públicos e intermediários que promovam descontos não autorizados e institui canal protegido para denúncias e proteção a whistleblowers; disciplina regras de transparência, proteção de dados e responsabilização, e dá outras providências.",
       "dataApresentacao": "2026-07-01T10:47"
-    },
-    {
-      "id": 2636062,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636062",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3392,
-      "ano": 2026,
-      "ementa": "Estabelece normas mínimas de segurança, governança, rastreabilidade e responsabilização para o uso de sistemas de inteligência artificial em procedimentos judiciais eletrônicos; obriga higienização de entrada, encapsulamento e pré?filtragem de documentos, registro de logs de rastreabilidade, adoção de contratos de resposta e prompting por etapas, supervisão humana qualificada, diagnósticos de risco, auditorias periódicas e medidas de proteção contra envenenamento de bases; impõe obrigação de comunicação de suspeita de prompt injection ao juízo, ao Conselho Nacional de Justiça (CNJ) e às autoridades competentes; prevê sanções administrativas, civis e penais quando cabíveis; fixa prazo máximo de implementação e confere competência de fiscalização ao CNJ; e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:46"
-    },
-    {
-      "id": 2636061,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636061",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3391,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas de verificação e proteção da livre manifestação de vontade em atos processuais e notariais que envolvam indícios de violência doméstica, familiar ou patrimonial; estabelece preferência por atos presenciais, procedimento reservado e documentado de verificação prévia quando realizados virtualmente, protocolo de sinalização discreta para acionamento da rede de proteção, obrigação de orientação sobre canais de apoio, capacitação periódica de operadores e sanções administrativas para o descumprimento; altera normas correlatas e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:44"
-    },
-    {
-      "id": 2636060,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636060",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3390,
-      "ano": 2026,
-      "ementa": "Veda a inscrição de débitos juridicamente prescritos em cadastros de proteção ao crédito ou, subsidiariamente, autoriza inscrição somente mediante consentimento expresso e informado do consumidor; exige identificação clara da condição \"DÍVIDA PRESCRITA – NÃO PASSÍVEL DE COBRANÇA JUDICIAL\" nos casos consensuais, veda qualquer impacto negativo no score ou em condições contratuais, determina remoção imediata das inscrições indevidas mediante comprovação da prescrição, estabelece prazo máximo de 5 (cinco) dias úteis para correção pelas plataformas, institui regime sancionador administrativo e indenização automática por dano moral presumido em casos de inscrição irregular, disciplina comunicações de cobrança e medidas de proteção de dados, e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:43"
-    },
-    {
-      "id": 2636059,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636059",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3389,
-      "ano": 2026,
-      "ementa": "Proíbe visitas domiciliares não solicitadas por instituições financeiras, correspondentes bancários e seus prepostos a aposentados e pensionistas do INSS para oferta de crédito consignado; exige que qualquer oferta a esse grupo ocorra somente mediante comunicação prévia e expressa do consumidor (por escrito ou por meio eletrônico autorizado), com informação clara sobre custos e direito de arrependimento mínimo de 7 dias; estabelece presunção de abusividade e nulidade relativa dos contratos celebrados em domicílio sem observância das regras; obriga registro e identificação dos prepostos, gravação/registro de ofertas em contato remoto, cria regime sancionador administrativo e civil, determina competência do Banco Central, do INSS e dos órgãos de defesa do consumidor para fiscalização e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:41"
-    },
-    {
-      "id": 2636055,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636055",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3388,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Parcerias para Inovação (PNPI), disciplina a vinculação de parcela dos recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) para subvenções econômicas não reembolsáveis, financiamentos reembolsáveis revolventes, financiamento e certificação de Escritórios de Transferência de Tecnologia (ETTs) em universidades públicas, criação de sandboxes regulatórios setoriais temporários, e medidas de simplificação administrativa para startups derivadas de pesquisa; estabelece metas públicas de indicadores de transferência tecnológica, governança tripartite e prazos mínimos de continuidade dos programas financiados; define disposições sobre governança, prestação de contas e fiscalização, e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:39"
-    },
-    {
-      "id": 2636054,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636054",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3387,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Acesso Equitativo à Inovação em Saúde (PNAEIS) para incorporação acelerada e descentralizada de tecnologias prioritárias no âmbito do SUS, estabelece critérios de priorização e procedimento fast?track regulatório e administrativo, cria incentivos a parcerias público?privadas e centros regionais de diagnóstico, fortalece atenção básica e telemedicina com metas regionais, obriga avaliação de impacto em equidade pré?contratação, determina transparência e monitoramento por painel público regionalizado e dispõe sobre governança, financiamento e vigilância do programa.",
-      "dataApresentacao": "2026-07-01T10:38"
-    },
-    {
-      "id": 2636052,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636052",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3386,
-      "ano": 2026,
-      "ementa": "Institui o Procedimento Administrativo Prévio com Tentativa de Conciliação Eletrônica (PAPCE) como requisito de interesse de agir para o ajuizamento de ações contra a Administração Pública em matérias específicas, cria a Plataforma Nacional de Conciliação, e dispõe sobre assistência jurídica para vulneráveis, transparência e alteração da legislação correlata.",
-      "dataApresentacao": "2026-07-01T10:37"
-    },
-    {
-      "id": 2636049,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636049",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3385,
-      "ano": 2026,
-      "ementa": "Estabelece normas de proteção e transparência para oferta de crédito a consumidores de baixa renda e sem histórico financeiro; obriga divulgação padronizada do Custo Efetivo Total (CET) e do valor total a pagar em linguagem acessível; proíbe a capitalização automática de juros e taxas punitivas imprevisíveis; limita penalidades por atraso; prevê regime de flexibilização contratual para renda flutuante; reconhece e incentiva modelos alternativos de avaliação de crédito (sandbox regulatório e linhas públicas de apoio); protege consumidores de créditos vinculados a dispositivos digitais (vedação de bloqueio remoto sem aviso e alternativas de renegociação); impõe dever de oferta de renegociação simplificada e de encaminhamento para educação financeira; estabelece fiscalização e sanções para práticas predatórias; e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:31"
-    },
-    {
-      "id": 2636048,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636048",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3384,
-      "ano": 2026,
-      "ementa": "Veda a utilização direta ou indireta de ativos, reservas, participações e receitas vinculadas aos Regimes Próprios de Previdência Social (RPPS) e fundos previdenciários para integralização de capital, reestruturação financeira ou cobertura de perdas de instituições financeiras públicas ou sociedades de economia mista, salvo autorização do Congresso Nacional; exige estudos prévios (laudo atuarial e estudo de impacto financeiro independentes), assegura direito de preferência e mecanismos de proteção contra diluição, disciplina a vinculação de receitas de securitização, impõe comunicação prévia e autorização do Tribunal de Contas e do Ministério Público, estabelece regras de transparência, responsabilização administrativa, civil e penal para gestores e administradores, e dispõe sobre aplicação, competência fiscalizadora e disposições transitórias.",
-      "dataApresentacao": "2026-07-01T10:29"
-    },
-    {
-      "id": 2636046,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636046",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3383,
-      "ano": 2026,
-      "ementa": "Estabelece rito prioritário e prazos máximos para julgamento de temas reconhecidos como de repercussão geral pelo Supremo Tribunal Federal e de afetação da sistemática de recursos repetitivos pelo Superior Tribunal de Justiça; disciplina a conclusão do juízo de conformação e a modulação de efeitos nas instâncias ordinárias; cria a Força?Tarefa Nacional de Uniformização Jurisprudencial para acompanhamento, transparência e suporte técnico à implementação imediata das decisões, e dispõe sobre medidas administrativas de alocação de recursos e uso de tecnologia processual para casos de massa.",
-      "dataApresentacao": "2026-07-01T10:28"
-    },
-    {
-      "id": 2636044,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636044",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3382,
-      "ano": 2026,
-      "ementa": "Regulamenta o uso de automação, algoritmos e inteligência artificial em processos de fiscalização e na lavratura de autos de infração por órgãos e agências reguladoras federais; proíbe autuação unicamente fundamentada em decisão automatizada; exige revisão humana qualificada anterior à autuação formal; impõe obrigações de transparência, auditabilidade e notificação preventiva ao administrado; institui comitê consultivo para validação e acompanhamento de modelos; determina a publicação anual de indicadores de qualidade das fiscalizações assistidas por automação; disciplina sanções administrativas em caso de uso indevido; altera dispositivos das Leis nº 9.784/1999, nº 12.527/2011 e nº 13.709/2018; e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:26"
-    },
-    {
-      "id": 2636038,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636038",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3381,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a vedação da utilização de recursos públicos vinculados à educação básica e à saúde para o custeio de agentes de segurança pública e para o repasse a empresas privadas na gestão de instituições públicas de ensino e saúde; altera a Lei nº 14.113, de 25 de dezembro de 2020 (Fundeb), e a Lei nº 9.394, de 20 de dezembro de 1996 (LDB); e estabelece sanções administrativas e de responsabilidade fiscal para os entes federativos descumpridores.",
-      "dataApresentacao": "2026-07-01T10:23"
-    },
-    {
-      "id": 2636035,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636035",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 3380,
-      "ano": 2026,
-      "ementa": "Institui o Fundo Nacional da Agricultura Familiar (FNAF), dispõe sobre os critérios de transferência automática e obrigatória de recursos financeiros aos Estados, ao Distrito Federal e aos Municípios, cria contribuição sobre exportações de commodities agrícolas, altera a Lei nº 8.212, de 24 de julho de 1991, a Lei nº 10.833, de 29 de dezembro de 2003, a Lei nº 15.223, de 30 de setembro de 2025, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
-      "dataApresentacao": "2026-07-01T10:19"
     }
   ]
 }
