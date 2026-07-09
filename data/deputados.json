@@ -4896,17 +4896,6 @@
       "email": "dep.rogeriocorreia@camara.leg.br"
     },
     {
-      "id": 160629,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629",
-      "nome": "Romero Rodrigues",
-      "siglaPartido": "PODE",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
-      "siglaUf": "PB",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
-      "email": "dep.romerorodrigues@camara.leg.br"
-    },
-    {
       "id": 204525,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204525",
       "nome": "Rosana Valle",
@@ -5660,7 +5649,7 @@
     "REDE": 3,
     "PSB": 17,
     "PSD": 48,
-    "PODE": 27,
+    "PODE": 26,
     "SOLIDARIEDADE": 4,
     "PSOL": 13,
     "AVANTE": 5,
