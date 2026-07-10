@@ -1343,17 +1343,6 @@
       "email": "dep.davidsoares@camara.leg.br"
     },
     {
-      "id": 220659,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220659",
-      "nome": "Dayany Bittencourt",
-      "siglaPartido": "UNIÃO",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
-      "siglaUf": "CE",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220659.jpg",
-      "email": "dep.dayanybittencourt@camara.leg.br"
-    },
-    {
       "id": 220539,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220539",
       "nome": "Defensor Stélio Dener",
@@ -3224,6 +3213,17 @@
       "email": "dep.ledaborges@camara.leg.br"
     },
     {
+      "id": 122195,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122195",
+      "nome": "Leonardo Gadelha",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "PB",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122195.jpg",
+      "email": "dep.leonardogadelha@camara.leg.br"
+    },
+    {
       "id": 74156,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74156",
       "nome": "Leonardo Monteiro",
@@ -4115,6 +4115,17 @@
       "email": "dep.niltotatto@camara.leg.br"
     },
     {
+      "id": 194260,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194260",
+      "nome": "Nivaldo Albuquerque",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "AL",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/194260.jpg",
+      "email": "dep.nivaldoalbuquerque@camara.leg.br"
+    },
+    {
       "id": 204498,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204498",
       "nome": "Olival Marques",
@@ -4234,17 +4245,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74160.jpg",
       "email": "dep.patrusananias@camara.leg.br"
-    },
-    {
-      "id": 171617,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171617",
-      "nome": "Paulão",
-      "siglaPartido": "PT",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
-      "siglaUf": "AL",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
-      "email": "dep.paulao@camara.leg.br"
     },
     {
       "id": 141518,
@@ -5639,17 +5639,17 @@
     "PSDB": 18,
     "NOVO": 5,
     "PP": 46,
-    "PT": 65,
+    "PT": 64,
     "PDT": 10,
-    "REPUBLICANOS": 42,
+    "REPUBLICANOS": 43,
     "CIDADANIA": 2,
-    "UNIÃO": 52,
+    "UNIÃO": 51,
     "PCdoB": 11,
     "PV": 6,
     "REDE": 3,
     "PSB": 17,
     "PSD": 48,
-    "PODE": 26,
+    "PODE": 27,
     "SOLIDARIEDADE": 4,
     "PSOL": 13,
     "AVANTE": 5,
