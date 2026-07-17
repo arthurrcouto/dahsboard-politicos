@@ -13,6 +13,12 @@
       "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905"
     },
     {
+      "id": 37902,
+      "sigla": "DC",
+      "nome": "Democracia Cristã",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37902"
+    },
+    {
       "id": 36899,
       "sigla": "MDB",
       "nome": "Movimento Democrático Brasileiro",
