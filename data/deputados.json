@@ -2553,17 +2553,6 @@
       "email": "dep.herciliocoelhodiniz@camara.leg.br"
     },
     {
-      "id": 178884,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178884",
-      "nome": "Hildo Rocha",
-      "siglaPartido": "MDB",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-      "siglaUf": "MA",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-      "email": "dep.hildorocha@camara.leg.br"
-    },
-    {
       "id": 141450,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
       "nome": "Hugo Leal",
@@ -4938,6 +4927,17 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220620.jpg",
       "email": "dep.rosangelareis@camara.leg.br"
+    },
+    {
+      "id": 73806,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73806",
+      "nome": "Roseana Sarney",
+      "siglaPartido": "MDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+      "siglaUf": "MA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73806.jpg",
+      "email": "dep.roseanasarney@camara.leg.br"
     },
     {
       "id": 74371,

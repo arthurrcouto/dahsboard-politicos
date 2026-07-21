@@ -1,504 +1,504 @@
 {
   "dados": [
     {
-      "id": 2640475,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640475",
+      "id": 2641074,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641074",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3802,
+      "numero": 4390,
       "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de estabelecer causa de aumento de pena para os crimes de lesão corporal, maus-tratos e de exposição a perigo quando praticados contra pessoa idosa no âmbito doméstico, familiar ou por quem detenha a obrigação de cuidado, guarda ou vigilância.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Resiliência Operacional dos Sistemas de Pagamentos Instantâneos, com diretrizes voltadas à continuidade, segurança e confiabilidade das infraestruturas nacionais de pagamentos digitais, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640474,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640474",
+      "id": 2641073,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641073",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3801,
+      "numero": 4389,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para instituir a medida cautelar de afastamento imediato do agressor do domicílio ou do local de convivência com a pessoa idosa em situações de iminente risco à sua integridade física, psicológica ou patrimonial.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui o Marco Legal dos Direitos do Usuário da Inteligência Financeira e da Inovação Financeira Responsável e estabelece princípios para a utilização de sistemas inteligentes no Sistema Financeiro Nacional.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640473,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640473",
+      "id": 2641072,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641072",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3800,
+      "numero": 4388,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar o direito à proteção especial contra os impactos da crise climática, da degradação ambiental e de desastres naturais, inserindo a perspectiva de sustentabilidade ecológica no princípio da prioridade absoluta.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Transparência e Governança Algorítmica nos Serviços Públicos e nas Decisões Automatizadas de Alto Impacto e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640472,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640472",
+      "id": 2641071,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641071",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3799,
+      "numero": 4387,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer critério de pontuação e preferência em licitações públicas para empresas certificadas com selo de prevenção ao assédio moral e sexual no ambiente de trabalho.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Localização Estratégica e Resiliência dos Dados Críticos e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640471,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640471",
+      "id": 2641070,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641070",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3798,
+      "numero": 4386,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012, que institui a Política Nacional de Proteção e Defesa Civil (PNPDEC), para estabelecer a prioridade absoluta no atendimento e na assistência a crianças, adolescentes e gestantes em situações de desastres climáticos e ambientais.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional dos Centros de Inteligência Artificial, cria a Rede Norte de Centros de Inteligência Artificial e estabelece diretrizes para o desenvolvimento da pesquisa, da inovação, da formação de talentos e da aplicação da inteligência artificial, com prioridade para a Região Norte e a Amazônia Legal.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640470,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640470",
+      "id": 2641069,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641069",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3797,
+      "numero": 4385,
       "ano": 2026,
-      "ementa": "Institui a Política Federal de Proteção e Monitoramento da Frota Pública Federal e estabelece diretrizes de cooperação federativa para rastreamento, controle, segurança, governança de dados e recuperação de veículos oficiais.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Rede Norte de Parques Tecnológicos, estabelece diretrizes para a integração dos ambientes promotores de inovação da Região Norte e cria mecanismos de cooperação para o desenvolvimento científico, tecnológico e econômico sustentável da Amazônia Legal.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640469,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640469",
+      "id": 2641068,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641068",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3796,
+      "numero": 4384,
       "ano": 2026,
-      "ementa": "Institui o Cadastro Nacional de Veículos Públicos Furtados ou Roubados e estabelece diretrizes para a integração de dados entre órgãos de segurança pública e entidades de trânsito.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Incentivo ao Investimento em Startups da Região Norte, cria o Programa Investe Norte Startups e estabelece diretrizes para estimular o investimento privado, o empreendedorismo inovador e o desenvolvimento do ecossistema de inovação na Amazônia Legal.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640468,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640468",
+      "id": 2641067,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641067",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3795,
+      "numero": 4383,
       "ano": 2026,
-      "ementa": "Institui a Política Nacional de Proteção e Monitoramento da Frota Pública, estabelecendo mecanismos de rastreamento, controle e recuperação de veículos pertencentes à Administração Pública.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Crédito Tecnológico, estabelece diretrizes para ampliar o acesso ao financiamento destinado à inovação, à transformação digital e ao desenvolvimento tecnológico, e assegura tratamento prioritário aos Estados da Amazônia Legal.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640467,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640467",
+      "id": 2641066,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641066",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3794,
+      "numero": 4382,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social - LOAS), para estabelecer procedimentos intersetoriais de busca ativa prévios à suspensão ou ao bloqueio do Benefício de Prestação Continuada (BPC) na hipótese de beneficiários acometidos por transtornos mentais graves e persistentes.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui o Fundo Norte Tech, destinado ao fortalecimento da inovação, da pesquisa científica, do empreendedorismo tecnológico e da transformação digital nos Estados da Amazônia Legal, e estabelece diretrizes para o desenvolvimento do ecossistema regional de ciência, tecnologia e inovação.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640466,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640466",
+      "id": 2641065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641065",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3793,
+      "numero": 4381,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a Rede de Atenção Integral às Pessoas com Fibromialgia e estabelecer garantias de proteção social.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui o Programa Empresa Âncora para o Desenvolvimento Sustentável dos Estados da Amazônia Legal e estabelece diretrizes para o fortalecimento das cadeias produtivas regionais, da inovação, da industrialização e da geração de emprego e renda.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640465,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640465",
+      "id": 2641064,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641064",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3792,
+      "numero": 4380,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para estabelecer diretrizes de acessibilidade sensorial e rotulagem informativa na fabricação de vestuário e produtos têxteis destinados a pessoas com Transtorno do Espectro Autista (TEA).",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Lei da Licença Tecnológica Expresso e estabelece normas para a tramitação prioritária e simplificada de autorizações, licenças e atos administrativos destinados a empreendimentos, produtos, serviços, pesquisas e ambientes de inovação tecnológica.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640464,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640464",
+      "id": 2641063,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641063",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3791,
+      "numero": 4379,
       "ano": 2026,
-      "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a ocorrência de afastamento por motivo de saúde imediatamente anterior ao início das férias.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui o Programa Norte Tech, destinado à atração, expansão e consolidação de empresas de base tecnológica na Região Norte, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640463,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640463",
+      "id": 2641062,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641062",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3790,
+      "numero": 4378,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 5.956, de 3 de dezembro de 1973, que dispõe sobre a regulamentação técnica da etiquetagem de produtos têxteis, para estabelecer parâmetros de acessibilidade sensorial e autorizar formas alternativas de indicação de informações obrigatórias em peças de vestuário.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Desenvolvimento do Empreendedorismo Amazônico e de Fronteira, estabelece o Fator Amazônico e de Fronteira como diretriz obrigatória das políticas públicas de desenvolvimento produtivo e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640462,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640462",
+      "id": 2641061,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641061",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3789,
+      "numero": 4377,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para assegurar ao consumidor o direito de verificação presencial do peso in natura de carnes, peixes, crustáceos e demais cortes cárneos precificados por peso pré-cocção em estabelecimentos de alimentação.",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui a Política Nacional de Promoção do Empreendedorismo da Pessoa com Deficiência, estabelece diretrizes para eliminação de barreiras ao desenvolvimento da atividade empreendedora e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640461,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640461",
+      "id": 2641060,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641060",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3788,
+      "numero": 4376,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre as diretrizes de assistência farmacêutica clínica aos pacientes diagnosticados com fibromialgia no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-07-17T18:04"
+      "ementa": "Institui o dever permanente de atualização das políticas públicas de empreendedorismo, inovação e desenvolvimento tecnológico, estabelece diretrizes para sua governança adaptativa e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640437,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640437",
+      "id": 2641059,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641059",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3787,
+      "numero": 4375,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 9.961, de 28 de janeiro de 2000, que cria a Agência Nacional de Sa¬úde Suplementar – ANS, para assegurar a observância da natureza jurí¬dica das associações civis sem fins lucrativos, visando à harmonização regulatória e ao fomento de sistemas de assistência mútua de interesse social.",
-      "dataApresentacao": "2026-07-17T17:12"
+      "ementa": "Dispõe sobre a acessibilidade universal das políticas públicas de desenvolvimento empreendedor, tornando obrigatória a adaptação das estruturas, metodologias, instrumentos, serviços e ações destinadas ao empreendedorismo às necessidades das pessoas com deficiência, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640436,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640436",
+      "id": 2641058,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641058",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3786,
+      "numero": 4374,
       "ano": 2026,
-      "ementa": "Institui a Política Nacional de Identificação Precoce do Risco Cardiovascular Hereditário, incorpora a dosagem da Lipoproteína(a) – Lp(a) como instrumento estratégico de prevenção no âmbito do Sistema Único de Saúde – SUS e dá outras providências.",
-      "dataApresentacao": "2026-07-17T17:09"
+      "ementa": "Institui a Política Nacional de Desenvolvimento Competitivo dos Mercados Fornecedores da Administração Pública, estabelece diretrizes para o fortalecimento da concorrência, da capacidade fornecedora, da inovação, do desenvolvimento territorial e da diversificação competitiva dos mercados fornecedores das contratações públicas, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640435,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640435",
+      "id": 2641057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641057",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3785,
+      "numero": 4373,
       "ano": 2026,
-      "ementa": "Institui o Programa Conecta Trabalho (CONECTA), com a finalidade de ampliar o acesso à educação profissional e tecnológica e ao mercado de trabalho.",
-      "dataApresentacao": "2026-07-17T16:58"
+      "ementa": "Institui o Marco Nacional do Desenvolvimento Produtivo do Pequeno Empreendedor, estabelece diretrizes para as políticas públicas federais de desenvolvimento empresarial, fortalece os instrumentos de inclusão produtiva, inovação, transformação digital, acesso a mercados e desenvolvimento regional, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640434,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640434",
+      "id": 2641056,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641056",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3784,
+      "numero": 4372,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para estabelecer remuneração mínima das contas vinculadas do Fundo de Garantia do Tempo de Serviço (FGTS) correspondente à variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) acrescida dos juros legais.",
-      "dataApresentacao": "2026-07-17T16:58"
+      "ementa": "Institui o Marco Legal do Empreendedorismo Inclusivo, cria a Política Nacional de Empreendedorismo Inclusivo, estabelece instrumentos permanentes de inclusão produtiva, inovação, acesso ao crédito, compras públicas e desenvolvimento regional, institui o princípio da Equidade Territorial e do Fator Amazônico e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640431,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640431",
+      "id": 2641055,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641055",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3783,
+      "numero": 4371,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a transferência de propriedade de veículo classificado com dano de média ou grande monta.",
-      "dataApresentacao": "2026-07-17T16:36"
+      "ementa": "Institui normas gerais para promover a igualdade de oportunidades econômicas no ambiente digital, prevenir práticas digitais que produzam discriminações socioeconômicas injustificadas e estabelecer deveres proporcionais de diligência e governança para serviços digitais de relevância econômica.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640428,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640428",
+      "id": 2641054,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641054",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3782,
+      "numero": 4370,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para vedar a publicidade comercial e o patrocínio de empresas e plataformas digitais destinadas à divulgação de conteúdo pornográfico ou à intermediação de serviços sexuais em eventos esportivos e nos uniformes de clubes e entidades esportivas.",
-      "dataApresentacao": "2026-07-17T16:17"
+      "ementa": "Institui a Política Nacional de Promoção da Igualdade Socioeconômica e de Prevenção da Discriminação por Condição Econômica, estabelece normas gerais para a prevenção e o combate à discriminação socioeconômica em ambientes públicos, privados e digitais, cria instrumentos permanentes de promoção da igualdade de tratamento e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640420,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640420",
+      "id": 2641053,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641053",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3781,
+      "numero": 4369,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para reforçar as regras relativas à publicidade e à comunicação comercial das apostas de quota fixa.",
-      "dataApresentacao": "2026-07-17T15:23"
+      "ementa": "Institui a Lei Nacional da Qualidade Regulatória, estabelece normas gerais sobre o Regime Jurídico da Qualidade Regulatória, cria o Sistema de Gestão da Qualidade Regulatória e dispõe sobre mecanismos permanentes destinados à melhoria contínua da atividade regulatória.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640399,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640399",
+      "id": 2641052,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641052",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3780,
+      "numero": 4368,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para estabelecer restrições à publicidade de plataformas digitais destinadas à exploração comercial de conteúdo sexualmente explícito e à intermediação de serviços de natureza sexual, e altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para vedar patrocínios dessa natureza no âmbito esportivo.",
-      "dataApresentacao": "2026-07-17T14:53"
+      "ementa": "Institui a Lei da Governança das Contribuições Institucionais nos Processos Regulatórios, estabelece normas gerais destinadas a assegurar a integridade, a rastreabilidade e a legitimidade das contribuições institucionais consideradas na formação das decisões regulatórias e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640398,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640398",
+      "id": 2641051,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641051",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3779,
+      "numero": 4367,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para promover o fortalecimento da assistência geriátrica no âmbito do Sistema Único de Saúde – SUS, mediante a ampliação progressiva da oferta de médicos especialistas em geriatria.",
-      "dataApresentacao": "2026-07-17T14:41"
+      "ementa": "Institui normas gerais sobre Integridade Regulatória, cria a Política Nacional de Integridade Regulatória, estabelece mecanismos destinados à proteção da Integridade das Decisões Regulatórias e à prevenção dos riscos à Integridade Regulatória, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640325,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640325",
+      "id": 2641050,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641050",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3778,
+      "numero": 4366,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 7.960, de 21 de dezembro de 1989, para disciplinar prazo diferenciado da prisão temporária em investigações de organizações criminosas e associações criminosas de elevada complexidade, que demandem técnicas especiais de obtenção de prova.",
-      "dataApresentacao": "2026-07-17T13:38"
+      "ementa": "Institui o Programa Federal de Modernização da Capital da Amazônia Setentrional, destinado à promoção da transformação urbana, tecnológica e digital do Município de Boa Vista, Estado de Roraima, mediante ações de cooperação da União, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640289,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640289",
+      "id": 2641049,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641049",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3777,
+      "numero": 4365,
       "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos), para tipificar o crime de domínio de cidades (\"novo cangaço\") e estabelecer causas de aumento de pena e regimes restritivos severos.",
-      "dataApresentacao": "2026-07-17T10:56"
+      "ementa": "Institui o Programa Federal Boa Vista 2050, destinado à promoção do desenvolvimento estratégico, sustentável e integrado do Município de Boa Vista, Estado de Roraima, mediante a coordenação de ações da União e a cooperação federativa, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640288,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640288",
+      "id": 2641048,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641048",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3776,
+      "numero": 4364,
       "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de monitoramento, vigilância e espionagem ilegal contra servidores das forças de segurança pública, membros do Poder Judiciário e do Ministério Público, e dá outras providências.",
-      "dataApresentacao": "2026-07-17T10:56"
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer diretrizes aplicáveis às contratações de serviços de computação em nuvem pela administração pública federal, fortalecer a soberania digital brasileira, incentivar o desenvolvimento da infraestrutura tecnológica nacional e utilizar o poder de compra do Estado como instrumento de desenvolvimento científico, tecnológico e industrial.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640287,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640287",
+      "id": 2641047,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641047",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3775,
+      "numero": 4363,
       "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de identificação visual, registro e rastreabilidade de dispositivos de transporte de mercadorias utilizados por prestadores de serviços de entrega (delivery) em veículos automotores e de propulsão humana ou elétrica, e dá outras providências",
-      "dataApresentacao": "2026-07-17T10:56"
+      "ementa": "Institui a Política Nacional de Computação em Nuvem Soberana da Região Norte, estabelece diretrizes para incentivo à instalação de infraestrutura de armazenamento, processamento e segurança de dados na Região Norte, fortalece a soberania digital, a conectividade estratégica e o desenvolvimento tecnológico regional, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640286,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640286",
+      "id": 2641046,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641046",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3774,
+      "numero": 4362,
       "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de divulgação de informações sobre os riscos e malefícios do uso de drogas em boates, casas noturnas, estabelecimentos de eventos artísticos, esportivos, culturais em âmbito nacional, e dá outras providências.",
-      "dataApresentacao": "2026-07-17T10:56"
+      "ementa": "Institui a Política Nacional de Promoção Internacional do Ecossistema de Tecnologia e Inovação da Região Norte – Programa North Brazil Tech, estabelece mecanismos de internacionalização da ciência, tecnologia, inovação, bioeconomia e empreendedorismo tecnológico da Região Norte, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640269,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640269",
+      "id": 2641045,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641045",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3773,
+      "numero": 4361,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para assegurar assistência multidisciplinar à pessoa idosa em situação de vulnerabilidade socioeconômica nos processos judiciais em que sua condição possa comprometer o pleno exercício de seus direitos.",
-      "dataApresentacao": "2026-07-16T23:48"
+      "ementa": "Institui a Política Nacional de Desenvolvimento de Talentos da Região Norte – Programa Talento Norte, destinada à formação, retenção, atração e valorização de capital humano estratégico para o desenvolvimento científico, tecnológico, industrial e econômico da Região Norte, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640268,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640268",
+      "id": 2641044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641044",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3772,
+      "numero": 4360,
       "ano": 2026,
-      "ementa": "Estabelece a não incidência do Imposto de Renda da Pessoa Física (IRPF) sobre lucros e dividendos distribuídos, e altera a redação e revoga dispositivos das Leis nº 9.249, de 26 de dezembro de 1995, nº 9.250, de 26 de dezembro de 1995, e nº 15.270, de 26 de novembro de 2025.",
-      "dataApresentacao": "2026-07-16T23:26"
+      "ementa": "Institui a Política Nacional de Valorização do Pesquisador Amazônico, estabelece medidas de incentivo à formação, fixação e atração de pesquisadores para a Amazônia Legal, fortalece a infraestrutura científica regional e cria mecanismos de apoio à pesquisa estratégica sobre a biodiversidade, bioeconomia, mudanças climáticas e desenvolvimento sustentável, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640228,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640228",
+      "id": 2641043,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641043",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3767,
+      "numero": 4359,
       "ano": 2026,
-      "ementa": "Confere à cidade de Santa Maria Madalena, no Estado do Rio de Janeiro, o título de Capital Nacional do Astroturismo e a declara \"Cidade das Estrelas\" no âmbito do território nacional.",
-      "dataApresentacao": "2026-07-16T15:39"
+      "ementa": "Institui a Política Nacional de Integração das Empresas com as Universidades, estabelece mecanismos permanentes de cooperação entre instituições de ensino superior, institutos de ciência e tecnologia e o setor produtivo para formação de talentos, pesquisa aplicada, inovação e desenvolvimento tecnológico, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640227,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640227",
+      "id": 2641042,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641042",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3766,
+      "numero": 4358,
       "ano": 2026,
-      "ementa": "Dispõe sobre os direitos dos professores contratados por tempo determinado.",
-      "dataApresentacao": "2026-07-16T15:34"
+      "ementa": "Institui a Política Nacional de Bioeconomia Tecnológica, estabelece princípios, diretrizes e instrumentos para o desenvolvimento de tecnologias baseadas na biodiversidade brasileira, cria mecanismos de incentivo à inovação bioindustrial, à agregação de valor às cadeias produtivas sustentáveis e à proteção do patrimônio genético nacional, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640223,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640223",
+      "id": 2641041,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641041",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3757,
+      "numero": 4357,
       "ano": 2026,
-      "ementa": "Dispõe sobre a realização periódica anual de exames preventivos de saúde (Check-up) no âmbito das Forças Armadas, com vistas à preservação da capacidade operacional, da prontidão militar e da saúde dos militares.",
-      "dataApresentacao": "2026-07-16T15:28"
+      "ementa": "Institui a Política Nacional da Universidade do Desenvolvimento Tecnológico do Brasil, estabelece diretrizes para a formação de recursos humanos em tecnologias estratégicas, autonomia tecnológica nacional e desconcentração territorial da infraestrutura federal de ciência, tecnologia e inovação.",
+      "dataApresentacao": "2026-07-17T19:57"
     },
     {
-      "id": 2640219,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640219",
+      "id": 2641040,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641040",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3756,
+      "numero": 4356,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, e a Lei nº 14.601, de 19 de junho de 2023, para instituir o Programa de Inclusão Produtiva e Empreendedorismo destinado às pessoas inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).",
-      "dataApresentacao": "2026-07-16T15:20"
+      "ementa": "Institui a Política Nacional de Integridade Institucional e Prevenção da Captura do Estado, estabelece normas gerais de proteção da integridade decisória da Administração Pública Federal, cria mecanismos permanentes de prevenção da influência indevida sobre a atuação estatal e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640150,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640150",
+      "id": 2641039,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641039",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3754,
+      "numero": 4355,
       "ano": 2026,
-      "ementa": "Estabelece normas gerais de proteção e incentivo à poupança previdenciária complementar e ao investimento de longo prazo, e dá outras providências.",
-      "dataApresentacao": "2026-07-16T13:29"
+      "ementa": "Institui a Política Nacional de Transparência dos Resultados da Administração Pública Federal, estabelece normas para divulgação periódica dos indicadores de desempenho, da efetividade das políticas públicas, das medidas corretivas adotadas pelos órgãos públicos e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640078,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640078",
+      "id": 2641038,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641038",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3753,
+      "numero": 4354,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para dispor sobre o regime de bens do casamento de pessoas maiores de 70 (setenta) anos.",
-      "dataApresentacao": "2026-07-16T11:51"
+      "ementa": "Institui a Política Nacional de Avaliação Permanente da Liderança Pública Federal, estabelece normas gerais para avaliação das chefias, dirigentes e ocupantes de funções de direção, chefia e assessoramento no âmbito da Administração Pública Federal e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640024,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640024",
+      "id": 2641037,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641037",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3752,
+      "numero": 4353,
       "ano": 2026,
-      "ementa": "Estabelece mecanismos para assegurar o atendimento tempestivo no âmbito do Sistema Único de Saúde (SUS), disciplina o aproveitamento de exames realizados na rede privada e institui medidas para os casos de descumprimento dos prazos de referência.",
-      "dataApresentacao": "2026-07-16T09:36"
+      "ementa": "Institui a Política de Monitoramento da Compatibilidade Funcional dos Agentes Públicos Federais, estabelece mecanismos permanentes de acompanhamento da manutenção dos requisitos que fundamentam a concessão de regimes diferenciados de jornada, teletrabalho e do exercício de atividades privadas compatíveis, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640016,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640016",
+      "id": 2641036,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641036",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3751,
+      "numero": 4352,
       "ano": 2026,
-      "ementa": "Dispõe sobre deveres de transparência e responsabilidade na divulgação remunerada de apostas por influenciadores digitais.",
-      "dataApresentacao": "2026-07-15T20:59"
+      "ementa": "Institui a Política Nacional de Avaliação Permanente de Desempenho e Efetividade da Administração Pública Federal, estabelece normas gerais para avaliação contínua do desempenho institucional e funcional no âmbito dos Poderes Executivo, Legislativo e Judiciário da União e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640015,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640015",
+      "id": 2641035,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641035",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3750,
+      "numero": 4351,
       "ano": 2026,
-      "ementa": "Estabelece deveres de transparência e informação em publicidade de apostas de quota fixa e conteúdos promocionais relacionados a apostas online.",
-      "dataApresentacao": "2026-07-15T20:58"
+      "ementa": "Institui a Política Nacional de Excelência da Administração Pública Federal, estabelece princípios, diretrizes, objetivos e instrumentos destinados ao aperfeiçoamento permanente da gestão pública no âmbito dos Poderes Executivo, Legislativo e Judiciário da União e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2640014,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2640014",
+      "id": 2641034,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641034",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3749,
+      "numero": 4350,
       "ano": 2026,
-      "ementa": "Institui a Política Nacional de Saúde Mental Ocupacional dos Profissionais da Educação, aplicável às redes pública e privada de ensino.",
-      "dataApresentacao": "2026-07-15T19:56"
+      "ementa": "Institui a Política Federal Boa Vista Referência em Inovação Pública, Governo Aberto e Transparência, destinada a estimular, em regime de cooperação federativa, o desenvolvimento de soluções inovadoras, o fortalecimento da governança pública, da transformação digital, da transparência e da participação cidadã no Município de Boa Vista, Estado de Roraima.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2639931,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639931",
+      "id": 2641033,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641033",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3747,
+      "numero": 4349,
       "ano": 2026,
-      "ementa": "Institui o Estatuto das Futuras Gerações, estabelece normas de proteção do patrimônio público intergeracional, transforma o Fundo Social instituído pela Lei nº 12.351, de 22 de dezembro de 2010, em Fundo Soberano Permanente das Futuras Gerações, disciplina a gestão das receitas extraordinárias provenientes da exploração de recursos naturais não renováveis e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:49"
+      "ementa": "Institui a Política Federal Boa Vista Cidade Inteligente, destinada a promover a cooperação da União para a transformação digital, a inovação tecnológica, a modernização urbana e o desenvolvimento sustentável do Município de Boa Vista, Estado de Roraima, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2639930,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639930",
+      "id": 2641032,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641032",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3746,
+      "numero": 4348,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, e a Lei nº 12.009, de 29 de julho de 2009, para estender aos mototaxistas os benefícios concedidos aos taxistas na aquisição de veículos destinados ao exercício da atividade profissional e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:45"
+      "ementa": "Reconhece o Município de Boa Vista, Estado de Roraima, como Capital Brasileira da Fronteira Norte, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:53"
     },
     {
-      "id": 2639878,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639878",
+      "id": 2641031,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641031",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3745,
+      "numero": 4347,
       "ano": 2026,
-      "ementa": "Confere, ao Município de Viçosa, no Estado de Minas Gerais, o título de Capital Nacional do Doce de Leite.",
-      "dataApresentacao": "2026-07-15T18:39"
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para instituir a Infraestrutura Nacional de Rastreabilidade da Gestão do Benefício de Prestação Continuada – BPC, fortalecer a governança administrativa, ampliar a transparência da execução do benefício e aperfeiçoar os mecanismos de monitoramento, avaliação e controle.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639862,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639862",
+      "id": 2641030,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641030",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3744,
+      "numero": 4346,
       "ano": 2026,
-      "ementa": "Institui o Marco Legal do Mercado Descentralizado de Energia Elétrica – MMDEE, estabelece normas para o comércio bilateral de energia elétrica, cria o Ambiente Regulatório Experimental para inovação no setor elétrico, disciplina as comunidades energéticas inteligentes, os ativos energéticos digitais, os contratos inteligentes, a comercialização descentralizada de energia elétrica, altera a Lei nº 14.300, de 6 de janeiro de 2022, a Lei nº 9.427, de 26 de dezembro de 1996, e a Lei nº 10.848, de 15 de março de 2004, e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:36"
+      "ementa": "Altera a Lei nº 14.113, de 25 de dezembro de 2020, para instituir a Política Nacional de Rastreabilidade dos Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb, fortalecer a governança, ampliar a transparência da execução dos recursos públicos e aperfeiçoar os mecanismos de controle e fiscalização.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639860,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639860",
+      "id": 2641029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641029",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3743,
+      "numero": 4345,
       "ano": 2026,
-      "ementa": "Institui o Marco Legal da Transparência Algorítmica na Administração Tributária, estabelece normas de governança para utilização de sistemas de inteligência artificial e de decisões automatizadas na fiscalização tributária, assegura direitos dos contribuintes, cria mecanismos de supervisão humana, transparência, auditoria e prestação de contas, e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:31"
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a Política Nacional de Rastreabilidade dos Recursos do Sistema Único de Saúde – SUS e estabelecer mecanismos permanentes de identificação, monitoramento, integração e acompanhamento da execução dos recursos públicos destinados às ações e aos serviços públicos de saúde.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639858,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639858",
+      "id": 2641028,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641028",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3742,
+      "numero": 4344,
       "ano": 2026,
-      "ementa": "Proíbe a monetização de conteúdos em qualquer plataforma digital, rede sociais, podcasts, canais de vídeos e sites por detentores de mandatos eletivos que tenham por objeto o exercício do mandato ou que sejam produzidos com emprego de recursos públicos, e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:27"
+      "ementa": "Institui a Política Nacional de Promoção da Saúde Cerebral, Identificação Precoce e Atenção Integral à Saúde Mental da Pessoa Idosa, no âmbito do Sistema Único de Saúde – SUS, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639857,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639857",
+      "id": 2641027,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641027",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3741,
+      "numero": 4343,
       "ano": 2026,
-      "ementa": "Institui o Marco Nacional de Transparência, Governança, Avaliação e Prestação de Contas da Educação Básica Pública, estabelece normas sobre divulgação de indicadores de desempenho escolar, custos educacionais, gestão por resultados, transparência ativa e controle social, e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:27"
+      "ementa": "Altera a Lei nº 6.198, de 26 de dezembro de 1974, para instituir normas de transparência e informação nutricional dos produtos destinados à alimentação dos animais de companhia e fortalecer o direito à informação dos consumidores.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639853,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639853",
+      "id": 2641026,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641026",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3740,
+      "numero": 4342,
       "ano": 2026,
-      "ementa": "Institui o Marco Nacional de Transparência, Governança, Avaliação e Prestação de Contas da Educação Básica Pública, estabelece normas sobre divulgação de indicadores de desempenho escolar, custos educacionais, gestão por resultados, transparência ativa e controle social, e dá outras providências.",
-      "dataApresentacao": "2026-07-15T18:21"
+      "ementa": "Altera a Lei nº 6.198, de 26 de dezembro de 1974, para estabelecer normas específicas aplicáveis aos suplementos destinados aos animais de companhia, disciplinar critérios de segurança, qualidade, transparência, alegações nutricionais e monitoramento pós-comercialização, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:52"
     },
     {
-      "id": 2639851,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2639851",
+      "id": 2641025,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641025",
       "siglaTipo": "PL",
       "codTipo": 139,
-      "numero": 3739,
+      "numero": 4341,
       "ano": 2026,
-      "ementa": "Inscreve o nome de Herbert José de Souza, o Betinho, no Livro dos Heróis e Heroínas da Pátria.",
-      "dataApresentacao": "2026-07-15T17:52"
+      "ementa": "Institui a Política Nacional de Monitoramento Pós-Comercialização de Produtos Destinados à Alimentação dos Animais de Companhia, estabelece mecanismos permanentes de vigilância pós-mercado, comunicação obrigatória de eventos de segurança, rastreamento de riscos e recolhimento célere de produtos, e dá outras providências.",
+      "dataApresentacao": "2026-07-17T19:52"
     }
   ]
 }
