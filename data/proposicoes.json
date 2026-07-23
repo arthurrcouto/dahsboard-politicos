@@ -1,6 +1,146 @@
 {
   "dados": [
     {
+      "id": 2641536,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641536",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4766,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.155, de 4 de agosto de 2015, que institui o Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, para vedar a publicidade e o patrocínio de conteúdo sexual, de erotização ou sexualmente explícito às entidades desportivas que aderirem ao PROFUT ou que utilizem estádio público mediante concessão.",
+      "dataApresentacao": "2026-07-22T16:04"
+    },
+    {
+      "id": 2641535,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641535",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4765,
+      "ano": 2026,
+      "ementa": "Proíbe a Administração Pública Direta e Indireta, bem como pessoas jurídicas de direito privado de quaisquer naturezas, de contratar serviços de pornografia ou assemelhados utilizando recursos próprios ou oriundos de repasses governamentais, e dá outras providências.",
+      "dataApresentacao": "2026-07-22T14:43"
+    },
+    {
+      "id": 2641484,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641484",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4764,
+      "ano": 2026,
+      "ementa": "Altera o art. 1.336 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para disciplinar o ressarcimento de honorários advocatícios decorrentes da cobrança extrajudicial de contribuições condominiais inadimplidas.",
+      "dataApresentacao": "2026-07-22T13:45"
+    },
+    {
+      "id": 2641483,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641483",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4763,
+      "ano": 2026,
+      "ementa": "Altera os arts. 217-A, 218 e 218-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estender os efeitos da norma à vítima com idade igual a 14 (quatorze) anos.",
+      "dataApresentacao": "2026-07-22T13:41"
+    },
+    {
+      "id": 2641482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641482",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4762,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.987, de 13 de fevereiro de 1995, para estabelecer que a suspensão do fornecimento de energia elétrica por inadimplemento somente poderá ocorrer no período da manhã, assegurando ao consumidor oportunidade razoável de regularização e religação do serviço no mesmo dia.",
+      "dataApresentacao": "2026-07-22T13:14"
+    },
+    {
+      "id": 2641479,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641479",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4761,
+      "ano": 2026,
+      "ementa": "Institui a Taxa de Fiscalização Sanitária sobre Apostas de Quota Fixa (TFS-Apostas), destinada a compensar o Sistema Único de Saúde (SUS) pelos custos de prevenção, vigilância, diagnóstico, tratamento e reabilitação do transtorno do jogo; altera a Lei n.º 13.756, de 12 de dezembro de 2018; e dá outras providências.",
+      "dataApresentacao": "2026-07-22T12:32"
+    },
+    {
+      "id": 2641478,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641478",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4760,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência) para instituir a Carteira Nacional de Identificação da Mãe Atípica – CIMA.",
+      "dataApresentacao": "2026-07-22T12:14"
+    },
+    {
+      "id": 2641476,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641476",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4759,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do consumidor contra o assédio consumerista por telemarketing ativo abusivo, estabelece parâmetros objetivos para a configuração de dano moral e altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais)",
+      "dataApresentacao": "2026-07-22T11:56"
+    },
+    {
+      "id": 2641468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641468",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4758,
+      "ano": 2026,
+      "ementa": "Altera o art. 30 da Lei nº 13.756, de 12 de dezembro de 2018, para destinar parcela do produto da arrecadação da loteria de apostas de quota fixa ao financiamento de ações e serviços de saúde prestados pelas Associações de Pais e Amigos dos Excepcionais (APAEs) e pela rede pública especializada no atendimento às pessoas com Transtorno do Espectro Autista (TEA).",
+      "dataApresentacao": "2026-07-22T11:31"
+    },
+    {
+      "id": 2641467,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641467",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4757,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio e Valorização do Cuidador Familiar, cria a Bolsa Cuidador para pessoas de baixa renda que se dedicam ao cuidado de dependentes, idosos ou pessoas com deficiência, assegura reconhecimento previdenciário do tempo de cuidado e dá outras providências.",
+      "dataApresentacao": "2026-07-22T11:06"
+    },
+    {
+      "id": 2641466,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641466",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4756,
+      "ano": 2026,
+      "ementa": "Institui medidas complementares de proteção, atendimento prioritário e inclusão social das pessoas com deficiência, com disposições específicas voltadas às pessoas com Transtorno do Espectro Autista (TEA) e às pessoas com Síndrome de Down, e dá outras providências.",
+      "dataApresentacao": "2026-07-22T10:49"
+    },
+    {
+      "id": 2641465,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641465",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4755,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Monitoramento Judicial do Feminicídio, cria mecanismos de reavaliação obrigatória de risco em casos de descumprimento de medida protetiva de urgência e estabelece medidas de transparência e integração de dados entre o Poder Judiciário, as polícias e os órgãos de segurança pública, com vistas à redução dos índices de feminicídio no Brasil.",
+      "dataApresentacao": "2026-07-22T10:47"
+    },
+    {
+      "id": 2641464,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641464",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4754,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7.716, de 5 de janeiro de 1989, para tipificar e agravar a punição de atos de preconceito, discriminação e violência motivados pela condição de vulnerabilidade econômica ou pela situação de rua da vítima, e dá outras providências.",
+      "dataApresentacao": "2026-07-22T10:46"
+    },
+    {
+      "id": 2641463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641463",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4753,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a cooperação interinstitucional, as medidas cautelares e o enfrentamento a fraudes financeiras.",
+      "dataApresentacao": "2026-07-22T09:06"
+    },
+    {
       "id": 2641462,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641462",
       "siglaTipo": "PL",
@@ -358,146 +498,6 @@
       "numero": 4715,
       "ano": 2026,
       "ementa": "Dispõe sobre o direito do cidadão a prazo de adaptação sem aplicação de penalidades quando houver mudança de procedimentos, exigências ou rotinas na prestação de serviços públicos e de serviços públicos delegados.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641409,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641409",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4714,
-      "ano": 2026,
-      "ementa": "Garante ao cidadão mecanismo rápido de mediação administrativa para solução de conflitos com o poder público.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641408,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641408",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4713,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão à informação e à escolha do procedimento mais simples, sempre que houver mais de uma forma válida de prestação de serviços públicos ou de serviços públicos delegados.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641407,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641407",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4712,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão à informação clara e realista sobre os prazos para prestação de serviços públicos e de serviços públicos delegados, vedada a indicação de prazos genéricos, imprecisos ou inexequíveis.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641406,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641406",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4711,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão à identificação clara do responsável pelo atendimento, análise ou encaminhamento de sua demanda, na prestação de serviços públicos e de serviços públicos delegados.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641405,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641405",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4710,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão à explicação clara, objetiva e compreensível, vedado o uso de linguagem excessivamente técnica, evasiva ou inacessível nas decisões, orientações e respostas prestadas por órgãos públicos e concessionárias de serviços públicos.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641404,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641404",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4709,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão à escuta mínima qualificada, vedada a negativa, o encaminhamento ou a conclusão de demandas sem consideração efetiva da manifestação do usuário na prestação de serviços públicos e de serviços públicos delegados.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641403,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641403",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4708,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito ao reagendamento automático de atendimento quando o serviço público ou serviço público delegado for cancelado por iniciativa do órgão ou da concessionária, vedada a exigência de novo pedido pelo cidadão.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641402,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641402",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4707,
-      "ano": 2026,
-      "ementa": "Institui assistência financeira suplementar da União destinada à implementação progressiva dos serviços de psicologia e serviço social nas redes públicas de educação básica.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641401,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641401",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4706,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de produção, pelo Poder Executivo, de relatórios cidadãos, mapas de impacto e rankings temáticos de políticas públicas, com base em evidências institucionais oficiais, e dá outras providências.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641400,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641400",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4705,
-      "ano": 2026,
-      "ementa": "Institui o Direito ao Amparo Emergencial Integral às Famílias Atingidas por Desastres, estabelece obrigações imediatas do Estado, fixa prazos máximos de resposta, assegura prioridade processual às ações indenizatórias e dá outras providências.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641399,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641399",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4704,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Produção Energética Renovável da Amazônia Legal – AMAZÔNIA COMBUSTÍVEL DO FUTURO, cria o Sistema Nacional de Competitividade dos Combustíveis Renováveis Estratégicos da Amazônia Legal, estabelece instrumentos de incentivo à produção, agroindustrialização, certificação, comercialização, financiamento, garantia de crédito, compras públicas e acesso a mercados, e dá outras providências.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641398,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641398",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4703,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do cidadão de estar acompanhado por pessoa de sua confiança em atendimentos públicos sensíveis, asseguradas as garantias de sigilo e proteção de dados.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641397,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641397",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4702,
-      "ano": 2026,
-      "ementa": "Institui o direito ao acesso mínimo essencial à energia elétrica para a pessoa idosa em situação de vulnerabilidade, mediante a criação da Faixa de Consumo Vital da Pessoa Idosa, e dá outras providências.",
-      "dataApresentacao": "2026-07-17T20:05"
-    },
-    {
-      "id": 2641396,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641396",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4701,
-      "ano": 2026,
-      "ementa": "Assegura ao cidadão o direito à revisão humana e à explicação mínima de decisões administrativas tomadas por sistemas automatizados ou protocolos padronizados.",
       "dataApresentacao": "2026-07-17T20:05"
     }
   ]
