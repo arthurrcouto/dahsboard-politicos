@@ -1,6 +1,66 @@
 {
   "dados": [
     {
+      "id": 2641615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641615",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4796,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para incluir, entre as destinações dos recursos do Fundo Nacional de Segurança Pública (FNSP), o custeio direto da defesa judicial e extrajudicial de agentes públicos federais de segurança pública que respondam a processo judicial ou administrativo em decorrência do exercício regular de suas atribuições constitucionais, legais e regulamentares, e dá outras providências.",
+      "dataApresentacao": "2026-07-27T14:11"
+    },
+    {
+      "id": 2641610,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641610",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4795,
+      "ano": 2026,
+      "ementa": "Veda a exportação de animais vivos das espécies bovina, bubalina, ovina, caprina, suína e equídea destinados ao abate ou à engorda para abate no exterior e dispõe sobre as infrações e sanções administrativas correspondentes.",
+      "dataApresentacao": "2026-07-27T11:04"
+    },
+    {
+      "id": 2641607,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641607",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4794,
+      "ano": 2026,
+      "ementa": "Institui a Lei Khetilly Nicole, que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para instituir causa geral de aumento de pena para os crimes dolosos praticados mediante violência ou grave ameaça contra pessoa com Transtorno do Espectro Autista.",
+      "dataApresentacao": "2026-07-27T10:06"
+    },
+    {
+      "id": 2641606,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641606",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4793,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.656, de 3 de junho de 1998, e nº 9.961, de 28 de janeiro de 2000, para dispor sobre os critérios de reajuste por variação de custos das contraprestações pecuniárias dos planos privados de assistência à saúde de contratação coletiva empresarial ou por adesão.",
+      "dataApresentacao": "2026-07-27T10:01"
+    },
+    {
+      "id": 2641604,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641604",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4792,
+      "ano": 2026,
+      "ementa": "Institui a Lei Presença Garantida – Lei de Continuidade do Apoio Escolar Inclusivo; acrescenta dispositivos à Lei nº 12.764, de 27 de dezembro de 2012, e à Lei nº 13.146, de 6 de julho de 2015, para assegurar a continuidade do acompanhamento especializado e do apoio escolar à pessoa com transtorno do espectro autista e às demais pessoas com deficiência nas situações de ausência, afastamento, impedimento, desligamento, vacância ou indisponibilidade do profissional responsável; veda restrições de acesso, frequência, jornada, permanência, participação e aprendizagem motivadas pela descontinuidade do apoio; e estabelece medidas de contingência, substituição qualificada, comunicação à família, registro individual de continuidade, proteção de dados pessoais e vedação de cobrança adicional.",
+      "dataApresentacao": "2026-07-25T17:18"
+    },
+    {
+      "id": 2641603,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641603",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 4791,
+      "ano": 2026,
+      "ementa": "Institui a Lei Terapia sem Teto – Lei Nacional de Garantia da Continuidade Terapêutica da Pessoa com Transtorno do Espectro Autista; altera as Leis nº 9.656, de 3 de junho de 1998, e nº 12.764, de 27 de dezembro de 2012, para vedar limitações quantitativas, temporais, administrativas, contratuais ou financeiras, diretas ou indiretas, às terapias multidisciplinares; assegurar plano terapêutico individualizado, continuidade durante os processos de autorização e revisão, motivação técnico-assistencial das decisões e proteção contra discriminação fundada na intensidade, na duração ou no custo do tratamento; e dá outras providências.",
+      "dataApresentacao": "2026-07-25T17:18"
+    },
+    {
       "id": 2641592,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641592",
       "siglaTipo": "PL",
@@ -439,66 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a inserção de mensagens educativas de conscientização sobre proteção animal em embalagens de alimentos destinados a animais.",
       "dataApresentacao": "2026-07-21T13:48"
-    },
-    {
-      "id": 2641448,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641448",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4744,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Prevenção à Violência contra Crianças e Adolescentes, cria o Programa Nacional \"Rotina de Diálogo\" e estabelece diretrizes para campanhas educativas e monitoramento de dados.",
-      "dataApresentacao": "2026-07-21T13:45"
-    },
-    {
-      "id": 2641447,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641447",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4743,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para excluir do texto legal a causa de isenção de pena para furtos contra ascendentes, descendentes e irmãos.",
-      "dataApresentacao": "2026-07-21T12:44"
-    },
-    {
-      "id": 2641446,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641446",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4742,
-      "ano": 2026,
-      "ementa": "Institui a Lei da Vedação à Publicidade Oculta em Plataformas de Streaming, estabelece normas de transparência publicitária em conteúdos audiovisuais e serviços digitais por assinatura, e dá outras providências.",
-      "dataApresentacao": "2026-07-21T12:17"
-    },
-    {
-      "id": 2641443,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641443",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4741,
-      "ano": 2026,
-      "ementa": "Institui o Selo Nacional Empresa Amiga da Pessoa Autista, destinado ao reconhecimento de boas práticas de inclusão, acessibilidade, atendimento adequado e valorização da pessoa com transtorno do espectro autista no ambiente empresarial, e dá outras providências.",
-      "dataApresentacao": "2026-07-21T11:06"
-    },
-    {
-      "id": 2641442,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641442",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4740,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir mecanismos de proteção contra apostas impulsivas, assegurar transparência sobre o resultado financeiro do apostador e vedar estímulos promocionais em situações de risco.",
-      "dataApresentacao": "2026-07-21T10:51"
-    },
-    {
-      "id": 2641441,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641441",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 4739,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões de Serviços Públicos), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer normas de proteção à infância e à adolescência mediante a vedação da publicidade de plataformas de conteúdo adulto e de serviços de natureza sexual em bens públicos e em espaços cuja exploração econômica dependa de delegação, incentivo ou benefício fiscal do Poder Público, e dá outras providências.",
-      "dataApresentacao": "2026-07-21T10:36"
     }
   ]
 }

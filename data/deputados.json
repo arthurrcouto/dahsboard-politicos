@@ -1926,6 +1926,17 @@
       "email": "dep.erosbiondini@camara.leg.br"
     },
     {
+      "id": 204482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204482",
+      "nome": "Euclydes Pettersen",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "MG",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+      "email": "dep.euclydespettersen@camara.leg.br"
+    },
+    {
       "id": 74454,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74454",
       "nome": "Eunício Oliveira",
@@ -2606,17 +2617,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
       "email": "dep.igortimo@camara.leg.br"
-    },
-    {
-      "id": 235620,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235620",
-      "nome": "Ilacir Bicalho",
-      "siglaPartido": "REPUBLICANOS",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-      "siglaUf": "MG",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235620.jpg",
-      "email": "dep.ilacirbicalho@camara.leg.br"
     },
     {
       "id": 74295,
