@@ -19,15 +19,6 @@
       "mandato": "Titular"
     },
     {
-      "id": "6358",
-      "nome": "Ana Paula Lobato",
-      "partido": "PSB",
-      "uf": "MA",
-      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6358.jpg",
-      "email": "sen.anapaulalobato@senado.leg.br",
-      "mandato": "1º Suplente"
-    },
-    {
       "id": "5967",
       "nome": "Angelo Coronel",
       "partido": "REPUBLICANOS",
@@ -404,6 +395,15 @@
       "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5979.jpg",
       "email": "sen.leilabarros@senado.leg.br",
       "mandato": "Titular"
+    },
+    {
+      "id": "6359",
+      "nome": "Lourdinha Pereira",
+      "partido": "PSB",
+      "uf": "MA",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6359.jpg",
+      "email": null,
+      "mandato": "2º Suplente"
     },
     {
       "id": "5926",
