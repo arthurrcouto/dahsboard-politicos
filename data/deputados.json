@@ -1145,6 +1145,17 @@
       "email": "dep.coronelulysses@camara.leg.br"
     },
     {
+      "id": 178963,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178963",
+      "nome": "Covatti Filho",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "RS",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+      "email": "dep.covattifilho@camara.leg.br"
+    },
+    {
       "id": 220608,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220608",
       "nome": "Cristiane Lopes",
@@ -4511,6 +4522,17 @@
       "email": "dep.pr.marcofeliciano@camara.leg.br"
     },
     {
+      "id": 226075,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226075",
+      "nome": "Priscila Costa",
+      "siglaPartido": "PL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+      "siglaUf": "CE",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
+      "email": "dep.priscilacosta@camara.leg.br"
+    },
+    {
       "id": 220533,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220533",
       "nome": "Prof. Reginaldo Veras",
@@ -5127,17 +5149,6 @@
       "email": "dep.sergiosouza@camara.leg.br"
     },
     {
-      "id": 235776,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235776",
-      "nome": "Sérgio Turra",
-      "siglaPartido": "PP",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-      "siglaUf": "RS",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235776.jpg",
-      "email": "dep.sergioturra@camara.leg.br"
-    },
-    {
       "id": 204557,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204557",
       "nome": "Sidney Leite",
@@ -5635,7 +5646,7 @@
   ],
   "partidoMap": {
     "MDB": 38,
-    "PL": 97,
+    "PL": 98,
     "PSDB": 18,
     "NOVO": 5,
     "PP": 46,
