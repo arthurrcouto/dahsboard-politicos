@@ -4522,17 +4522,6 @@
       "email": "dep.pr.marcofeliciano@camara.leg.br"
     },
     {
-      "id": 226075,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226075",
-      "nome": "Priscila Costa",
-      "siglaPartido": "PL",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-      "siglaUf": "CE",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
-      "email": "dep.priscilacosta@camara.leg.br"
-    },
-    {
       "id": 220533,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220533",
       "nome": "Prof. Reginaldo Veras",
@@ -5646,7 +5635,7 @@
   ],
   "partidoMap": {
     "MDB": 38,
-    "PL": 98,
+    "PL": 97,
     "PSDB": 18,
     "NOVO": 5,
     "PP": 46,
