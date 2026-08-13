@@ -2762,17 +2762,6 @@
       "email": "dep.jilmartatto@camara.leg.br"
     },
     {
-      "id": 235869,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869",
-      "nome": "João Carlos",
-      "siglaPartido": "REPUBLICANOS",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-      "siglaUf": "AM",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
-      "email": "dep.joaocarlos@camara.leg.br"
-    },
-    {
       "id": 141458,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141458",
       "nome": "João Carlos Bacelar",
@@ -5158,6 +5147,17 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
       "email": "dep.sidneyleite@camara.leg.br"
+    },
+    {
+      "id": 74356,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+      "nome": "Silas Câmara",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "AM",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+      "email": "dep.silascamara@camara.leg.br"
     },
     {
       "id": 204360,
