@@ -1,6 +1,236 @@
 {
   "dados": [
     {
+      "id": 2644403,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644403",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5163,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
+      "dataApresentacao": "2026-08-24T16:40"
+    },
+    {
+      "id": 2644401,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644401",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5162,
+      "ano": 2026,
+      "ementa": "Institui a Contribuição de Intervenção no Domínio Econômico incidente sobre a exploração comercial da modalidade lotérica de apostas de quota fixa – CIDE-Bet, e dá outras providências.",
+      "dataApresentacao": "2026-08-24T16:40"
+    },
+    {
+      "id": 2644396,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644396",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5161,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a atenção integral às pessoas com Doença Associada ao Anticorpo contra a Glicoproteína da Mielina dos Oligodendrócitos – MOGAD, no âmbito do Sistema Único de Saúde.",
+      "dataApresentacao": "2026-08-24T16:11"
+    },
+    {
+      "id": 2644395,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644395",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5160,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
+      "dataApresentacao": "2026-08-24T15:45"
+    },
+    {
+      "id": 2644389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5159,
+      "ano": 2026,
+      "ementa": "Concede ao Município de Brodowski, no Estado de São Paulo, o título de Capital Nacional de Cândido Portinari.",
+      "dataApresentacao": "2026-08-24T15:28"
+    },
+    {
+      "id": 2644388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5158,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Escudo da Vida, destinada à prevenção de mortes, lesões, incapacidades e outros agravos à saúde dos profissionais de segurança pública e defesa social, mediante ações de proteção, capacitação, prevenção, assistência e fornecimento de equipamentos, e altera as Leis nº 13.675, de 11 de junho de 2018, e nº 13.756, de 12 de dezembro de 2018.",
+      "dataApresentacao": "2026-08-24T15:25"
+    },
+    {
+      "id": 2644385,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644385",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5157,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, e a Lei nº 14.312, de 14 de março de 2022, para fortalecer o Programa Nacional de Qualidade de Vida para Profissionais de Segurança Pública (Pró-Vida) e para ampliar o amparo ao profissional vitimado ou lesionado no exercício da função.",
+      "dataApresentacao": "2026-08-24T14:55"
+    },
+    {
+      "id": 2644384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5156,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.889, de 8 de junho de 1973, para estabelecer critérios específicos para a aplicação de multas administrativas aos agricultores familiares.",
+      "dataApresentacao": "2026-08-24T14:38"
+    },
+    {
+      "id": 2644381,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644381",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5155,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional para o Desenvolvimento da Medicina Nuclear.",
+      "dataApresentacao": "2026-08-24T14:18"
+    },
+    {
+      "id": 2644372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644372",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5154,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional do Provedor Regional de Internet.",
+      "dataApresentacao": "2026-08-24T13:54"
+    },
+    {
+      "id": 2644371,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644371",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5153,
+      "ano": 2026,
+      "ementa": "Extingue a modalidade lotérica de apostas de quota fixa, proíbe sua exploração, oferta, promoção e facilitação em território nacional, estabelece medidas para o encerramento das autorizações vigentes, o bloqueio de acesso e a interrupção de fluxos financeiros relacionados à atividade, e dá outras providências.",
+      "dataApresentacao": "2026-08-24T13:39"
+    },
+    {
+      "id": 2644370,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644370",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5152,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.504, de 30 de setembro de 1997, nº 8.429, de 2 de junho de 1992, e nº 13.303, de 30 de junho de 2016, para dispor sobre a divulgação de demonstrações financeiras obrigatórias de empresas estatais, sociedades de economia mista e suas subsidiárias para fins de registro de candidatura e a responsabilização decorrente de sua não divulgação.",
+      "dataApresentacao": "2026-08-24T13:26"
+    },
+    {
+      "id": 2644368,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644368",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5151,
+      "ano": 2026,
+      "ementa": "Cria o Parque Nacional da Serrinha do Paranoá, unidade de conservação de proteção integral, no Distrito Federal, nos termos da Lei nº 9.985, de 18 de julho de 2000, e dá outras providências.",
+      "dataApresentacao": "2026-08-24T13:26"
+    },
+    {
+      "id": 2644364,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644364",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5150,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 – Estatuto do Desarmamento, para autorizar o porte de arma aos Auditores Fiscais Federais Agropecuários.",
+      "dataApresentacao": "2026-08-24T12:55"
+    },
+    {
+      "id": 2644362,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644362",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5149,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.139, de 23 de maio de 2025, Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 8.213, de 24 de julho de 1991, para ampliar a Política Nacional de Humanização do Luto Materno e Parental, incluir a proteção ao luto infantil, assegurar medidas de acolhimento e atenção integral às famílias enlutadas e estabelecer direitos trabalhistas e previdenciários decorrentes da perda gestacional, fetal, neonatal ou infantil e dá outras providências (Lei Até o Reencontro – Matheus Lindo Jaccard).",
+      "dataApresentacao": "2026-08-24T12:44"
+    },
+    {
+      "id": 2644361,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644361",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5148,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Férias com Dignidade, destinado à promoção do turismo social e do acesso ao lazer pelos profissionais não docentes da educação básica pública, mediante adesão voluntária de prestadores de serviços turísticos.",
+      "dataApresentacao": "2026-08-24T12:39"
+    },
+    {
+      "id": 2644358,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644358",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5147,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de participação dos candidatos à eleição majoritária, com representação no congresso nacional, em debates eleitorais transmitidos por emissoras de rádio e televisão e altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições).",
+      "dataApresentacao": "2026-08-24T11:48"
+    },
+    {
+      "id": 2644356,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644356",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5146,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Fomento ao Jiu-Jitsu Brasileiro como Instrumento de Inclusão Social, Integração Sensorial e Terapia Complementar para Pessoas com Transtorno do Espectro Autista (TEA), altera a Lei nº 12.764, de 27 de dezembro de 2012, e dá outras providências.",
+      "dataApresentacao": "2026-08-24T11:46"
+    },
+    {
+      "id": 2644347,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644347",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5145,
+      "ano": 2026,
+      "ementa": "Institui, em território nacional, o Dia Nacional de Conscientização sobre a Disfagia.",
+      "dataApresentacao": "2026-08-24T10:43"
+    },
+    {
+      "id": 2644346,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644346",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5144,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de fornecimento de espessantes alimentares para pacientes com disfagia no âmbito do Sistema Único de Saúde.",
+      "dataApresentacao": "2026-08-24T10:41"
+    },
+    {
+      "id": 2644343,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644343",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5143,
+      "ano": 2026,
+      "ementa": "Estabelece prazo máximo para a realização de avaliação diagnóstica e emissão de laudo relativo aos transtornos de neurodesenvolvimento no âmbito das redes pública e privada de saúde e institui mecanismos de garantia e efetividade temporal do diagnóstico.",
+      "dataApresentacao": "2026-08-24T10:35"
+    },
+    {
+      "id": 2644335,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644335",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5142,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.081, de 24 de agosto de 1966, para atualizar o âmbito de atuação profissional do cirurgião-dentista no sistema estomatognático, em suas estruturas contíguas, anexas e afins e nas estruturas orofaciais diretamente relacionadas às suas funções.",
+      "dataApresentacao": "2026-08-22T12:31"
+    },
+    {
+      "id": 2644334,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644334",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5141,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização da data e do horário exatos da efetivação de transações financeiras nos comprovantes, extratos e históricos de movimentação fornecidos ao usuário.",
+      "dataApresentacao": "2026-08-21T21:17"
+    },
+    {
       "id": 2644308,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644308",
       "siglaTipo": "PL",
@@ -269,236 +499,6 @@
       "ano": 2026,
       "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para autorizar a seleção aleatória ou por amostragem das pessoas a serem submetidas à abordagem e à busca pessoal em via pública.",
       "dataApresentacao": "2026-08-18T12:15"
-    },
-    {
-      "id": 2643950,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643950",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5107,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para inserir as Polícias Municipais no rol de integrantes operacionais do Sistema Único de Segurança Pública (Susp).",
-      "dataApresentacao": "2026-08-18T11:49"
-    },
-    {
-      "id": 2643949,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643949",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5106,
-      "ano": 2026,
-      "ementa": "Institui alíquota especial de contribuição previdenciária para pessoas diagnosticadas com câncer, diabetes mellitus tipo 1 ou seja mãe, pai ou responsável por pessoa com deficiência ou pessoa com transtorno do espectro autista e prevê formas de compensação.",
-      "dataApresentacao": "2026-08-18T11:29"
-    },
-    {
-      "id": 2643945,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643945",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5102,
-      "ano": 2026,
-      "ementa": "Confere ao Município de Santo Antônio da Patrulha, no Estado do Rio Grande do Sul, o título de Capital Nacional do Sonho.",
-      "dataApresentacao": "2026-08-18T09:58"
-    },
-    {
-      "id": 2643943,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643943",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5101,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para aumentar o limite de pontos necessários para a suspensão do direito de dirigir do condutor que exerce atividade remunerada ao veículo.",
-      "dataApresentacao": "2026-08-18T09:36"
-    },
-    {
-      "id": 2643940,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643940",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5100,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.433, de 8 de janeiro de 1997, para prever mecanismos de redução ou isenção da cobrança pelo uso de recursos hídricos em benefício da agricultura familiar, incentivar a eficiência no uso da água e a conservação dos recursos hídricos.",
-      "dataApresentacao": "2026-08-18T09:01"
-    },
-    {
-      "id": 2643936,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643936",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5099,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para instituir o Procedimento de Proteção Preventiva Infanto-Juvenil (PPPI), compreendendo identificação, comunicação obrigatória, integração institucional entre os órgãos da rede de proteção e avaliação preventiva de situações de risco a crianças e adolescentes potencialmente expostos em razão de situação de violência envolvendo pai, mãe ou responsável legal ou de fato.",
-      "dataApresentacao": "2026-08-17T20:00"
-    },
-    {
-      "id": 2643935,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643935",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5098,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, para disciplinar a remoção de veículos abandonados em propriedade privada.",
-      "dataApresentacao": "2026-08-17T19:55"
-    },
-    {
-      "id": 2643934,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643934",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5097,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional Antes do Sim, destinado à preparação para relações conjugais saudáveis e à prevenção da violência doméstica e familiar no âmbito de ações públicas de casamento coletivo ou comunitário e de iniciativas executadas em cooperação com a Justiça Itinerante; altera a Lei nº 11.340, de 7 de agosto de 2006; e dá outras providências.",
-      "dataApresentacao": "2026-08-17T18:42"
-    },
-    {
-      "id": 2643927,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643927",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5096,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a destinação de milhas, pontos e demais benefícios de programas de fidelidade decorrentes da aquisição de passagens aéreas com recursos públicos da União.",
-      "dataApresentacao": "2026-08-17T18:23"
-    },
-    {
-      "id": 2643925,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643925",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5095,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência, para vedar a exigência de comprovação de renda, patrimônio ou inscrição em benefícios e programas assistenciais para a expedição e renovação de credencial de estacionamento reservado à pessoa com deficiência.",
-      "dataApresentacao": "2026-08-17T17:49"
-    },
-    {
-      "id": 2643916,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643916",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5094,
-      "ano": 2026,
-      "ementa": "Institui o Programa Escola Cívica na Infância e dá outras providências.",
-      "dataApresentacao": "2026-08-17T15:32"
-    },
-    {
-      "id": 2643902,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643902",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5091,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a subvinculação progressiva de percentual obrigatório das receitas destinadas à Manutenção e Desenvolvimento do Ensino (MDE) e do FUNDEB para o financiamento da inclusão escolar de estudantes com deficiência e Transtorno do Espectro Autista (TEA); altera a Lei nº 8.429/1992 e a Lei Complementar nº 101/2000; e disciplina a fiscalização social e a formação continuada docente.",
-      "dataApresentacao": "2026-08-17T12:37"
-    },
-    {
-      "id": 2643889,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643889",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5090,
-      "ano": 2026,
-      "ementa": "Estabelece o Programa Mulher Segura e dispõe sobre o Sistema de Prevenção ao Feminicídio, Proteção Silenciosa, Gestão Integrada de Risco e Autonomia da Mulher.",
-      "dataApresentacao": "2026-08-17T09:41"
-    },
-    {
-      "id": 2643856,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643856",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5088,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014 (Estatuto Geral das Guardas Municipais) para instituir diretrizes de capacitação, controle e transparência para o armamento das guardas municipais, e dá outras providências.",
-      "dataApresentacao": "2026-08-14T15:28"
-    },
-    {
-      "id": 2643842,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643842",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5086,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o regime jurídico específico das associações civis sem fins lucrativos de utilidade pública que instituam sistemas de beneficência e assistência mútua de interesse social.",
-      "dataApresentacao": "2026-08-14T14:44"
-    },
-    {
-      "id": 2643824,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643824",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5085,
-      "ano": 2026,
-      "ementa": "Concede isenção do Imposto de Importação (II) sobre medicamentos destinados ao tratamento de enfermidades graves ou doenças raras, quando importados por pessoa física para uso próprio ou individual, inclusive por meio de bagagem acompanhada.",
-      "dataApresentacao": "2026-08-14T13:23"
-    },
-    {
-      "id": 2643816,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643816",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5084,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o recolhimento e a destinação ambientalmente adequada de materiais utilizados em oferendas, rituais, cerimônias religiosas, manifestações culturais e atividades similares realizadas em espaços públicos e áreas ambientalmente sensíveis.",
-      "dataApresentacao": "2026-08-14T12:38"
-    },
-    {
-      "id": 2643808,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643808",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5083,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de emissão, controle e fiscalização do Perfil Profissiográfico Previdenciário (PPP) e do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT) para os médicos-veterinários, inclusive contribuintes individuais, com vistas ao efetivo reconhecimento da atividade especial por exposição a agentes nocivos, e dá outras providências.",
-      "dataApresentacao": "2026-08-14T12:07"
-    },
-    {
-      "id": 2643807,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643807",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5082,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de dispersão e desagregação hídrica rápida para papéis higiênicos fabricados e comercializados no território nacional, altera a Lei 12.305, de 2 de agosto de 2010, e dá outras providências.",
-      "dataApresentacao": "2026-08-14T12:00"
-    },
-    {
-      "id": 2643805,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643805",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5081,
-      "ano": 2026,
-      "ementa": "Institui o Estatuto do Profissional de Portaria e Controle de Acesso, estabelece os requisitos para o exercício das atividades, seus direitos e deveres, e dá outras providências.",
-      "dataApresentacao": "2026-08-14T11:31"
-    },
-    {
-      "id": 2643803,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643803",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5080,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei n. 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer tratamento penal mais gravoso aos crimes de furto e roubo que tenham por objeto equipamento, ferramenta, uniforme, veículo ou utensílio utilizado para o trabalho ou a subsistência da vítima.",
-      "dataApresentacao": "2026-08-14T11:17"
-    },
-    {
-      "id": 2643800,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643800",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5079,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Ressarcimento ao Erário pelo Custeio da Execução Penal e altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal).",
-      "dataApresentacao": "2026-08-14T11:14"
-    },
-    {
-      "id": 2643797,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643797",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5078,
-      "ano": 2026,
-      "ementa": "Institui o Auxílio Emergencial às Famílias de Vítimas de Violência Urbana praticada por Agentes Públicos da União, dos Estados ou do Distrito Federal, destinado aos dependentes em situação de vulnerabilidade econômica, assegura a análise, a implantação e o primeiro pagamento no prazo de trinta dias contado do requerimento e regulamenta o art. 245 da Constituição Federal.",
-      "dataApresentacao": "2026-08-14T11:07"
     }
   ]
 }
