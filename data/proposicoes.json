@@ -1,6 +1,86 @@
 {
   "dados": [
     {
+      "id": 2644883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644883",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5227,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a atualização monetária do custo de aquisição de bens e direitos na apuração do ganho de capital das pessoas físicas e das pessoas jurídicas não tributadas com base no lucro real; institui regime opcional de atualização de bens a valor de mercado, com incidência do imposto sobre a renda e da Contribuição Social sobre o Lucro Líquido; e altera as Leis nºs 7.713, de 22 de dezembro de 1988, 9.249, de 26 de dezembro de 1995, 9.430, de 27 de dezembro de 1996, e 13.259, de 16 de março de 2016.",
+      "dataApresentacao": "2026-08-31T11:05"
+    },
+    {
+      "id": 2644881,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644881",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5226,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.476, de 23 de julho de 2026, para explicitar ações de atenção à saúde da pessoa idosa entre as iniciativas consideradas para a concessão do título Cidade Amiga do Idoso.",
+      "dataApresentacao": "2026-08-31T10:56"
+    },
+    {
+      "id": 2644876,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644876",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5225,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre o furto, o roubo e a receptação de medicamentos, insumos farmacêuticos, dispositivos médicos e insumos hospitalares e sobre a oferta ilícita desses produtos em plataformas digitais.",
+      "dataApresentacao": "2026-08-31T10:49"
+    },
+    {
+      "id": 2644867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644867",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5224,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a responsabilidade civil por danos causados ao apostador decorrentes da publicidade, propaganda e promoção de apostas de quota fixa.",
+      "dataApresentacao": "2026-08-31T10:07"
+    },
+    {
+      "id": 2644858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644858",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5223,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal); a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); e Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para ampliar o prazo de decadência do direito de queixa ou de representação quando se tratar de crimes praticados contra crianças, adolescentes e pessoas idosas.",
+      "dataApresentacao": "2026-08-31T09:23"
+    },
+    {
+      "id": 2644857,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644857",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5222,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto da Pessoa Idosa e dá outras providências, para tratar da validade da Carteira da Pessoa Idosa.",
+      "dataApresentacao": "2026-08-31T09:20"
+    },
+    {
+      "id": 2644855,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644855",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5221,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para assegurar mecanismo acessível de confirmação das informações essenciais à manifestação de vontade da pessoa com deficiência nas contratações celebradas integralmente por meio digital e sem atendimento humano.",
+      "dataApresentacao": "2026-08-29T09:51"
+    },
+    {
+      "id": 2644853,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644853",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5220,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir, entre as diretrizes dos conteúdos curriculares da educação básica, o desenvolvimento de conhecimentos sobre finanças públicas, planejamento e orçamento público, transparência, participação social e controle da aplicação dos recursos públicos.",
+      "dataApresentacao": "2026-08-28T20:22"
+    },
+    {
       "id": 2644832,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644832",
       "siglaTipo": "PL",
@@ -419,86 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, a Lei nº 8.069, de 13 de julho de 1990, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a educação domiciliar como forma de cumprimento do dever de educação básica, instituir regime declaratório simplificado, assegurar liberdade pedagógica, avaliação objetiva da aprendizagem, proteção integral do educando e segurança jurídica às famílias.",
       "dataApresentacao": "2026-08-25T14:58"
-    },
-    {
-      "id": 2644537,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644537",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5167,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997, para fortalecer a segurança do abastecimento de Gás Liquefeito de Petróleo (GLP) destinado ao consumo residencial, ampliar a transparência do setor e aperfeiçoar os mecanismos de fiscalização e rastreabilidade.",
-      "dataApresentacao": "2026-08-25T14:43"
-    },
-    {
-      "id": 2644514,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644514",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5166,
-      "ano": 2026,
-      "ementa": "Denomina “Ponte Philippe Guédon” a estrutura rodoviária localizada no Km 58 da BR 040, com saída para o Km 34,4 da BR 495/RJ, no Distrito de Itaipava, Município de Petrópolis, Estado do Rio de Janeiro.",
-      "dataApresentacao": "2026-08-25T14:13"
-    },
-    {
-      "id": 2644425,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644425",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5164,
-      "ano": 2026,
-      "ementa": "Concede o título de Patrimônio Nacional da Pesquisa Agropecuária em Leite à Embrapa Gado de Leite.",
-      "dataApresentacao": "2026-08-24T20:16"
-    },
-    {
-      "id": 2644403,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644403",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5163,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
-      "dataApresentacao": "2026-08-24T16:40"
-    },
-    {
-      "id": 2644401,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644401",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5162,
-      "ano": 2026,
-      "ementa": "Institui a Contribuição de Intervenção no Domínio Econômico incidente sobre a exploração comercial da modalidade lotérica de apostas de quota fixa – CIDE-Bet, e dá outras providências.",
-      "dataApresentacao": "2026-08-24T16:40"
-    },
-    {
-      "id": 2644396,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644396",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5161,
-      "ano": 2026,
-      "ementa": "Institui diretrizes para a atenção integral às pessoas com Doença Associada ao Anticorpo contra a Glicoproteína da Mielina dos Oligodendrócitos – MOGAD, no âmbito do Sistema Único de Saúde.",
-      "dataApresentacao": "2026-08-24T16:11"
-    },
-    {
-      "id": 2644395,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644395",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5160,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
-      "dataApresentacao": "2026-08-24T15:45"
-    },
-    {
-      "id": 2644389,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644389",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5159,
-      "ano": 2026,
-      "ementa": "Concede ao Município de Brodowski, no Estado de São Paulo, o título de Capital Nacional de Cândido Portinari.",
-      "dataApresentacao": "2026-08-24T15:28"
     }
   ]
 }
