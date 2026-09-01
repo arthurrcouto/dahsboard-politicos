@@ -1,6 +1,126 @@
 {
   "dados": [
     {
+      "id": 2645057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645057",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5240,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional \"Rede Recomeço\", voltada ao incentivo da autonomia financeira, empregabilidade, qualificação profissional e suporte socioeconômico para mulheres vítimas de violência doméstica e familiar; e altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
+      "dataApresentacao": "2026-08-31T20:40"
+    },
+    {
+      "id": 2645042,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645042",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5239,
+      "ano": 2026,
+      "ementa": "Altera o artigo 6.º da Lei n.º 14.601, de 19 de junho de 2023, para prever a manutenção das famílias beneficiárias do Programa Bolsa Família na regra de proteção pelo período de vinte e quatro meses, contados da obtenção de emprego formal por um ou mais de seus integrantes, com a assinatura da Carteira de Trabalho e Previdência Social, garantida, durante todo o período, a percepção de cem por cento do valor do benefício a que a família teria direito, independentemente do valor da renda gerada pelo novo vínculo empregatício.",
+      "dataApresentacao": "2026-08-31T20:10"
+    },
+    {
+      "id": 2645036,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645036",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5238,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Internacionalização da Educação Pública e cria o Programa Nacional Ganhe o Mundo.",
+      "dataApresentacao": "2026-08-31T19:47"
+    },
+    {
+      "id": 2645029,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645029",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5237,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para assegurar, no âmbito do Sistema Único de Saúde (SUS), acesso à avaliação psicológica, neuropsicológica ou multiprofissional, quando tecnicamente indicada, às pessoas com indícios de altas habilidades ou superdotação.",
+      "dataApresentacao": "2026-08-31T19:09"
+    },
+    {
+      "id": 2644991,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644991",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5236,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Natália Fagundes Morari de Proteção e Cuidado Integral à Saúde Mental das Profissionais de Segurança Pública e Defesa Social durante a gestação e o período pós-parto e institui o Dia Nacional de Conscientização sobre a Saúde Mental Materna das Profissionais de Segurança Pública e Defesa Social.",
+      "dataApresentacao": "2026-08-31T16:57"
+    },
+    {
+      "id": 2644980,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644980",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5234,
+      "ano": 2026,
+      "ementa": "Reconhece o Município de Campo Novo do Parecis, no Estado de Mato Grosso, como Capital Brasileira do Etnoturismo e estabelece diretrizes para a promoção, valorização e desenvolvimento sustentável do Etnoturismo no Município e na Região Turística das Nascentes.",
+      "dataApresentacao": "2026-08-31T16:20"
+    },
+    {
+      "id": 2644975,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644975",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5233,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o cancelamento de tombamento de bens integrantes do patrimônio cultural brasileiro no âmbito federal, estabelece requisitos para a transferência definitiva de bens culturais da União ao exterior e revoga o Decreto-Lei nº 3.866, de 29 de novembro de 1941.",
+      "dataApresentacao": "2026-08-31T16:02"
+    },
+    {
+      "id": 2644973,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644973",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5232,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer garantias na classificação de danos em veículos envolvidos em sinistros de trânsito e na imposição de restrições administrativas.",
+      "dataApresentacao": "2026-08-31T15:55"
+    },
+    {
+      "id": 2644966,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644966",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5231,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.874, de 28 de maio de 2024, para estabelecer prazo máximo e rito diferenciado de análise de pedidos de uso compassivo e de acesso expandido a tratamentos experimentais destinados a pacientes com lesão medular aguda ou traumática, assegurar acesso a tratamento experimental a pacientes sem alternativa terapêutica registrada, e dá outras providências.",
+      "dataApresentacao": "2026-08-31T15:21"
+    },
+    {
+      "id": 2644914,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644914",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5230,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.889, de 8 de junho de 1973, para vedar a fixação de limite máximo de idade para a manipulação ou aplicação de agrotóxicos e produtos afins exclusivamente com fundamento na idade cronológica do trabalhador.",
+      "dataApresentacao": "2026-08-31T12:53"
+    },
+    {
+      "id": 2644907,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644907",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5229,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a dispensa da exigência do selo físico de certificação em capacetes cujo modelo já possua registro válido perante o INMETRO.",
+      "dataApresentacao": "2026-08-31T12:28"
+    },
+    {
+      "id": 2644889,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644889",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5228,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para assegurar aos empregados em serviços de portaria, controle de acesso e zeladoria o direito a seguro de vida em grupo, capacitação profissional custeada pelo empregador, assistência jurídica por ato praticado em serviço e condições adequadas no posto de trabalho.",
+      "dataApresentacao": "2026-08-31T11:40"
+    },
+    {
       "id": 2644883,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644883",
       "siglaTipo": "PL",
@@ -379,126 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Programa Nacional de Energia Solar para Escolas e Unidades Públicas de Saúde - PRONESP, estabelece mecanismos de financiamento pela União para instalação de sistemas de geração de energia solar fotovoltaica em escolas e hospitais públicos e determina o reinvestimento da economia obtida em ações de saúde e educação.",
       "dataApresentacao": "2026-08-26T11:15"
-    },
-    {
-      "id": 2644601,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644601",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5180,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Infraestrutura Escolar Digital e dá outras providências.",
-      "dataApresentacao": "2026-08-26T11:12"
-    },
-    {
-      "id": 2644600,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644600",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5179,
-      "ano": 2026,
-      "ementa": "Institui o Estatuto da Segurança Digital do Idoso, estabelece diretrizes para a proteção de pessoas idosas em ambientes virtuais, cria o Canal Nacional de Denúncias e dá outras providências.",
-      "dataApresentacao": "2026-08-26T11:06"
-    },
-    {
-      "id": 2644599,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644599",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5178,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Formação Profissional para Trabalhadores Substituídos por Automação e Inteligência Artificial, estabelece o direito à requalificação tecnológica gratuita, cria incentivos fiscais para a recontratação e dá outras providências.",
-      "dataApresentacao": "2026-08-26T11:03"
-    },
-    {
-      "id": 2644592,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644592",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5176,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento do Técnico em Imobilização Ortopédica como profissional de saúde, para fins de acumulação remunerada de cargos ou empregos públicos, nos termos do art. 37, inciso XVI, alínea “c”, da Constituição Federal, e dá outras providências",
-      "dataApresentacao": "2026-08-26T10:18"
-    },
-    {
-      "id": 2644557,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644557",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5175,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Prevenção ao Câncer de Pele e de Atenção Integral à Pessoa com Neoplasia Cutânea.",
-      "dataApresentacao": "2026-08-25T18:20"
-    },
-    {
-      "id": 2644551,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644551",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5174,
-      "ano": 2026,
-      "ementa": "Proíbe a execução de atividades e de experimentos de campo de modificação da radiação solar no território nacional e nos demais espaços sujeitos à jurisdição brasileira, nos limites do direito internacional, e dá outras providências.",
-      "dataApresentacao": "2026-08-25T18:02"
-    },
-    {
-      "id": 2644550,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644550",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5173,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para fortalecer a reparação dos danos causados às vítimas de crimes patrimoniais praticados contra produtores rurais e estabelecer mecanismos de destinação prioritária da remuneração do trabalho prisional ao ressarcimento dos prejuízos decorrentes do crime.",
-      "dataApresentacao": "2026-08-25T17:26"
-    },
-    {
-      "id": 2644549,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644549",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5172,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Abastecimento Alimentar (PNAAB) e dispõe sobre o Plano Nacional de Abastecimento Alimentar.",
-      "dataApresentacao": "2026-08-25T17:26"
-    },
-    {
-      "id": 2644548,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644548",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5171,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.040, de 9 de dezembro de 2024, para estabelecer limite para a franquia e outras formas de participação financeira do segurado nos contratos de seguro de aparelhos de telefonia móvel, disciplinar a apuração do valor médio de mercado e estabelecer regras para a reposição por aparelhos novos ou recondicionados.",
-      "dataApresentacao": "2026-08-25T16:49"
-    },
-    {
-      "id": 2644547,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644547",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5170,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispõe sobre a contratação de pessoas com Síndrome de Down pelos prestadores de serviços da Administração Pública direta e indireta da União.",
-      "dataApresentacao": "2026-08-25T16:22"
-    },
-    {
-      "id": 2644545,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644545",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5169,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proibição de comercialização da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA).",
-      "dataApresentacao": "2026-08-25T16:19"
-    },
-    {
-      "id": 2644538,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644538",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5168,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, a Lei nº 8.069, de 13 de julho de 1990, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a educação domiciliar como forma de cumprimento do dever de educação básica, instituir regime declaratório simplificado, assegurar liberdade pedagógica, avaliação objetiva da aprendizagem, proteção integral do educando e segurança jurídica às famílias.",
-      "dataApresentacao": "2026-08-25T14:58"
     }
   ]
 }
