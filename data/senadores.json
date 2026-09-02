@@ -271,15 +271,6 @@
       "mandato": "Titular"
     },
     {
-      "id": "6381",
-      "nome": "Hermes Klann",
-      "partido": "PL",
-      "uf": "SC",
-      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6381.jpg",
-      "email": "sen.hermesklann@senado.leg.br",
-      "mandato": "1º Suplente"
-    },
-    {
       "id": "5008",
       "nome": "Humberto Costa",
       "partido": "PT",
@@ -358,6 +349,15 @@
       "uf": "GO",
       "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5895.jpg",
       "email": "sen.jorgekajuru@senado.leg.br",
+      "mandato": "Titular"
+    },
+    {
+      "id": "6342",
+      "nome": "Jorge Seif",
+      "partido": "PL",
+      "uf": "SC",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6342.jpg",
+      "email": "sen.jorgeseif@senado.leg.br",
       "mandato": "Titular"
     },
     {
