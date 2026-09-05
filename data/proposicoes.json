@@ -1,6 +1,66 @@
 {
   "dados": [
     {
+      "id": 2646116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646116",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5301,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Atenção Integral à Obesidade no âmbito do Sistema Único de Saúde – SUS, estabelece protocolo específico para pessoas com obesidade de alto grau e comorbidades e dispõe sobre tratamento multidisciplinar e farmacológico.",
+      "dataApresentacao": "2026-09-04T16:13"
+    },
+    {
+      "id": 2645995,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645995",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5300,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.914, de 3 de julho de 2024, para instituir, no âmbito da Política Nacional de Assistência Estudantil, o Programa Pé-de-Meia Universitário, destinado à permanência e à conclusão da educação superior por estudantes de baixa renda, com incentivos de matrícula, permanência e conclusão na modalidade de poupança; e dá outras providências.",
+      "dataApresentacao": "2026-09-04T12:36"
+    },
+    {
+      "id": 2645987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645987",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5299,
+      "ano": 2026,
+      "ementa": "Reconhece os serviços da atividade varejista de mercados e hipermercados como essenciais.",
+      "dataApresentacao": "2026-09-04T11:04"
+    },
+    {
+      "id": 2645986,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645986",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5298,
+      "ano": 2026,
+      "ementa": "Torna crime o transporte coletivo irregular de passageiros.",
+      "dataApresentacao": "2026-09-04T11:04"
+    },
+    {
+      "id": 2645985,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645985",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5297,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o porte de arma de fogo para possuidores de ativos virtuais sob risco de coação física.",
+      "dataApresentacao": "2026-09-04T09:36"
+    },
+    {
+      "id": 2645984,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645984",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5296,
+      "ano": 2026,
+      "ementa": "Estabelece garantias mínimas e simplifica a concessão do benefício eventual por situação de morte destinado às despesas com funeral de famílias em situação de vulnerabilidade social, prevendo sua identificação e atendimento de forma ativa pelo Poder Público.",
+      "dataApresentacao": "2026-09-04T07:28"
+    },
+    {
       "id": 2645965,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645965",
       "siglaTipo": "PL",
@@ -439,66 +499,6 @@
       "ano": 2026,
       "ementa": "Altera o artigo 6.º da Lei n.º 14.601, de 19 de junho de 2023, para prever a manutenção das famílias beneficiárias do Programa Bolsa Família na regra de proteção pelo período de vinte e quatro meses, contados da obtenção de emprego formal por um ou mais de seus integrantes, com a assinatura da Carteira de Trabalho e Previdência Social, garantida, durante todo o período, a percepção de cem por cento do valor do benefício a que a família teria direito, independentemente do valor da renda gerada pelo novo vínculo empregatício.",
       "dataApresentacao": "2026-08-31T20:10"
-    },
-    {
-      "id": 2645036,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645036",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5238,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Internacionalização da Educação Pública e cria o Programa Nacional Ganhe o Mundo.",
-      "dataApresentacao": "2026-08-31T19:47"
-    },
-    {
-      "id": 2645029,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645029",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5237,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para assegurar, no âmbito do Sistema Único de Saúde (SUS), acesso à avaliação psicológica, neuropsicológica ou multiprofissional, quando tecnicamente indicada, às pessoas com indícios de altas habilidades ou superdotação.",
-      "dataApresentacao": "2026-08-31T19:09"
-    },
-    {
-      "id": 2644991,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644991",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5236,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional Natália Fagundes Morari de Proteção e Cuidado Integral à Saúde Mental das Profissionais de Segurança Pública e Defesa Social durante a gestação e o período pós-parto e institui o Dia Nacional de Conscientização sobre a Saúde Mental Materna das Profissionais de Segurança Pública e Defesa Social.",
-      "dataApresentacao": "2026-08-31T16:57"
-    },
-    {
-      "id": 2644980,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644980",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5234,
-      "ano": 2026,
-      "ementa": "Reconhece o Município de Campo Novo do Parecis, no Estado de Mato Grosso, como Capital Brasileira do Etnoturismo e estabelece diretrizes para a promoção, valorização e desenvolvimento sustentável do Etnoturismo no Município e na Região Turística das Nascentes.",
-      "dataApresentacao": "2026-08-31T16:20"
-    },
-    {
-      "id": 2644975,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644975",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5233,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o cancelamento de tombamento de bens integrantes do patrimônio cultural brasileiro no âmbito federal, estabelece requisitos para a transferência definitiva de bens culturais da União ao exterior e revoga o Decreto-Lei nº 3.866, de 29 de novembro de 1941.",
-      "dataApresentacao": "2026-08-31T16:02"
-    },
-    {
-      "id": 2644973,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644973",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5232,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer garantias na classificação de danos em veículos envolvidos em sinistros de trânsito e na imposição de restrições administrativas.",
-      "dataApresentacao": "2026-08-31T15:55"
     }
   ]
 }
