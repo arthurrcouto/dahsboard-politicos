@@ -1,6 +1,96 @@
 {
   "dados": [
     {
+      "id": 2646299,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646299",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5329,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, que institui o Sistema Único de Segurança Pública (Susp), para estabelecer diretrizes nacionais de conectividade operacional e comunicação segura ininterrupta para as forças de segurança pública e defesa social.",
+      "dataApresentacao": "2026-09-09T16:33"
+    },
+    {
+      "id": 2646298,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646298",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5328,
+      "ano": 2026,
+      "ementa": "Institui o Dia Internacional de Conscientização e Combate ao Câncer Infantojuvenil, a ser celebrado anualmente no dia 22 de setembro, juntamente com a campanha do Setembro Dourado.",
+      "dataApresentacao": "2026-09-09T15:57"
+    },
+    {
+      "id": 2646286,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646286",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5327,
+      "ano": 2026,
+      "ementa": "Institui o Contrato de Aperfeiçoamento Profissional do Médico-Veterinário e estabelece normas para a formação prática supervisionada de médicos-veterinários em início de carreira.",
+      "dataApresentacao": "2026-09-09T15:05"
+    },
+    {
+      "id": 2646284,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646284",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5326,
+      "ano": 2026,
+      "ementa": "Dispõe sobre vedação aos empreendedores minerários de patrocinarem e apoiarem eventos e iniciativas culturais, esportivas, educacionais e comunitárias, promovidas por entidades públicas e/ou privadas, durante a tramitação do licenciamento ambiental.",
+      "dataApresentacao": "2026-09-09T15:03"
+    },
+    {
+      "id": 2646260,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646260",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5325,
+      "ano": 2026,
+      "ementa": "Altera o art. 149-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tornar crime o aliciamento ou recrutamento de pessoa com a finalidade de combate em conflito armado.",
+      "dataApresentacao": "2026-09-09T13:44"
+    },
+    {
+      "id": 2646259,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646259",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5324,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.540, de 3 de abril de 2023, para assegurar à vítima de assédio sexual, de outro crime contra a dignidade sexual ou de qualquer forma de violência sexual o direito de participar, na qualidade de interessada, dos procedimentos administrativos, inclusive disciplinares, instaurados para a apuração dos fatos.",
+      "dataApresentacao": "2026-09-09T13:25"
+    },
+    {
+      "id": 2646258,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646258",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5323,
+      "ano": 2026,
+      "ementa": "Altera o artigo 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas aplicáveis às lesões corporais praticadas no âmbito de violência doméstica e familiar contra a mulher e estabelecer causas específicas de aumento de pena em circunstâncias de maior gravidade e risco de escalada da violência.",
+      "dataApresentacao": "2026-09-09T11:58"
+    },
+    {
+      "id": 2646240,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646240",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5322,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para assegurar a inclusão produtiva de mães, pais, responsáveis legais e cuidadores familiares de pessoas com deficiência beneficiárias do benefício de Prestação Continuada, permitir sua formalização como Microempreendedor Individual (MEI) sem perda automática do benefício, estabelecer período de proteção à renda familiar e dispor sobre o restabelecimento simplificado do benefício.",
+      "dataApresentacao": "2026-09-09T09:33"
+    },
+    {
+      "id": 2646239,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646239",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5321,
+      "ano": 2026,
+      "ementa": "Institui o Programa Brasil Pescador de Desenvolvimento, Renda e Valorização da Pesca Artesanal, estabelece a Bolsa Pescador Empreendedor e dispõe sobre medidas de fortalecimento da cadeia produtiva da pesca artesanal.",
+      "dataApresentacao": "2026-09-08T19:07"
+    },
+    {
       "id": 2646236,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646236",
       "siglaTipo": "PL",
@@ -409,96 +499,6 @@
       "ano": 2026,
       "ementa": "Reconhece a cultura gospel como manifestação da cultura nacional.",
       "dataApresentacao": "2026-09-02T14:02"
-    },
-    {
-      "id": 2645541,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645541",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5274,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.040, de 9 de dezembro de 2024, para assegurar a inventariantes, meeiros, herdeiros, beneficiários e demais sucessores legitimados o acesso a informações sobre produto de seguro celebrado por pessoa falecida.",
-      "dataApresentacao": "2026-09-02T13:05"
-    },
-    {
-      "id": 2645408,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645408",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5272,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional SPA – Saúde Mental e Bem-Estar, estabelece diretrizes para a promoção da saúde mental e a prevenção do sofrimento psíquico no âmbito do Sistema Único de Saúde – SUS, e dá outras providências.",
-      "dataApresentacao": "2026-09-01T20:44"
-    },
-    {
-      "id": 2645359,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645359",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5271,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para vedar o cadastro e o acesso de menores de 16 (dezesseis) anos a redes sociais e prever a realização de campanhas de conscientização sobre os riscos do uso precoce de redes sociais.",
-      "dataApresentacao": "2026-09-01T20:04"
-    },
-    {
-      "id": 2645264,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645264",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5269,
-      "ano": 2026,
-      "ementa": "Sugere ao Poder Executivo, por intermédio do Ministério da Justiça e Segurança Pública e da Polícia Federal, a revisão dos atos normativos infralegais que disciplinam a renovação do credenciamento de Instrutores de Armamento e Tiro (IAT), para instituir procedimento simplificado com dispensa de repetição dos testes práticos e teóricos iniciais para profissionais em atividade regular.",
-      "dataApresentacao": "2026-09-01T18:29"
-    },
-    {
-      "id": 2645253,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645253",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5268,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para instituir procedimento simplificado de renovação periódica do credenciamento de Instrutores de Armamento e Tiro perante a Polícia Federal, vedando a repetição integral de testes e exigências probatórias iniciais aos profissionais em atividade regular.",
-      "dataApresentacao": "2026-09-01T18:19"
-    },
-    {
-      "id": 2645252,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645252",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5267,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para ampliar as deduções do Imposto sobre a Renda da Pessoa Física relativas aos dependentes com deficiência ou Transtorno do Espectro Autista – TEA e estabelecer prioridade na restituição para responsáveis legais que exerçam cuidados permanentes.",
-      "dataApresentacao": "2026-09-01T18:13"
-    },
-    {
-      "id": 2645247,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645247",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5266,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para ampliar de 2 (dois) para até 6 (seis) salários-mínimos a faixa de renda mensal que assegura a gratuidade e o desconto de cinquenta por cento nas passagens de transporte coletivo interestadual.",
-      "dataApresentacao": "2026-09-01T18:10"
-    },
-    {
-      "id": 2645237,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645237",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5265,
-      "ano": 2026,
-      "ementa": "\"Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para ampliar de 2 (dois) para até 6 (seis) salários-mínimos a faixa de renda mensal que assegura a gratuidade e o desconto de cinquenta por cento nas passagens de transporte coletivo interestadual.\"",
-      "dataApresentacao": "2026-09-01T17:54"
-    },
-    {
-      "id": 2645233,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645233",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5264,
-      "ano": 2026,
-      "ementa": "Institui o Auxílio Maria Cecília, destinado à proteção socioeconômica das famílias de crianças e adolescentes em tratamento oncológico, altera a Lei nº 8.742, de 7 de dezembro de 1993 e dá outras providências.",
-      "dataApresentacao": "2026-09-01T17:28"
     }
   ]
 }
