@@ -1,6 +1,66 @@
 {
   "dados": [
     {
+      "id": 2646376,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646376",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5355,
+      "ano": 2026,
+      "ementa": "Altera as Leis nºs 13.426, de 30 de março de 2017, e 15.046, de 17 de dezembro de 2024, para ampliar as prioridades na esterilização de cães e gatos e assegurar a gratuidade das operações do Cadastro Nacional de Animais Domésticos.",
+      "dataApresentacao": "2026-09-11T15:50"
+    },
+    {
+      "id": 2646368,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646368",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5352,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para estabelecer critérios de territorialização e retorno local dos recursos do Fundo de Garantia do Tempo de Serviço – FGTS destinados a investimentos.",
+      "dataApresentacao": "2026-09-11T11:32"
+    },
+    {
+      "id": 2646365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646365",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5351,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.096, de 19 de setembro de 1995, e nº 9.504, de 30 de setembro de 1997, para dispor sobre normas relativas à escolha e à substituição de candidatos, sobre a identificação dos órgãos competentes para esses procedimentos, sobre a obrigatoriedade e a publicidade dos códigos de ética e conduta e sobre a motivação das decisões disciplinares.",
+      "dataApresentacao": "2026-09-11T11:07"
+    },
+    {
+      "id": 2646364,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646364",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5350,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Luto sem Burocracia, destinada a simplificar as providências decorrentes do falecimento por meio da integração e utilização das informações constantes do Sistema Nacional de Informações de Registro Civil – SIRC.",
+      "dataApresentacao": "2026-09-11T11:07"
+    },
+    {
+      "id": 2646363,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646363",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5349,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente) e a Lei no 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para prevenir e mitigar riscos relacionados a aplicações de internet, conteúdos, produtos ou práticas interativos que simulem relacionamentos afetivos.",
+      "dataApresentacao": "2026-09-11T11:07"
+    },
+    {
+      "id": 2646361,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646361",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5348,
+      "ano": 2026,
+      "ementa": "Inscreve o nome de Francisco de Paula Victor – Padre Victor no Livro dos Heróis e Heroínas da Pátria.",
+      "dataApresentacao": "2026-09-10T19:21"
+    },
+    {
       "id": 2646358,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646358",
       "siglaTipo": "PL",
@@ -439,66 +499,6 @@
       "ano": 2026,
       "ementa": "Reconhece os serviços da atividade varejista de mercados e hipermercados como essenciais.",
       "dataApresentacao": "2026-09-04T11:04"
-    },
-    {
-      "id": 2645986,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645986",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5298,
-      "ano": 2026,
-      "ementa": "Torna crime o transporte coletivo irregular de passageiros.",
-      "dataApresentacao": "2026-09-04T11:04"
-    },
-    {
-      "id": 2645985,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645985",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5297,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o porte de arma de fogo para possuidores de ativos virtuais sob risco de coação física.",
-      "dataApresentacao": "2026-09-04T09:36"
-    },
-    {
-      "id": 2645984,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645984",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5296,
-      "ano": 2026,
-      "ementa": "Estabelece garantias mínimas e simplifica a concessão do benefício eventual por situação de morte destinado às despesas com funeral de famílias em situação de vulnerabilidade social, prevendo sua identificação e atendimento de forma ativa pelo Poder Público.",
-      "dataApresentacao": "2026-09-04T07:28"
-    },
-    {
-      "id": 2645965,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645965",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5295,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.904, de 27 de junho de 2024, para incluir medidas de proteção à população em episódios de calor extremo e estabelecer diretrizes para a implantação e divulgação de refúgios climáticos.",
-      "dataApresentacao": "2026-09-03T18:25"
-    },
-    {
-      "id": 2645943,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645943",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5294,
-      "ano": 2026,
-      "ementa": "Altera o § 5º do art. 155 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para incluir expressamente o Distrito Federal na qualificadora do crime de furto de veículo automotor",
-      "dataApresentacao": "2026-09-03T17:46"
-    },
-    {
-      "id": 2645942,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645942",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5293,
-      "ano": 2026,
-      "ementa": "Institui a notificação compulsória às instituições filantrópicas e de assistência social beneficiárias de disposições testamentárias",
-      "dataApresentacao": "2026-09-03T17:45"
     }
   ]
 }
