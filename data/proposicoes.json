@@ -1,6 +1,16 @@
 {
   "dados": [
     {
+      "id": 2646387,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646387",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5356,
+      "ano": 2026,
+      "ementa": "Altera a redação do caput e dos parágrafos 1º. e 2º.e acrescenta os incisos I, II e III ao artigo 359-I do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "dataApresentacao": "2026-09-14T10:01"
+    },
+    {
       "id": 2646376,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646376",
       "siglaTipo": "PL",
@@ -489,16 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 14.914, de 3 de julho de 2024, para instituir, no âmbito da Política Nacional de Assistência Estudantil, o Programa Pé-de-Meia Universitário, destinado à permanência e à conclusão da educação superior por estudantes de baixa renda, com incentivos de matrícula, permanência e conclusão na modalidade de poupança; e dá outras providências.",
       "dataApresentacao": "2026-09-04T12:36"
-    },
-    {
-      "id": 2645987,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645987",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5299,
-      "ano": 2026,
-      "ementa": "Reconhece os serviços da atividade varejista de mercados e hipermercados como essenciais.",
-      "dataApresentacao": "2026-09-04T11:04"
     }
   ]
 }
