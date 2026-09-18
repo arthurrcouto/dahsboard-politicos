@@ -1,6 +1,96 @@
 {
   "dados": [
     {
+      "id": 2646662,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646662",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5399,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 8.069, de 13 de julho de 1990, para incentivar o estabelecimento de diretrizes de segurança na assistência ao trabalho de parto, promovendo a identificação precoce de sinais de distocias e de comprometimento materno ou fetal durante o trabalho de parto.",
+      "dataApresentacao": "2026-09-17T18:54"
+    },
+    {
+      "id": 2646661,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646661",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5398,
+      "ano": 2026,
+      "ementa": "Estabelece o Piso Salarial do Administrador e dá outras providências.",
+      "dataApresentacao": "2026-09-17T18:43"
+    },
+    {
+      "id": 2646622,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646622",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5395,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.457, de 21 de setembro de 2022, para assegurar valor diferenciado do reembolso-creche quando destinado a filho, enteado ou criança sob guarda judicial com deficiência.",
+      "dataApresentacao": "2026-09-17T14:38"
+    },
+    {
+      "id": 2646602,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646602",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5394,
+      "ano": 2026,
+      "ementa": "Institui normas nacionais de prevenção do acesso indevido a torres e outras infraestruturas de energia elétrica, estabelece proteção prioritária em áreas habitadas e territórios socialmente vulneráveis e altera a Lei nº 8.987, de 13 de fevereiro de 1995.",
+      "dataApresentacao": "2026-09-17T12:54"
+    },
+    {
+      "id": 2646597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646597",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 1681,
+      "ano": 2026,
+      "ementa": "Institui a Semana Nacional de Economia Circular.",
+      "dataApresentacao": "2026-09-16T16:30"
+    },
+    {
+      "id": 2646563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646563",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5393,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para vedar a utilização de wind banners e de peças autônomas móveis assemelhadas em vias públicas e nos demais espaços públicos urbanos e disciplinar a veiculação de propaganda eleitoral mediante painéis de publicidade exterior licenciados pelo poder público municipal ou distrital.",
+      "dataApresentacao": "2026-09-17T10:29"
+    },
+    {
+      "id": 2646555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646555",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5392,
+      "ano": 2026,
+      "ementa": "Declara a cidade do Rio de Janeiro/RJ como a “Capital Nacional da Economia Solidária”.",
+      "dataApresentacao": "2026-09-17T10:20"
+    },
+    {
+      "id": 2646539,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646539",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5391,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012, para fortalecer a cooperação entre os Estados e os Municípios na prevenção de riscos de desastres associados a eventos climáticos extremos, respeitadas a autonomia municipal e as características de cada território, e altera a Lei nº 10.257, de 10 de julho de 2001, para determinar que informações técnicas oficiais sobre esses riscos sejam consideradas na elaboração e na revisão dos planos diretores.",
+      "dataApresentacao": "2026-09-17T07:50"
+    },
+    {
+      "id": 2646538,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646538",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5390,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.224, de 30 de setembro de 2025, para instituir a Rede Brasileira de Bancos de Alimentos, e dá outras providências.",
+      "dataApresentacao": "2026-09-16T23:00"
+    },
+    {
       "id": 2646519,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646519",
       "siglaTipo": "PL",
@@ -409,96 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, e a Lei nº 10.741, de 1º de outubro de 2003, para estabelecer medidas de prevenção e ressarcimento em casos de fraudes em operações financeiras e assegurar proteção financeira e patrimonial à pessoa idosa.",
       "dataApresentacao": "2026-09-10T15:03"
-    },
-    {
-      "id": 2646330,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646330",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5338,
-      "ano": 2026,
-      "ementa": "Institui a Lei Sinal de Risco, sobre a comunicação emergencial de situações de risco concreto e grave à vida ou à integridade física identificadas no âmbito de serviços digitais.",
-      "dataApresentacao": "2026-09-10T13:49"
-    },
-    {
-      "id": 2646329,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646329",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5337,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do titular do Cadastro de Pessoas Físicas – CPF de estabelecer restrições preventivas à contratação de produtos e serviços e à realização de operações financeiras em seu nome, com a finalidade de prevenir fraudes, e altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).",
-      "dataApresentacao": "2026-09-10T13:39"
-    },
-    {
-      "id": 2646327,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646327",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5336,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.257, de 2001, e a Lei nº 11.445, de 2007, para dispor sobre a promoção da segurança, da acessibilidade e da manutenção adequada dos espaços públicos e dos equipamentos de infraestrutura urbana e de saneamento",
-      "dataApresentacao": "2026-09-10T12:58"
-    },
-    {
-      "id": 2646326,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646326",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5335,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.393, de 19 de dezembro de 1996, para conceder isenção do Imposto sobre a Propriedade Territorial Rural – ITR aos imóveis rurais atingidos por estado de calamidade pública decretado pelo Poder Público municipal e reconhecido pelo Governo Federal.",
-      "dataApresentacao": "2026-09-10T12:50"
-    },
-    {
-      "id": 2646320,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646320",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5334,
-      "ano": 2026,
-      "ementa": "Estabelece normas gerais de proteção animal relativas à segurança, à informação e à continuidade do atendimento médico-veterinário de cães e gatos, especialmente nas situações de urgência e emergência.",
-      "dataApresentacao": "2026-09-10T11:58"
-    },
-    {
-      "id": 2646318,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646318",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5333,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento.",
-      "dataApresentacao": "2026-09-10T11:30"
-    },
-    {
-      "id": 2646308,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646308",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5331,
-      "ano": 2026,
-      "ementa": "Institui o Extrato Profissional Digital, assegura ao trabalhador que presta serviços intermediados por plataforma digital o acesso, a portabilidade e o uso de seu histórico profissional digital e estabelece obrigações às plataformas digitais de intermediação.",
-      "dataApresentacao": "2026-09-09T23:26"
-    },
-    {
-      "id": 2646307,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646307",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5330,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito dos usuários de redes sociais à escolha de forma de ordenação de conteúdo não baseada em perfilamento, estabelece deveres de transparência e controle sobre sistemas de recomendação personalizada e altera as Leis nº 12.965, de 23 de abril de 2014, nº 13.709, de 14 de agosto de 2018, e nº 15.211, de 17 de setembro de 2025.",
-      "dataApresentacao": "2026-09-09T22:16"
-    },
-    {
-      "id": 2646299,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646299",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5329,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, que institui o Sistema Único de Segurança Pública (Susp), para estabelecer diretrizes nacionais de conectividade operacional e comunicação segura ininterrupta para as forças de segurança pública e defesa social.",
-      "dataApresentacao": "2026-09-09T16:33"
     }
   ]
 }
