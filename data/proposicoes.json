@@ -1,6 +1,106 @@
 {
   "dados": [
     {
+      "id": 2646929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646929",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5442,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições) para proibir a restrição do alcance das redes sociais dos candidatos aos cargos eletivos, conhecido como “shadowban”, durante o período eleitoral.",
+      "dataApresentacao": "2026-09-22T17:04"
+    },
+    {
+      "id": 2646922,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646922",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5441,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor que a pena do crime de denunciação caluniosa será a mesma cominada ao crime imputado",
+      "dataApresentacao": "2026-09-22T16:22"
+    },
+    {
+      "id": 2646921,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646921",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5440,
+      "ano": 2026,
+      "ementa": "Acrescenta artigo à Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para exigir a instalação de Gravador de Voz da Cabine (Cockpit Voice Recorder - CVR) e Gravador de Dados de Voo (Flight Data Recorder - FDR), equipamento de comunicação por Datalink com o controle de tráfego aéreo, quando a aeronave tiver sofrido grandes modificações aviônicas, e gerador de impulsos acústicos acionado automaticamente em contato com a água para localização subaquática (Underwater Locator Beacon - ULB).",
+      "dataApresentacao": "2026-09-22T16:01"
+    },
+    {
+      "id": 2646920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646920",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5439,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional de Enfrentamento à Violência Sexual contra Crianças e Adolescentes no Ambiente Digital.",
+      "dataApresentacao": "2026-09-22T15:58"
+    },
+    {
+      "id": 2646915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646915",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5436,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para coibir práticas de maus-tratos contra animais vivos destinados à comercialização.",
+      "dataApresentacao": "2026-09-22T14:57"
+    },
+    {
+      "id": 2646903,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646903",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5435,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 8.906, de 4 de julho de 1994, e nº 8.935, de 18 de novembro de 1994, para dispor sobre o exercício da advocacia por escreventes de serviços notariais e de registro.",
+      "dataApresentacao": "2026-09-22T13:06"
+    },
+    {
+      "id": 2646901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646901",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5434,
+      "ano": 2026,
+      "ementa": "Reconhece a profissão de bugueiro turístico, dispõe sobre as condições de seu exercício e sobre as relações de trabalho dela decorrentes, e altera a Lei nº 11.771, de 17 de setembro de 2008, para incluir o bugueiro turístico entre os profissionais de turismo.",
+      "dataApresentacao": "2026-09-22T11:26"
+    },
+    {
+      "id": 2646900,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646900",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5433,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 12.009, de 29 de julho de 2009, e nº 8.212, de 24 de julho de 1991, para assegurar seguro contra acidentes, contribuição previdenciária simplificada, crédito favorecido e transparência aos profissionais de entrega e de motofrete.",
+      "dataApresentacao": "2026-09-22T11:13"
+    },
+    {
+      "id": 2646899,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646899",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5432,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, para estabelecer diretrizes de tratamento diferenciado na cobrança pela emissão da Guia de Trânsito Animal para aves das ordens Passeriformes e Psittaciformes.",
+      "dataApresentacao": "2026-09-22T10:53"
+    },
+    {
+      "id": 2646889,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646889",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5431,
+      "ano": 2026,
+      "ementa": "Regulamenta a profissão de Cuidador de Pessoa Idosa.",
+      "dataApresentacao": "2026-09-22T10:20"
+    },
+    {
       "id": 2646882,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646882",
       "siglaTipo": "PL",
@@ -399,106 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para estabelecer causa de aumento de pena para os crimes de maus-tratos praticados contra cães e gatos idosos e para conferir tratamento penal mais gravoso quando desses crimes resultar a morte de animal idoso.",
       "dataApresentacao": "2026-09-16T16:36"
-    },
-    {
-      "id": 2646507,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646507",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5386,
-      "ano": 2026,
-      "ementa": "Altera o caput do art. 22 da Lei nº 9.394, de 20 de dezembro de 1996, para incluir, entre as finalidades da educação básica, a compreensão do funcionamento das instituições públicas, das finanças públicas e dos mecanismos de transparência, participação e controle social.",
-      "dataApresentacao": "2026-09-16T16:21"
-    },
-    {
-      "id": 2646505,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646505",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5385,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer diretrizes de monitoramento, transparência ativa e controle de perdas e estoques de medicamentos, vacinas e insumos no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-09-16T15:46"
-    },
-    {
-      "id": 2646498,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646498",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5384,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional do Método Canguru, destinada à promoção da atenção humanizada ao recém-nascido pré-termo ou de baixo peso, no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-09-16T13:53"
-    },
-    {
-      "id": 2646497,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646497",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5383,
-      "ano": 2026,
-      "ementa": "Inclui no Calendário Turístico Oficial do País o Prêmio Mulher Mais Gloriosa da América, no Município de Foz do Iguaçu, Estado do Paraná.",
-      "dataApresentacao": "2026-09-16T13:52"
-    },
-    {
-      "id": 2646484,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646484",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5382,
-      "ano": 2026,
-      "ementa": "Institui o Defeso do Açaí, cria o Seguro-Defeso do Trabalhador Extrativista do Açaí, estabelece medidas de proteção social, valorização profissional e sustentabilidade da atividade extrativista e produtiva do açaí e dá outras providências.",
-      "dataApresentacao": "2026-09-16T11:32"
-    },
-    {
-      "id": 2646463,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646463",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5378,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 14.751, de 12 de dezembro de 2023, e nº 13.756, de 12 de dezembro de 2018, para assegurar assistência jurídica integral e ininterrupta ao policial militar e ao bombeiro militar desde o primeiro ato de apuração relacionado ao exercício da função ou em razão dela e incluir essa assistência entre as ações financiáveis pelo Fundo Nacional de Segurança Pública.",
-      "dataApresentacao": "2026-09-15T13:13"
-    },
-    {
-      "id": 2646459,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646459",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5377,
-      "ano": 2026,
-      "ementa": "Institui o Dia Nacional do Cicloturismo.",
-      "dataApresentacao": "2026-09-15T12:47"
-    },
-    {
-      "id": 2646458,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646458",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5376,
-      "ano": 2026,
-      "ementa": "Institui a modalidade de Microgeração Solar Residencial Simplificada, estabelece regras para sistemas fotovoltaicos plugáveis de baixa potência destinados ao atendimento de unidades consumidoras residenciais, simplifica os procedimentos de conexão e registro, estabelece requisitos de segurança, qualidade e certificação dos equipamentos e dá outras providências.",
-      "dataApresentacao": "2026-09-15T12:14"
-    },
-    {
-      "id": 2646451,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646451",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5375,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o incentivo à garimpagem artesanal e de pequena escala no Médio Jequitinhonha e estabelece preferência a superficiários e cooperativas locais na obtenção de áreas para Permissão de Lavra Garimpeira.",
-      "dataApresentacao": "2026-09-15T11:34"
-    },
-    {
-      "id": 2646449,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646449",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5374,
-      "ano": 2026,
-      "ementa": "Estabelece regras para a utilização de perfis, páginas, canais e contas de grande alcance nas redes sociais por pré-candidatos e candidatos durante o período eleitoral, e altera a Lei nº 9.504, de 30 de setembro de 1997 – Lei das Eleições.",
-      "dataApresentacao": "2026-09-15T10:28"
     }
   ]
 }
