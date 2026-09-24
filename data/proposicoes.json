@@ -1,6 +1,86 @@
 {
   "dados": [
     {
+      "id": 2646963,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646963",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5452,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre o serviço de transporte público coletivo de proximidade entre municípios vizinhos.",
+      "dataApresentacao": "2026-09-23T17:08"
+    },
+    {
+      "id": 2646961,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646961",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5451,
+      "ano": 2026,
+      "ementa": "Autoriza a criação do Instituto Nacional de Supervisão e Avaliação da Educação Superior – INSAES.",
+      "dataApresentacao": "2026-09-23T16:26"
+    },
+    {
+      "id": 2646956,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646956",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5450,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para aperfeiçoar as diretrizes relativas à produção de estudos, pesquisas e informações sobre a violência contra crianças e adolescentes",
+      "dataApresentacao": "2026-09-23T16:08"
+    },
+    {
+      "id": 2646955,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646955",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5449,
+      "ano": 2026,
+      "ementa": "Dispõe que o equipamento de monitoração eletrônica usado por agressor em cumprimento de medida protetiva de urgência possa ser dotado de mecanismo interno de condução de energia do tipo eletrochoque (taser) destinado à sua incapacitação física temporária na hipótese de rompimento do perímetro de exclusão fixado judicialmente.",
+      "dataApresentacao": "2026-09-23T15:59"
+    },
+    {
+      "id": 2646941,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646941",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5446,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da concessão de incentivos fiscais, subvenções, auxílios e recursos orçamentários federais a projetos, eventos e iniciativas que configurem, em concreto, apologia ao consumo de substâncias ilícitas, ao crime organizado, ou vilipêndio a objeto de culto religioso, nos termos da legislação penal vigente, e dá outras providências.",
+      "dataApresentacao": "2026-09-23T11:35"
+    },
+    {
+      "id": 2646940,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646940",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5445,
+      "ano": 2026,
+      "ementa": "Cria o Fundo Nacional de Amparo às Famílias de Agentes de Segurança Pública Vitimados em Serviço (FAFAM-SEG), estabelece diretrizes gerais para a instituição de benefício assistencial prioritário a seus dependentes no âmbito dos entes federativos que a ele aderirem, e dá outras providências.",
+      "dataApresentacao": "2026-09-23T11:35"
+    },
+    {
+      "id": 2646937,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646937",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5444,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.033, de 21 de dezembro de 2004, para atualizar e indexar o limite mensal de isenção do imposto sobre a renda incidente sobre os ganhos líquidos auferidos por pessoa física em bolsa de valores ou em mercado de balcão organizado, estendê-lo a outros ativos financeiros e às operações de day trade, instituir isenção para os ganhos auferidos por pessoa física em investimentos de longo prazo em títulos e valores mobiliários de financiamento da atividade produtiva, e para fixar limites às despesas do Poder Executivo federal com publicidade institucional, diárias, passagens e eventos, como medida de compensação da renúncia de receita.",
+      "dataApresentacao": "2026-09-23T10:30"
+    },
+    {
+      "id": 2646935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5443,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para ações de promoção da saúde visual e de ampliação do acesso à correção óptica no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2026-09-23T09:14"
+    },
+    {
       "id": 2646929,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646929",
       "siglaTipo": "PL",
@@ -419,86 +499,6 @@
       "ano": 2026,
       "ementa": "Institui normas nacionais de prevenção do acesso indevido a torres e outras infraestruturas de energia elétrica, estabelece proteção prioritária em áreas habitadas e territórios socialmente vulneráveis e altera a Lei nº 8.987, de 13 de fevereiro de 1995.",
       "dataApresentacao": "2026-09-17T12:54"
-    },
-    {
-      "id": 2646597,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646597",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 1681,
-      "ano": 2026,
-      "ementa": "Institui a Semana Nacional de Economia Circular.",
-      "dataApresentacao": "2026-09-16T16:30"
-    },
-    {
-      "id": 2646563,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646563",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5393,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para vedar a utilização de wind banners e de peças autônomas móveis assemelhadas em vias públicas e nos demais espaços públicos urbanos e disciplinar a veiculação de propaganda eleitoral mediante painéis de publicidade exterior licenciados pelo poder público municipal ou distrital.",
-      "dataApresentacao": "2026-09-17T10:29"
-    },
-    {
-      "id": 2646555,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646555",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5392,
-      "ano": 2026,
-      "ementa": "Declara a cidade do Rio de Janeiro/RJ como a “Capital Nacional da Economia Solidária”.",
-      "dataApresentacao": "2026-09-17T10:20"
-    },
-    {
-      "id": 2646539,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646539",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5391,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012, para fortalecer a cooperação entre os Estados e os Municípios na prevenção de riscos de desastres associados a eventos climáticos extremos, respeitadas a autonomia municipal e as características de cada território, e altera a Lei nº 10.257, de 10 de julho de 2001, para determinar que informações técnicas oficiais sobre esses riscos sejam consideradas na elaboração e na revisão dos planos diretores.",
-      "dataApresentacao": "2026-09-17T07:50"
-    },
-    {
-      "id": 2646538,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646538",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5390,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.224, de 30 de setembro de 2025, para instituir a Rede Brasileira de Bancos de Alimentos, e dá outras providências.",
-      "dataApresentacao": "2026-09-16T23:00"
-    },
-    {
-      "id": 2646519,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646519",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5389,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.656, de 30 de abril de 2018, para isentar a pessoa com transtorno do espectro autista do pagamento de taxa de inscrição em concursos públicos no âmbito da União.",
-      "dataApresentacao": "2026-09-16T17:14"
-    },
-    {
-      "id": 2646511,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646511",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5388,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Acesso a Pesquisas e Ensaios Clínicos para Pessoas com Doenças Raras e Ultrarraras sem Tratamento Disponível, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.",
-      "dataApresentacao": "2026-09-16T16:45"
-    },
-    {
-      "id": 2646510,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646510",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5387,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para estabelecer causa de aumento de pena para os crimes de maus-tratos praticados contra cães e gatos idosos e para conferir tratamento penal mais gravoso quando desses crimes resultar a morte de animal idoso.",
-      "dataApresentacao": "2026-09-16T16:36"
     }
   ]
 }
