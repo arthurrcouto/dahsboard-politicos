@@ -1,6 +1,36 @@
 {
   "dados": [
     {
+      "id": 2647153,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647153",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5476,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para disciplinar a concessão de tutela provisória e de decisões judiciais que suspendam a eficácia de leis e de atos normativos de efeito geral.",
+      "dataApresentacao": "2026-09-25T18:59"
+    },
+    {
+      "id": 2647149,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647149",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5475,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para especificar ações de telessaúde na assistência às pessoas com doenças raras.",
+      "dataApresentacao": "2026-09-25T17:30"
+    },
+    {
+      "id": 2647140,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647140",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5472,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Adequação do Tamanho das Turmas da Educação Básica, estabelece limites máximos de estudantes por turma e cria o Índice Nacional de Superlotação de Turmas.",
+      "dataApresentacao": "2026-09-25T12:16"
+    },
+    {
       "id": 2646991,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646991",
       "siglaTipo": "PL",
@@ -469,36 +499,6 @@
       "ano": 2026,
       "ementa": "Assegura prioridade na matrícula em creche, pré-escola e em escola de tempo integral das redes públicas de ensino aos filhos e dependentes de mulheres em situação de violência doméstica e familiar.",
       "dataApresentacao": "2026-09-21T13:48"
-    },
-    {
-      "id": 2646856,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646856",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5416,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas de prevenção de quedas nos meios de hospedagem e estabelece deveres de segurança e informação aos hóspedes.",
-      "dataApresentacao": "2026-09-21T12:33"
-    },
-    {
-      "id": 2646840,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646840",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5415,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer limites prudenciais obrigatórios para as apostas realizadas nas plataformas de apostas de quota fixa (bets) e restringir o uso de sistemas de jogos que possam estimular comportamentos de risco.",
-      "dataApresentacao": "2026-09-21T10:12"
-    },
-    {
-      "id": 2646839,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646839",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5413,
-      "ano": 2026,
-      "ementa": "Institui o Programa Auxílio-Creche Primeira Infância, destinado a assegurar apoio temporário às famílias de baixa renda que não tenham acesso a vaga na rede pública de educação infantil, e dá outras providências.",
-      "dataApresentacao": "2026-09-21T09:29"
     }
   ]
 }
