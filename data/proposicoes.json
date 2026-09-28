@@ -1,6 +1,26 @@
 {
   "dados": [
     {
+      "id": 2647162,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647162",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5478,
+      "ano": 2026,
+      "ementa": "Denomina “Viaduto Nivaldo Nilton Thedim” o viaduto localizado no Km 80 da BR-116, entroncamento com a RJ-130, no bairro Prata, Município de Teresópolis, Estado do Rio de Janeiro.",
+      "dataApresentacao": "2026-09-28T09:33"
+    },
+    {
+      "id": 2647160,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647160",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5477,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para dispor sobre crimes relativos às loterias de aposta de quota fixa, e altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941, para delimitar a incidência da contravenção de exploração de jogo de azar.",
+      "dataApresentacao": "2026-09-25T21:13"
+    },
+    {
       "id": 2647153,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647153",
       "siglaTipo": "PL",
@@ -479,26 +499,6 @@
       "ano": 2026,
       "ementa": "Institui a Lei Voo Íntegro, que estabelece mecanismos de autenticação reforçada, segurança, rastreabilidade e restauração de bilhetes e reservas de transporte aéreo; disciplina a compensação financeira automática e o ressarcimento de despesas nos casos de cancelamento ou alteração não autorizada da reserva e de cancelamento de voo imputável ao transportador; assegura proteção aos passageiros em voos domésticos e internacionais; e altera a Lei nº 7.565, de 19 de dezembro de 1986.",
       "dataApresentacao": "2026-09-21T13:55"
-    },
-    {
-      "id": 2646865,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646865",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5418,
-      "ano": 2026,
-      "ementa": "Assegura às mulheres em situação de violência doméstica e familiar prioridade de acesso às ações de qualificação profissional e de intermediação de mão de obra do Sistema Nacional de Emprego.",
-      "dataApresentacao": "2026-09-21T13:52"
-    },
-    {
-      "id": 2646863,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646863",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5417,
-      "ano": 2026,
-      "ementa": "Assegura prioridade na matrícula em creche, pré-escola e em escola de tempo integral das redes públicas de ensino aos filhos e dependentes de mulheres em situação de violência doméstica e familiar.",
-      "dataApresentacao": "2026-09-21T13:48"
     }
   ]
 }

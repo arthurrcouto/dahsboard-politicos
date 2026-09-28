@@ -4038,6 +4038,17 @@
       "email": "dep.murillogouvea@camara.leg.br"
     },
     {
+      "id": 220584,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220584",
+      "nome": "Murilo Galdino",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "PB",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
+      "email": "dep.murilogaldino@camara.leg.br"
+    },
+    {
       "id": 204453,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204453",
       "nome": "Natália Bonavides",
@@ -5378,17 +5389,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
       "email": "dep.tuliogadelha@camara.leg.br"
-    },
-    {
-      "id": 236423,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/236423",
-      "nome": "Valdir Trindade",
-      "siglaPartido": "REPUBLICANOS",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-      "siglaUf": "PB",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/236423.jpg",
-      "email": "dep.valdirtrindade@camara.leg.br"
     },
     {
       "id": 160610,
