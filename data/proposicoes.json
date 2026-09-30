@@ -1,6 +1,86 @@
 {
   "dados": [
     {
+      "id": 2647212,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647212",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5496,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 1.079, de 10 de abril de 1950, para tipificar como crime de responsabilidade dos Ministros do Supremo Tribunal Federal a interferência indevida no exercício das competências de outro Poder, tribunal ou órgão jurisdicional.",
+      "dataApresentacao": "2026-09-29T16:51"
+    },
+    {
+      "id": 2647208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647208",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5495,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7210, de 11 de julho de 1984, para reprimir a utilização de telefone celular por preso e evitar sua comunicação com mundo externo e dá outras providências",
+      "dataApresentacao": "2026-09-29T15:34"
+    },
+    {
+      "id": 2647207,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647207",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5494,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para tornar crime o uso de veículos aéreos não tripulados (drones) para lançamento de artefatos perigosos, cria majorante para organização criminosa ultraviolenta e dispõe sobre o perdimento de bens.",
+      "dataApresentacao": "2026-09-29T15:32"
+    },
+    {
+      "id": 2647206,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647206",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5493,
+      "ano": 2026,
+      "ementa": "Veda o controle ou a limitação, pelo empregador, do uso do banheiro durante a jornada de trabalho do empregado.",
+      "dataApresentacao": "2026-09-29T15:13"
+    },
+    {
+      "id": 2647205,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647205",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5491,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.681, de 16 de agosto de 1979, para assegurar aos profissionais de enfermagem em serviço ativo nas Forças Armadas, nas Polícias Militares e nos Corpos de Bombeiros Militares, quando exercerem a profissão exclusivamente em decorrência de suas funções militares, isenção do pagamento de anuidades aos Conselhos Regionais de Enfermagem.",
+      "dataApresentacao": "2026-09-29T14:22"
+    },
+    {
+      "id": 2647199,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647199",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5490,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o incentivo ao aprimoramento contínuo no processo de comunicação entre os profissionais de saúde e as pessoas surdas, no âmbito do Sistema Único de Saúde, por meio de soluções tecnológicas.",
+      "dataApresentacao": "2026-09-29T11:55"
+    },
+    {
+      "id": 2647198,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647198",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5489,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.383, de 30 de dezembro de 1991, a Lei nº 8.989, de 24 de fevereiro de 1995, e a Lei nº 14.947, de 2 de agosto de 2024, para estender aos veículos adquiridos por autoescolas regularmente credenciadas pelo órgão executivo de trânsito dos Estados e do Distrito Federal os incentivos fiscais referentes ao Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) e ao Imposto sobre Produtos Industrializados (IPI), e incluí-las entre as atividades passíveis de financiamento reembolsável no âmbito do Fundo de Investimento em Infraestrutura Social (FIIS).",
+      "dataApresentacao": "2026-09-29T11:21"
+    },
+    {
+      "id": 2647194,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647194",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5487,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para prever, nos planos privados de assistência à saúde, a cobertura do serviço de cuidador de pessoa idosa no âmbito da internação domiciliar prestada em substituição à internação hospitalar.",
+      "dataApresentacao": "2026-09-29T10:38"
+    },
+    {
       "id": 2647192,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647192",
       "siglaTipo": "PL",
@@ -419,86 +499,6 @@
       "ano": 2026,
       "ementa": "Reconhece a profissão de bugueiro turístico, dispõe sobre as condições de seu exercício e sobre as relações de trabalho dela decorrentes, e altera a Lei nº 11.771, de 17 de setembro de 2008, para incluir o bugueiro turístico entre os profissionais de turismo.",
       "dataApresentacao": "2026-09-22T11:26"
-    },
-    {
-      "id": 2646900,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646900",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5433,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 12.009, de 29 de julho de 2009, e nº 8.212, de 24 de julho de 1991, para assegurar seguro contra acidentes, contribuição previdenciária simplificada, crédito favorecido e transparência aos profissionais de entrega e de motofrete.",
-      "dataApresentacao": "2026-09-22T11:13"
-    },
-    {
-      "id": 2646899,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646899",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5432,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, para estabelecer diretrizes de tratamento diferenciado na cobrança pela emissão da Guia de Trânsito Animal para aves das ordens Passeriformes e Psittaciformes.",
-      "dataApresentacao": "2026-09-22T10:53"
-    },
-    {
-      "id": 2646889,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646889",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5431,
-      "ano": 2026,
-      "ementa": "Regulamenta a profissão de Cuidador de Pessoa Idosa.",
-      "dataApresentacao": "2026-09-22T10:20"
-    },
-    {
-      "id": 2646882,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646882",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5430,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a obrigatoriedade de instituição de centros temporários de acolhimento para crianças e adolescentes que sejam filhos de trabalhadores formais, informais, ambulantes, catadores de materiais recicláveis e demais pessoas que desempenhem atividades laborais vinculadas à realização de eventos de grande porte ou festividades populares.",
-      "dataApresentacao": "2026-09-21T18:37"
-    },
-    {
-      "id": 2646879,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646879",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5429,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para disciplinar a comunicação mercadológica dos produtos que especifica, inclusive em meios digitais, estabelecer deveres de prevenção e de conservação de registros e aperfeiçoar sua fiscalização.",
-      "dataApresentacao": "2026-09-21T16:00"
-    },
-    {
-      "id": 2646878,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646878",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5428,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.818, de 16 de janeiro de 2024, para universalizar o acesso ao incentivo financeiro-educacional do Programa Pé-de-Meia aos estudantes do ensino médio público e estabelecer regras de atualização periódica dos valores dos incentivos.",
-      "dataApresentacao": "2026-09-21T15:33"
-    },
-    {
-      "id": 2646877,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646877",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5426,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Aproveitamento de Energia para Segurança Hídrica (PNAESH), estabelece diretrizes para o aproveitamento de excedentes e da disponibilidade de energia elétrica de fontes renováveis em sistemas de dessalinização, tratamento, bombeamento, transporte e armazenamento de água, e dá outras providências.",
-      "dataApresentacao": "2026-09-21T15:19"
-    },
-    {
-      "id": 2646876,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646876",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5425,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023, para dispor sobre a avaliação multiprofissional da capacidade funcional prévia aos processos de reforma ou inativação por incapacidade de militares dos Estados, do Distrito Federal e dos Territórios.",
-      "dataApresentacao": "2026-09-21T15:06"
     }
   ]
 }

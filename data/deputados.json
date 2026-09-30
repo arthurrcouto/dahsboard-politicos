@@ -4654,17 +4654,6 @@
       "email": "dep.raimundosantos@camara.leg.br"
     },
     {
-      "id": 115200,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/115200",
-      "nome": "Raniery Paulino",
-      "siglaPartido": "REPUBLICANOS",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
-      "siglaUf": "PB",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/115200.jpg",
-      "email": "dep.ranierypaulino@camara.leg.br"
-    },
-    {
       "id": 74161,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161",
       "nome": "Reginaldo Lopes",
@@ -5521,6 +5510,17 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
       "email": "dep.welter@camara.leg.br"
+    },
+    {
+      "id": 74044,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74044",
+      "nome": "Wilson Santiago",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "PB",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
+      "email": "dep.wilsonsantiago@camara.leg.br"
     },
     {
       "id": 220564,
