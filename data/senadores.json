@@ -559,6 +559,15 @@
       "mandato": "Titular"
     },
     {
+      "id": "5257",
+      "nome": "Renzo Braz",
+      "partido": "PP",
+      "uf": "MG",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5257.jpg",
+      "email": null,
+      "mandato": "1º Suplente"
+    },
+    {
       "id": "6025",
       "nome": "Roberta Acioly",
       "partido": "REPUBLICANOS",
@@ -566,15 +575,6 @@
       "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6025.jpg",
       "email": "sen.robertaacioly@senado.leg.br",
       "mandato": "1º Suplente"
-    },
-    {
-      "id": "5732",
-      "nome": "Rodrigo Pacheco",
-      "partido": null,
-      "uf": "MG",
-      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5732.jpg",
-      "email": "sen.rodrigopacheco@senado.leg.br",
-      "mandato": "Titular"
     },
     {
       "id": "4694",

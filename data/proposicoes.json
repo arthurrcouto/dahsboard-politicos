@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2647257,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647257",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5501,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.852, de 3 de maio de 2024, para estabelecer incentivos fiscais à formação de recursos humanos para a Indústria de Jogos Eletrônicos",
+      "dataApresentacao": "2026-09-30T17:49"
+    },
+    {
+      "id": 2647251,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647251",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5500,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.703, de 18 de julho de 2003, para dispor sobre a verificação de identidade de usuários de serviços de telecomunicações mediante validação biométrica.",
+      "dataApresentacao": "2026-09-30T14:53"
+    },
+    {
+      "id": 2647231,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647231",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5499,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Crédito Previdenciário do Cuidado – PNCC, destinado às mulheres que interrompam ou reduzam sua atividade profissional para exercer cuidados familiares, e dá outras providências.",
+      "dataApresentacao": "2026-09-30T11:54"
+    },
+    {
+      "id": 2647228,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647228",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5498,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas complementares de proteção de crianças e adolescentes no uso de redes sociais e altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente).",
+      "dataApresentacao": "2026-09-30T10:49"
+    },
+    {
       "id": 2647212,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647212",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Acrescenta artigo à Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para exigir a instalação de Gravador de Voz da Cabine (Cockpit Voice Recorder - CVR) e Gravador de Dados de Voo (Flight Data Recorder - FDR), equipamento de comunicação por Datalink com o controle de tráfego aéreo, quando a aeronave tiver sofrido grandes modificações aviônicas, e gerador de impulsos acústicos acionado automaticamente em contato com a água para localização subaquática (Underwater Locator Beacon - ULB).",
       "dataApresentacao": "2026-09-22T16:01"
-    },
-    {
-      "id": 2646920,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646920",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5439,
-      "ano": 2026,
-      "ementa": "Institui o Dia Nacional de Enfrentamento à Violência Sexual contra Crianças e Adolescentes no Ambiente Digital.",
-      "dataApresentacao": "2026-09-22T15:58"
-    },
-    {
-      "id": 2646915,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646915",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5436,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para coibir práticas de maus-tratos contra animais vivos destinados à comercialização.",
-      "dataApresentacao": "2026-09-22T14:57"
-    },
-    {
-      "id": 2646903,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646903",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5435,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 8.906, de 4 de julho de 1994, e nº 8.935, de 18 de novembro de 1994, para dispor sobre o exercício da advocacia por escreventes de serviços notariais e de registro.",
-      "dataApresentacao": "2026-09-22T13:06"
-    },
-    {
-      "id": 2646901,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646901",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5434,
-      "ano": 2026,
-      "ementa": "Reconhece a profissão de bugueiro turístico, dispõe sobre as condições de seu exercício e sobre as relações de trabalho dela decorrentes, e altera a Lei nº 11.771, de 17 de setembro de 2008, para incluir o bugueiro turístico entre os profissionais de turismo.",
-      "dataApresentacao": "2026-09-22T11:26"
     }
   ]
 }
