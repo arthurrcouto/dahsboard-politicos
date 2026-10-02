@@ -1,6 +1,56 @@
 {
   "dados": [
     {
+      "id": 2647281,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647281",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5511,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Nazaré da Mata, no Estado de Pernambuco, o título de Capital Nacional do Maracatu de Baque Solto.",
+      "dataApresentacao": "2026-10-01T17:22"
+    },
+    {
+      "id": 2647280,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647280",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5510,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para ampliar a faixa de consumo com desconto integral da Tarifa Social de Energia Elétrica em razão do uso de equipamentos necessários a tratamento de saúde no domicílio.",
+      "dataApresentacao": "2026-10-01T17:22"
+    },
+    {
+      "id": 2647277,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647277",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5508,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.933, de 26 de dezembro de 2013, para instituir o Programa de Gratuidade Cultural Estudantil e garantir aos estudantes regularmente matriculados o acesso gratuito mensal a atividades culturais, esportivas e de lazer.",
+      "dataApresentacao": "2026-10-01T14:29"
+    },
+    {
+      "id": 2647275,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647275",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5504,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o incentivo e a regulamentação da Mineração Urbana; institui a prioridade de aproveitamento de recursos de fontes secundárias; estabelece a obrigatoriedade de se considerar a disponibilidade de minerais a partir de fontes secundárias; e, estabelece a restrição de concessão de lavra e de licença ambiental para a extração de minerais disponíveis no passivo urbano.",
+      "dataApresentacao": "2026-10-01T12:27"
+    },
+    {
+      "id": 2647274,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647274",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5502,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Restituição Integral e Reparação ao Apostador, para disciplinar o direito à devolução e ao ressarcimento de valores e perdas decorrentes de operações de apostas de quota fixa (popularmente conhecidas como 'bets') realizadas no território nacional, estabelece regras de apuração da perda líquida, deveres de informação, transparência e rastreabilidade pelas operadoras, e dá outras providências.",
+      "dataApresentacao": "2026-10-01T11:42"
+    },
+    {
       "id": 2647257,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647257",
       "siglaTipo": "PL",
@@ -449,56 +499,6 @@
       "ano": 2026,
       "ementa": "Cria o Fundo Nacional de Amparo às Famílias de Agentes de Segurança Pública Vitimados em Serviço (FAFAM-SEG), estabelece diretrizes gerais para a instituição de benefício assistencial prioritário a seus dependentes no âmbito dos entes federativos que a ele aderirem, e dá outras providências.",
       "dataApresentacao": "2026-09-23T11:35"
-    },
-    {
-      "id": 2646937,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646937",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5444,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.033, de 21 de dezembro de 2004, para atualizar e indexar o limite mensal de isenção do imposto sobre a renda incidente sobre os ganhos líquidos auferidos por pessoa física em bolsa de valores ou em mercado de balcão organizado, estendê-lo a outros ativos financeiros e às operações de day trade, instituir isenção para os ganhos auferidos por pessoa física em investimentos de longo prazo em títulos e valores mobiliários de financiamento da atividade produtiva, e para fixar limites às despesas do Poder Executivo federal com publicidade institucional, diárias, passagens e eventos, como medida de compensação da renúncia de receita.",
-      "dataApresentacao": "2026-09-23T10:30"
-    },
-    {
-      "id": 2646935,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646935",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5443,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes para ações de promoção da saúde visual e de ampliação do acesso à correção óptica no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-09-23T09:14"
-    },
-    {
-      "id": 2646929,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646929",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5442,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições) para proibir a restrição do alcance das redes sociais dos candidatos aos cargos eletivos, conhecido como “shadowban”, durante o período eleitoral.",
-      "dataApresentacao": "2026-09-22T17:04"
-    },
-    {
-      "id": 2646922,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646922",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5441,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor que a pena do crime de denunciação caluniosa será a mesma cominada ao crime imputado",
-      "dataApresentacao": "2026-09-22T16:22"
-    },
-    {
-      "id": 2646921,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646921",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5440,
-      "ano": 2026,
-      "ementa": "Acrescenta artigo à Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para exigir a instalação de Gravador de Voz da Cabine (Cockpit Voice Recorder - CVR) e Gravador de Dados de Voo (Flight Data Recorder - FDR), equipamento de comunicação por Datalink com o controle de tráfego aéreo, quando a aeronave tiver sofrido grandes modificações aviônicas, e gerador de impulsos acústicos acionado automaticamente em contato com a água para localização subaquática (Underwater Locator Beacon - ULB).",
-      "dataApresentacao": "2026-09-22T16:01"
     }
   ]
 }
