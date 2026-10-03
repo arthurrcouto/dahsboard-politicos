@@ -1,6 +1,86 @@
 {
   "dados": [
     {
+      "id": 2647298,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647298",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5520,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016, e a Lei nº 14.597, de 14 de junho de 2023, para destinar parcela do montante aprovado para ações de patrocínio realizadas por empresas públicas, sociedades de economia mista e subsidiárias controladas pela União ao Fundo Nacional do Esporte – Fundesporte, para apoio à participação de atletas em competições esportivas oficiais, e dá outras providências",
+      "dataApresentacao": "2026-10-02T16:22"
+    },
+    {
+      "id": 2647297,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647297",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5519,
+      "ano": 2026,
+      "ementa": "Dispõe sobre mecanismos de verificação de identidade e prevenção à utilização fraudulenta de fotografias de terceiros em perfis de aplicativos de mensagens instantâneas, e dá outras providências.",
+      "dataApresentacao": "2026-10-02T15:51"
+    },
+    {
+      "id": 2647296,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647296",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5518,
+      "ano": 2026,
+      "ementa": "Institui a Certidão Nacional de Antecedentes Criminais por Violência contra a Mulher (CNVM).",
+      "dataApresentacao": "2026-10-02T15:51"
+    },
+    {
+      "id": 2647295,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647295",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5517,
+      "ano": 2026,
+      "ementa": "Estabelece medidas destinadas a garantir o acesso à água potável e a proteção da saúde dos consumidores em eventos abertos ao público.",
+      "dataApresentacao": "2026-10-02T15:40"
+    },
+    {
+      "id": 2647293,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647293",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5516,
+      "ano": 2026,
+      "ementa": "Institui a Política Marítima Nacional (PMN), estabelece seus princípios, objetivos, diretrizes e parâmetros de implementação, e dá outras providências",
+      "dataApresentacao": "2026-10-02T15:37"
+    },
+    {
+      "id": 2647292,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647292",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5515,
+      "ano": 2026,
+      "ementa": "Denomina “Aeroporto Internacional de São Paulo/Guarulhos – Lito Sousa” o aeroporto internacional localizado no Município de Guarulhos, Estado de São Paulo.",
+      "dataApresentacao": "2026-10-02T15:27"
+    },
+    {
+      "id": 2647291,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647291",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5514,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 5452, de 1º maio de 1943, a Lei nº 8.112, de 11 de dezembro de 1990, a Lei nº 8.213, de 24 de julho de 1991 e a Lei nº 11.770, de 9 de setembro de 2008, para instituir a licença parentalidade compartilhada.",
+      "dataApresentacao": "2026-10-02T14:30"
+    },
+    {
+      "id": 2647289,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647289",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5513,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 14.597, de 14 de junho de 2023, e nº 15.522, de 28 de setembro de 2026, para estabelecer que atletas nascidos em países integrantes do Mercado Comum do Sul – Mercosul não sejam considerados estrangeiros para fins esportivos, especialmente para inscrição, registro, escalação, participação e composição de equipes e elencos.",
+      "dataApresentacao": "2026-10-02T11:45"
+    },
+    {
       "id": 2647281,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647281",
       "siglaTipo": "PL",
@@ -419,86 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para estabelecer periodicidade anual e critério objetivo para a correção dos benefícios financeiros do Programa Bolsa Família e dispor sobre a transparência na divulgação de seus reajustes.",
       "dataApresentacao": "2026-09-24T10:19"
-    },
-    {
-      "id": 2646969,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646969",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5455,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, que institui o Sistema Único de Segurança Pública (Susp), para dispor sobre a integração dos dados de mortalidade por causas externas ao Sinesp e sobre a redução das mortes violentas por causa indeterminada.",
-      "dataApresentacao": "2026-09-24T09:18"
-    },
-    {
-      "id": 2646968,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646968",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5454,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para dispor sobre o prazo de requerimento do seguro-desemprego do pescador profissional artesanal.",
-      "dataApresentacao": "2026-09-23T19:37"
-    },
-    {
-      "id": 2646963,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646963",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5452,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre o serviço de transporte público coletivo de proximidade entre municípios vizinhos.",
-      "dataApresentacao": "2026-09-23T17:08"
-    },
-    {
-      "id": 2646961,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646961",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5451,
-      "ano": 2026,
-      "ementa": "Autoriza a criação do Instituto Nacional de Supervisão e Avaliação da Educação Superior – INSAES.",
-      "dataApresentacao": "2026-09-23T16:26"
-    },
-    {
-      "id": 2646956,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646956",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5450,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para aperfeiçoar as diretrizes relativas à produção de estudos, pesquisas e informações sobre a violência contra crianças e adolescentes",
-      "dataApresentacao": "2026-09-23T16:08"
-    },
-    {
-      "id": 2646955,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646955",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5449,
-      "ano": 2026,
-      "ementa": "Dispõe que o equipamento de monitoração eletrônica usado por agressor em cumprimento de medida protetiva de urgência possa ser dotado de mecanismo interno de condução de energia do tipo eletrochoque (taser) destinado à sua incapacitação física temporária na hipótese de rompimento do perímetro de exclusão fixado judicialmente.",
-      "dataApresentacao": "2026-09-23T15:59"
-    },
-    {
-      "id": 2646941,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646941",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5446,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a vedação da concessão de incentivos fiscais, subvenções, auxílios e recursos orçamentários federais a projetos, eventos e iniciativas que configurem, em concreto, apologia ao consumo de substâncias ilícitas, ao crime organizado, ou vilipêndio a objeto de culto religioso, nos termos da legislação penal vigente, e dá outras providências.",
-      "dataApresentacao": "2026-09-23T11:35"
-    },
-    {
-      "id": 2646940,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646940",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5445,
-      "ano": 2026,
-      "ementa": "Cria o Fundo Nacional de Amparo às Famílias de Agentes de Segurança Pública Vitimados em Serviço (FAFAM-SEG), estabelece diretrizes gerais para a instituição de benefício assistencial prioritário a seus dependentes no âmbito dos entes federativos que a ele aderirem, e dá outras providências.",
-      "dataApresentacao": "2026-09-23T11:35"
     }
   ]
 }
