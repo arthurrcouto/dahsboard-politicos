@@ -1,6 +1,16 @@
 {
   "dados": [
     {
+      "id": 2647299,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647299",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5521,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional eMulti Escola.",
+      "dataApresentacao": "2026-10-02T22:29"
+    },
+    {
       "id": 2647298,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647298",
       "siglaTipo": "PL",
@@ -489,16 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para assegurar informação sobre cuidado em saúde, confirmação da autoexclusão centralizada e proteção dos dados das pessoas que solicitam a interrupção do acesso a apostas de quota fixa.",
       "dataApresentacao": "2026-09-24T10:39"
-    },
-    {
-      "id": 2646973,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646973",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5456,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para estabelecer periodicidade anual e critério objetivo para a correção dos benefícios financeiros do Programa Bolsa Família e dispor sobre a transparência na divulgação de seus reajustes.",
-      "dataApresentacao": "2026-09-24T10:19"
     }
   ]
 }
