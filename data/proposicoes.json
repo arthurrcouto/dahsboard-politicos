@@ -1,6 +1,36 @@
 {
   "dados": [
     {
+      "id": 2647310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647310",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5529,
+      "ano": 2026,
+      "ementa": "Institui a Lei Rede de Proteção do Amanhã, para assegurar o planejamento antecipado e a sucessão programada do apoio às pessoas com deficiência que necessitem de assistência continuada diante do envelhecimento, adoecimento, incapacidade, ausência ou falecimento de seu cuidador principal; estabelece medidas de transição do cuidado, proteção da autonomia, continuidade de serviços e planejamento de moradia; e altera a Lei nº 13.146, de 6 de julho de 2015, e a Lei nº 15.069, de 23 de dezembro de 2024.",
+      "dataApresentacao": "2026-10-06T17:48"
+    },
+    {
+      "id": 2647309,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647309",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5528,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes nacionais para a Alta Segura e Assistida e para a transição coordenada do cuidado de pacientes com redução temporária ou permanente de autonomia ou necessidade de cuidados continuados no âmbito do Sistema Único de Saúde – SUS; institui o Plano Individual de Transição do Cuidado; dispõe sobre avaliação pré-alta, segurança medicamentosa, orientação e capacitação do cuidador, continuidade assistencial, atenção domiciliar, reabilitação, articulação com a rede socioassistencial e proteção de dados pessoais; e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+      "dataApresentacao": "2026-10-06T17:48"
+    },
+    {
+      "id": 2647308,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647308",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5527,
+      "ano": 2026,
+      "ementa": "Institui o Programa Cuidado Psicossocial Familiar, estabelece o acompanhamento psicossocial periódico das famílias beneficiárias do Programa Bolsa Família como instrumento de proteção social, prevenção de vulnerabilidades e promoção da saúde mental, altera a Lei nº 14.601, de 19 de junho de 2023, para incluir condicionalidade de acompanhamento familiar, e estabelece mecanismos de articulação entre o Sistema Único de Assistência Social e o Sistema Único de Saúde.",
+      "dataApresentacao": "2026-10-06T17:48"
+    },
+    {
       "id": 2647299,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647299",
       "siglaTipo": "PL",
@@ -469,36 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre o direito do paciente a plano de alta hospitalar segura, compreensível e acessível.",
       "dataApresentacao": "2026-09-24T11:13"
-    },
-    {
-      "id": 2646976,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646976",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5459,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, para estabelecer medidas de proteção de crianças e adolescentes em casos de suspeita de concussão relacionada à prática esportiva.",
-      "dataApresentacao": "2026-09-24T10:51"
-    },
-    {
-      "id": 2646975,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646975",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5458,
-      "ano": 2026,
-      "ementa": "Institui o Passaporte Educacional de Emergência e estabelece medidas para assegurar matrícula, documentação e continuidade da aprendizagem de estudantes atingidos por emergência ou calamidade pública.",
-      "dataApresentacao": "2026-09-24T10:46"
-    },
-    {
-      "id": 2646974,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646974",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5457,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para assegurar informação sobre cuidado em saúde, confirmação da autoexclusão centralizada e proteção dos dados das pessoas que solicitam a interrupção do acesso a apostas de quota fixa.",
-      "dataApresentacao": "2026-09-24T10:39"
     }
   ]
 }
