@@ -1,6 +1,66 @@
 {
   "dados": [
     {
+      "id": 2647345,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647345",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5536,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.769, de 9 de setembro de 1965, para instituir o Exame Nacional de Suficiência Profissional em Administração como requisito para a obtenção do primeiro registro profissional na categoria de Administrador.",
+      "dataApresentacao": "2026-10-07T16:07"
+    },
+    {
+      "id": 2647323,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647323",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5534,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever a notificação de atos processuais ao cônjuge, companheiro, ascendente, descendente ou irmão da ofendida na impossibilidade de sua notificação pessoal.",
+      "dataApresentacao": "2026-10-07T12:28"
+    },
+    {
+      "id": 2647321,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647321",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5533,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Garantia Remuneratória, Integridade Contratual e Proteção do Trabalhador Terceirizado, estabelece mecanismos de prevenção ao atraso salarial em contratos de prestação de serviços contínuos com dedicação exclusiva de mão de obra, disciplina a retenção cautelar de pagamentos públicos, o pagamento direto de verbas trabalhistas inadimplidas, a proteção contra retaliações e a transparência de irregularidades trabalhistas em contratações públicas, e altera a Lei nº 14.133, de 1º de abril de 2021.",
+      "dataApresentacao": "2026-10-07T12:24"
+    },
+    {
+      "id": 2647320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647320",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5532,
+      "ano": 2026,
+      "ementa": "Institui a Lei Novo Ciclo, para promover o acesso de mulheres em situação de violência doméstica e familiar a atividades esportivas, físicas e de lazer como instrumentos complementares de recuperação da saúde, fortalecimento da autonomia, reconstrução de vínculos sociais e reinserção comunitária; estabelece diretrizes para a articulação das políticas de esporte, saúde e assistência social; e altera as Leis nº 11.340, de 7 de agosto de 2006, e nº 14.597, de 14 de junho de 2023.",
+      "dataApresentacao": "2026-10-07T11:57"
+    },
+    {
+      "id": 2647319,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647319",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5531,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Origem Responsável Animal, destinada a prevenir o financiamento da criação clandestina e da exploração reprodutiva abusiva de cães e gatos; estabelece deveres de identificação, diligência, transparência e rastreabilidade nas operações de transferência onerosa; disciplina a oferta e a intermediação por plataformas digitais; dispõe sobre a responsabilização administrativa, civil e penal dos agentes envolvidos; altera as Leis nº 9.605, de 12 de fevereiro de 1998, e nº 15.046, de 17 de dezembro de 2024; e dá outras providências.",
+      "dataApresentacao": "2026-10-07T11:57"
+    },
+    {
+      "id": 2647318,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647318",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5530,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Combate ao Assédio Moral Institucional, estabelece medidas de prevenção, apuração, responsabilização e proteção contra retaliações nas relações de trabalho no setor público e privado, altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 14.457, de 21 de setembro de 2022, a Lei nº 8.112, de 11 de dezembro de 1990, e a Lei nº 14.133, de 1º de abril de 2021, e dá outras providências.",
+      "dataApresentacao": "2026-10-07T11:57"
+    },
+    {
       "id": 2647310,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647310",
       "siglaTipo": "PL",
@@ -439,66 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Dia Nacional do Criminólogo, a ser celebrado anualmente em 15 de abril.",
       "dataApresentacao": "2026-09-24T13:46"
-    },
-    {
-      "id": 2646985,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646985",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5465,
-      "ano": 2026,
-      "ementa": "Institui o Regime Especial de Garantia de Continuidade da Atividade Rural em Recuperação Judicial, estabelece proteção temporária aos ativos agrícolas essenciais e à produção em curso contra atos constritivos capazes de comprometer o ciclo produtivo e altera a Lei nº 11.101, de 9 de fevereiro de 2005.",
-      "dataApresentacao": "2026-09-24T13:30"
-    },
-    {
-      "id": 2646984,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646984",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5464,
-      "ano": 2026,
-      "ementa": "Institui a Rede Nacional de Reaproveitamento de Materiais Esportivos e estabelece diretrizes para doação, recuperação e destinação social de equipamentos em condições de uso.",
-      "dataApresentacao": "2026-09-24T11:30"
-    },
-    {
-      "id": 2646983,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646983",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5463,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), para determinar que, para fins de chamadas de emergência, todas as antenas e demais infraestruturas de telecomunicações, de todas as operadoras, fiquem disponíveis para o compartilhamento de um código de acesso telefônico único, gratuito e nacional, para a comunicação a todos os serviços públicos de emergência.",
-      "dataApresentacao": "2026-09-24T11:29"
-    },
-    {
-      "id": 2646981,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646981",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5462,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes nacionais para a proteção da comunidade escolar e a continuidade das atividades educacionais durante eventos climáticos extremos.",
-      "dataApresentacao": "2026-09-24T11:26"
-    },
-    {
-      "id": 2646979,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646979",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5461,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a comunicação ativa de resultados críticos de exames e procedimentos diagnósticos e estabelece garantias de informação e segurança ao paciente.",
-      "dataApresentacao": "2026-09-24T11:20"
-    },
-    {
-      "id": 2646978,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646978",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5460,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o direito do paciente a plano de alta hospitalar segura, compreensível e acessível.",
-      "dataApresentacao": "2026-09-24T11:13"
     }
   ]
 }
