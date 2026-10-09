@@ -1,6 +1,16 @@
 {
   "dados": [
     {
+      "id": 2647384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5537,
+      "ano": 2026,
+      "ementa": "Altera o §1° do art. 2° da Lei n° 11.738, de 16 de julho de 2008, para reduzir para trinta horas semanais a jornada máxima de trabalho dos profissionais do magistério público da educação básica, revoga o art. 6° da referida Lei e altera a Lei n° 8.429, de 2 de junho de 1992, para estabelecer hipótese de ato de improbidade administrativa.",
+      "dataApresentacao": "2026-10-08T17:21"
+    },
+    {
       "id": 2647345,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647345",
       "siglaTipo": "PL",
@@ -489,16 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Programa de Acesso Orientado à Atividade Física para pessoas de baixa renda e estabelece diretrizes para sua implementação",
       "dataApresentacao": "2026-09-24T14:06"
-    },
-    {
-      "id": 2646986,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646986",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5466,
-      "ano": 2026,
-      "ementa": "Institui o Dia Nacional do Criminólogo, a ser celebrado anualmente em 15 de abril.",
-      "dataApresentacao": "2026-09-24T13:46"
     }
   ]
 }
