@@ -1,6 +1,26 @@
 {
   "dados": [
     {
+      "id": 2647402,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647402",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5539,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), para estabelecer regras de acesso e permanência de cães e gatos em estabelecimentos prestadores de serviços turísticos e incentivar o turismo pet friendly no Brasil.",
+      "dataApresentacao": "2026-10-09T18:06"
+    },
+    {
+      "id": 2647400,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647400",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5538,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a inclusão no trabalho, a atenção à saúde mental e a prevenção do suicídio de pessoas com transtorno do espectro autista na adolescência e na vida adulta (Lei Fernanda Fialho).",
+      "dataApresentacao": "2026-10-09T16:33"
+    },
+    {
       "id": 2647384,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647384",
       "siglaTipo": "PL",
@@ -479,26 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a regulamentação da profissão de Criminólogo e dá outras  providências.",
       "dataApresentacao": "2026-09-24T15:42"
-    },
-    {
-      "id": 2646990,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646990",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5468,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a assistência integral à saúde do paciente bariátrico.",
-      "dataApresentacao": "2026-09-24T15:14"
-    },
-    {
-      "id": 2646987,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646987",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5467,
-      "ano": 2026,
-      "ementa": "Institui o Programa de Acesso Orientado à Atividade Física para pessoas de baixa renda e estabelece diretrizes para sua implementação",
-      "dataApresentacao": "2026-09-24T14:06"
     }
   ]
 }

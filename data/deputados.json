@@ -4137,17 +4137,6 @@
       "email": "dep.niltotatto@camara.leg.br"
     },
     {
-      "id": 194260,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194260",
-      "nome": "Nivaldo Albuquerque",
-      "siglaPartido": "UNIÃO",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
-      "siglaUf": "AL",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/194260.jpg",
-      "email": "dep.nivaldoalbuquerque@camara.leg.br"
-    },
-    {
       "id": 204498,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204498",
       "nome": "Olival Marques",
@@ -4278,6 +4267,17 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74160.jpg",
       "email": "dep.patrusananias@camara.leg.br"
+    },
+    {
+      "id": 171617,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171617",
+      "nome": "Paulão",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "AL",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
+      "email": "dep.paulao@camara.leg.br"
     },
     {
       "id": 141518,
@@ -5650,11 +5650,11 @@
     "PSDB": 17,
     "NOVO": 5,
     "PP": 47,
-    "PT": 65,
+    "PT": 66,
     "PDT": 9,
     "REPUBLICANOS": 42,
     "CIDADANIA": 2,
-    "UNIÃO": 51,
+    "UNIÃO": 50,
     "PCdoB": 11,
     "PV": 6,
     "REDE": 3,
