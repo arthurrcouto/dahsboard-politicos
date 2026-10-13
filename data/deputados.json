@@ -3334,6 +3334,17 @@
       "email": "dep.lucianoducci@camara.leg.br"
     },
     {
+      "id": 220616,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220616",
+      "nome": "Luciano Vieira",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "RJ",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+      "email": "dep.lucianovieira@camara.leg.br"
+    },
+    {
       "id": 178954,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178954",
       "nome": "Lucio Mosquini",
@@ -3662,17 +3673,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204431.jpg",
       "email": "dep.marcosaureliosampaio@camara.leg.br"
-    },
-    {
-      "id": 236375,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/236375",
-      "nome": "Marcos Braz",
-      "siglaPartido": "PSDB",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
-      "siglaUf": "RJ",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-      "email": "dep.marcosbraz@camara.leg.br"
     },
     {
       "id": 204506,
