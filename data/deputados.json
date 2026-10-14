@@ -2806,6 +2806,17 @@
       "email": "dep.joaodaniel@camara.leg.br"
     },
     {
+      "id": 74550,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74550",
+      "nome": "João Leão",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "BA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74550.jpg",
+      "email": "dep.joaoleao@camara.leg.br"
+    },
+    {
       "id": 141459,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141459",
       "nome": "João Maia",
@@ -2837,17 +2848,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
       "email": "dep.jonasdonizette@camara.leg.br"
-    },
-    {
-      "id": 235800,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235800",
-      "nome": "Jorge Araújo",
-      "siglaPartido": "PP",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-      "siglaUf": "BA",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
-      "email": "dep.jorgearaujo@camara.leg.br"
     },
     {
       "id": 205550,
