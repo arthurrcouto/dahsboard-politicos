@@ -4401,17 +4401,6 @@
       "email": "dep.paulopimenta@camara.leg.br"
     },
     {
-      "id": 154700,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/154700",
-      "nome": "Paulo Soares",
-      "siglaPartido": "PODE",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
-      "siglaUf": "SP",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/154700.jpg",
-      "email": "dep.paulosoares@camara.leg.br"
-    },
-    {
       "id": 141488,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
       "nome": "Paulo Teixeira",
@@ -4685,6 +4674,17 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
       "email": "dep.reimont@camara.leg.br"
+    },
+    {
+      "id": 178989,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178989",
+      "nome": "Renata Abreu",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "SP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
+      "email": "dep.renataabreu@camara.leg.br"
     },
     {
       "id": 153423,
