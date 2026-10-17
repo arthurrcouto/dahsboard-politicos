@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2648324,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648324",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5591,
+      "ano": 2026,
+      "ementa": "Institui a Lei Amapá Tucujú, estabelece diretrizes para a prioridade de investimentos em infraestrutura petrolífera no Estado do Amapá e dispõe sobre o desenvolvimento econômico e social associado às atividades de petróleo e gás natural da Margem Equatorial Brasileira.",
+      "dataApresentacao": "2026-10-16T15:53"
+    },
+    {
+      "id": 2648322,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648322",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5590,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 Lei Geral do Esporte, para incluir o fomento do esporte universitário entre os objetivos do Fundo Nacional do Esporte.",
+      "dataApresentacao": "2026-10-16T11:28"
+    },
+    {
+      "id": 2648319,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648319",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5589,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação da profissão de Consultor de Imagem.",
+      "dataApresentacao": "2026-10-16T10:00"
+    },
+    {
+      "id": 2648317,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648317",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5588,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para ampliar o limite anual de aquisição de gêneros alimentícios da agricultura familiar, por Cadastro Nacional da Agricultura Familiar, no âmbito do Programa Nacional de Alimentação Escolar.",
+      "dataApresentacao": "2026-10-16T09:24"
+    },
+    {
       "id": 2648300,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648300",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a inclusão no trabalho, a atenção à saúde mental e a prevenção do suicídio de pessoas com transtorno do espectro autista na adolescência e na vida adulta (Lei Fernanda Fialho).",
       "dataApresentacao": "2026-10-09T16:33"
-    },
-    {
-      "id": 2647384,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647384",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5537,
-      "ano": 2026,
-      "ementa": "Altera o §1° do art. 2° da Lei n° 11.738, de 16 de julho de 2008, para reduzir para trinta horas semanais a jornada máxima de trabalho dos profissionais do magistério público da educação básica, revoga o art. 6° da referida Lei e altera a Lei n° 8.429, de 2 de junho de 1992, para estabelecer hipótese de ato de improbidade administrativa.",
-      "dataApresentacao": "2026-10-08T17:21"
-    },
-    {
-      "id": 2647345,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647345",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5536,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 4.769, de 9 de setembro de 1965, para instituir o Exame Nacional de Suficiência Profissional em Administração como requisito para a obtenção do primeiro registro profissional na categoria de Administrador.",
-      "dataApresentacao": "2026-10-07T16:07"
-    },
-    {
-      "id": 2647323,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647323",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5534,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever a notificação de atos processuais ao cônjuge, companheiro, ascendente, descendente ou irmão da ofendida na impossibilidade de sua notificação pessoal.",
-      "dataApresentacao": "2026-10-07T12:28"
-    },
-    {
-      "id": 2647321,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647321",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5533,
-      "ano": 2026,
-      "ementa": "Institui a Lei Nacional de Garantia Remuneratória, Integridade Contratual e Proteção do Trabalhador Terceirizado, estabelece mecanismos de prevenção ao atraso salarial em contratos de prestação de serviços contínuos com dedicação exclusiva de mão de obra, disciplina a retenção cautelar de pagamentos públicos, o pagamento direto de verbas trabalhistas inadimplidas, a proteção contra retaliações e a transparência de irregularidades trabalhistas em contratações públicas, e altera a Lei nº 14.133, de 1º de abril de 2021.",
-      "dataApresentacao": "2026-10-07T12:24"
     }
   ]
 }
