@@ -1,6 +1,26 @@
 {
   "dados": [
     {
+      "id": 2648344,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648344",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5594,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência patrimonial, fiscal e financeira dos candidatos à Presidência da República, estabelece mecanismos de autorização de acesso a informações protegidas por sigilo e altera a Lei nº 9.504, de 30 de setembro de 1997.",
+      "dataApresentacao": "2026-10-19T10:33"
+    },
+    {
+      "id": 2648334,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648334",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5592,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para assegurar o pagamento em dobro do abono anual a todos os aposentados do Regime Geral de Previdência Social.",
+      "dataApresentacao": "2026-10-18T11:48"
+    },
+    {
       "id": 2648324,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648324",
       "siglaTipo": "PL",
@@ -479,26 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a prevenção e a repressão ao assédio telefônico nas relações de consumo, estabelece limites para chamadas de telemarketing e cobrança e assegura direitos de identificação, oposição e rastreabilidade.",
       "dataApresentacao": "2026-10-13T10:46"
-    },
-    {
-      "id": 2647402,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647402",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5539,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), para estabelecer regras de acesso e permanência de cães e gatos em estabelecimentos prestadores de serviços turísticos e incentivar o turismo pet friendly no Brasil.",
-      "dataApresentacao": "2026-10-09T18:06"
-    },
-    {
-      "id": 2647400,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647400",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5538,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a inclusão no trabalho, a atenção à saúde mental e a prevenção do suicídio de pessoas com transtorno do espectro autista na adolescência e na vida adulta (Lei Fernanda Fialho).",
-      "dataApresentacao": "2026-10-09T16:33"
     }
   ]
 }
