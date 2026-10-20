@@ -1,6 +1,136 @@
 {
   "dados": [
     {
+      "id": 2648397,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648397",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5608,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a dispensa de inscrição suplementar para advogados que atuem em processos fora da jurisdição do Conselho Seccional ao qual estão regularmente inscritos, e altera a Lei nº 8.906, de 4 de julho de 1994 – Estatuto da Advocacia e a Ordem dos Advogados do Brasil.",
+      "dataApresentacao": "2026-10-19T16:24"
+    },
+    {
+      "id": 2648394,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648394",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5606,
+      "ano": 2026,
+      "ementa": "Institui o Programa Trânsito sem Armadilhas e altera as Leis nº 9.503, de 23 de setembro de 1997, e nº 9.602, de 21 de janeiro de 1998, para aprimorar a fiscalização preventiva e a aplicação das receitas de multas de trânsito.",
+      "dataApresentacao": "2026-10-19T15:34"
+    },
+    {
+      "id": 2648393,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648393",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5605,
+      "ano": 2026,
+      "ementa": "Estabelece medidas de prevenção, denúncia, apuração e responsabilização por tratamento desrespeitoso no atendimento público e nas relações funcionais em ambiente oficial.",
+      "dataApresentacao": "2026-10-19T15:32"
+    },
+    {
+      "id": 2648392,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648392",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5604,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Pequeno Grande Homem, destinado à formação integral de adolescentes em situação de vulnerabilidade social, e a Rede Nacional Empresa Formadora.",
+      "dataApresentacao": "2026-10-19T15:31"
+    },
+    {
+      "id": 2648391,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648391",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5603,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Lixo com Destino Certo para a gestão regionalizada de resíduos sólidos urbanos, o encerramento e a recuperação de lixões e a inclusão dos catadores.",
+      "dataApresentacao": "2026-10-19T15:29"
+    },
+    {
+      "id": 2648390,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648390",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5602,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Cuidar para Incluir, destinado ao cuidado integrado e à inclusão das pessoas com transtorno do espectro autista, transtorno do déficit de atenção com hiperatividade, transtornos de aprendizagem e outras condições do neurodesenvolvimento.",
+      "dataApresentacao": "2026-10-19T15:28"
+    },
+    {
+      "id": 2648389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5601,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Cuidar de Quem Cuidou, destinado à prevenção do abandono, do isolamento social e da violência contra a pessoa idosa, ao cuidado integral e ao apoio aos cuidadores familiares.",
+      "dataApresentacao": "2026-10-19T15:26"
+    },
+    {
+      "id": 2648388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5600,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Além do Asfalto, para fortalecer o atendimento pré-hospitalar em municípios de difícil acesso mediante ambulâncias de alta resistência e medidas de confiabilidade da frota.",
+      "dataApresentacao": "2026-10-19T15:24"
+    },
+    {
+      "id": 2648387,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648387",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5599,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Água na Roça, Alimento na Mesa, destinado à segurança hídrica da produção rural, ao uso eficiente da água e à conservação dos recursos naturais.",
+      "dataApresentacao": "2026-10-19T15:22"
+    },
+    {
+      "id": 2648386,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648386",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5598,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Acolhe Universitário, de apoio à permanência e à conclusão da graduação por estudantes do interior ou em situação de vulnerabilidade socioeconômica.",
+      "dataApresentacao": "2026-10-19T15:20"
+    },
+    {
+      "id": 2648384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648384",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5597,
+      "ano": 2026,
+      "ementa": "Altera a legislação eleitoral para instituir o sistema federativo misto nas eleições de Deputado Federal, Deputado Estadual, Deputado Distrital e Vereador.",
+      "dataApresentacao": "2026-10-19T15:18"
+    },
+    {
+      "id": 2648382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648382",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5596,
+      "ano": 2026,
+      "ementa": "Altera as Leis nºs 11.076, de 30 de dezembro de 2004 e 11.033, de 21 de dezembro de 2004 para instituir o Certificado de Recebíveis do Seguro Rural (CRSR).",
+      "dataApresentacao": "2026-10-19T14:39"
+    },
+    {
+      "id": 2648348,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648348",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5595,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, para extinguir a obrigatoriedade de inscrição suplementar na Ordem dos Advogados do Brasil (OAB), assegurar o exercício da advocacia em todo o território nacional mediante inscrição única.",
+      "dataApresentacao": "2026-10-19T11:53"
+    },
+    {
       "id": 2648344,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648344",
       "siglaTipo": "PL",
@@ -369,136 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, que “Estabelece normas para as eleições”, para proibir o uso de bandeiras, banners e windbanners ao longo das vias públicas em campanhas eleitorais.",
       "dataApresentacao": "2026-10-13T18:20"
-    },
-    {
-      "id": 2647525,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647525",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5553,
-      "ano": 2026,
-      "ementa": "Institui diretrizes nacionais para a prevenção e a gestão de riscos psicossociais no trabalho dos profissionais do Sistema Único de Assistência Social – SUAS.",
-      "dataApresentacao": "2026-10-13T18:08"
-    },
-    {
-      "id": 2647523,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647523",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5552,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 5.768, de 20 de dezembro de 1971, para proibir a utilização de animais vivos como prêmio em rifas, sorteios, concursos, promoções e operações assemelhadas, inclusive em ambientes digitais, e estabelece medidas de fiscalização e sanções.",
-      "dataApresentacao": "2026-10-13T17:46"
-    },
-    {
-      "id": 2647503,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647503",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5551,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a utilização de banners de haste flexível (wind banners, fly banners e assemelhados) na propaganda eleitoral.",
-      "dataApresentacao": "2026-10-13T17:42"
-    },
-    {
-      "id": 2647501,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647501",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5550,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a disponibilização e a utilização de canais institucionais de comunicação e sobre o registro das informações produzidas ou recebidas no exercício da função pública, no âmbito dos Poderes da União, do Tribunal de Contas da União, do Ministério Público da União e da Defensoria Pública da União.",
-      "dataApresentacao": "2026-10-13T17:40"
-    },
-    {
-      "id": 2647489,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647489",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5549,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a autonomia da gestante e da parturiente na escolha informada da via de parto, assegura o acesso à analgesia no parto vaginal, estabelece regras destinadas a impedir incentivos econômicos indevidos na assistência obstétrica, altera as Leis nº 8.080, de 19 de setembro de 1990, e nº 9.656, de 3 de junho de 1998, e dá outras providências",
-      "dataApresentacao": "2026-10-13T17:19"
-    },
-    {
-      "id": 2647472,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647472",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5548,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.485, de 12 de setembro de 2011, para estabelecer regras de transparência na composição dos pacotes de canais do serviço de acesso condicionado e para assegurar a comunicação prévia e individualizada aos consumidores acerca da retirada, substituição ou descontinuidade de canais integrantes dos pacotes contratados.",
-      "dataApresentacao": "2026-10-13T16:18"
-    },
-    {
-      "id": 2647471,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647471",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5547,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.127, de 28 de abril de 2025, para disciplinar a doação, a coleta, o processamento, a confecção e a dispensação de próteses capilares a pacientes em tratamento oncológico no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-10-13T15:52"
-    },
-    {
-      "id": 2647470,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647470",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5546,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a incorporação de protocolos clínicos e de diretrizes terapêuticas no Sistema Único de Saúde para tratamento da ataxia de Friedreich.",
-      "dataApresentacao": "2026-10-13T15:51"
-    },
-    {
-      "id": 2647445,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647445",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5545,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Responsabilização Administrativa pelo Consumo de Drogas Ilícitas em Espaços Públicos, estabelece multa administrativa para a prática de consumo ostensivo de substâncias ilícitas em locais de uso comum do povo, disciplina a destinação vinculada dos valores arrecadados para ações de prevenção ao uso de drogas nas escolas, segurança pública e saúde, e altera a Lei nº 11.343, de 23 de agosto de 2006, para fortalecer medidas educativas, preventivas e de proteção à coletividade.",
-      "dataApresentacao": "2026-10-13T14:52"
-    },
-    {
-      "id": 2647443,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647443",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5544,
-      "ano": 2026,
-      "ementa": "Institui a Lei Insalubridade Justa dos Agentes de Saúde, altera a Lei nº 11.350, de 5 de outubro de 2006, para assegurar a correta base de cálculo do adicional de insalubridade devido aos Agentes Comunitários de Saúde e aos Agentes de Combate às Endemias, vedar sua apuração sobre o salário mínimo quando houver vencimento ou salário-base próprio, disciplinar a revisão administrativa de pagamentos realizados a menor, estabelecer deveres de transparência e controle, e dá outras providências.",
-      "dataApresentacao": "2026-10-13T14:36"
-    },
-    {
-      "id": 2647435,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647435",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5543,
-      "ano": 2026,
-      "ementa": "Altera o art. 21-A da Lei nº 11.508, de 20 de julho de 2007, para disciplinar a prestação de serviços vinculados à exportação no âmbito das Zonas de Processamento de Exportação.",
-      "dataApresentacao": "2026-10-13T13:56"
-    },
-    {
-      "id": 2647427,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647427",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5542,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima.",
-      "dataApresentacao": "2026-10-13T13:26"
-    },
-    {
-      "id": 2647408,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647408",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5541,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a prevenção e a repressão ao assédio telefônico nas relações de consumo, estabelece limites para chamadas de telemarketing e cobrança e assegura direitos de identificação, oposição e rastreabilidade.",
-      "dataApresentacao": "2026-10-13T10:46"
     }
   ]
 }
