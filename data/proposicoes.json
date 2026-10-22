@@ -1,6 +1,126 @@
 {
   "dados": [
     {
+      "id": 2648703,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648703",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5645,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.383, de 30 de dezembro de 1991, para assegurar às instituições autorizadas a funcionar pelo Banco Central do Brasil e às demais pessoas jurídicas sujeitas a deveres legais de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e à fraude o acesso isonômico, mediante convênio, às informações cadastrais não protegidas por sigilo fiscal mantidas pela Secretaria Especial da Receita Federal do Brasil.",
+      "dataApresentacao": "2026-10-21T17:39"
+    },
+    {
+      "id": 2648702,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648702",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5644,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes nacionais para a atenção integrada às pessoas em situação de acumulação de animais, com fundamento na abordagem de Saúde Única; dispõe sobre identificação precoce, avaliação intersetorial de riscos, atenção à saúde e à assistência social, proteção e bem-estar dos animais, manejo populacional ético, saneamento ambiental, prevenção de maus-tratos e de recorrências; institui o Plano Integrado de Atenção e Proteção; estabelece salvaguardas para intervenções administrativas, tratamento de dados e preservação responsável dos vínculos entre pessoas e animais; e dá outras providências.",
+      "dataApresentacao": "2026-10-21T17:35"
+    },
+    {
+      "id": 2648701,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648701",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5643,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a utilização da arte, da cultura, do esporte, do lazer e da convivência comunitária como instrumentos de promoção, prevenção e cuidado em saúde mental de crianças e adolescentes no âmbito do Sistema Único de Saúde (SUS), em articulação com a Rede de Atenção Psicossocial (RAPS).",
+      "dataApresentacao": "2026-10-21T17:30"
+    },
+    {
+      "id": 2648698,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648698",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5642,
+      "ano": 2026,
+      "ementa": "Altera o art. 21-B da Lei nº 9.657, de 3 de junho de 1998, para estender a Gratificação de Qualificação (GQ) aos titulares de cargos de provimento efetivo de nível auxiliar integrantes do Plano de Carreira dos Cargos de Tecnologia Militar.",
+      "dataApresentacao": "2026-10-21T17:20"
+    },
+    {
+      "id": 2648697,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648697",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5641,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência, Controle da Qualidade e Combate à Adulteração de Suplementos Alimentares; estabelece diretrizes para monitoramento laboratorial, autocontrole, rastreabilidade, divulgação de informações, recolhimento de produtos e fiscalização do comércio eletrônico; altera a Lei nº 6.437, de 20 de agosto de 1977; e dá outras providências.",
+      "dataApresentacao": "2026-10-21T17:11"
+    },
+    {
+      "id": 2648690,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648690",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5640,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 242-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de manipulação fraudulenta da opinião pública mediante ocultação de patrocínio ou financiamento por agentes econômicos ou organizações criminosas, e dá outras providências.",
+      "dataApresentacao": "2026-10-21T16:33"
+    },
+    {
+      "id": 2648677,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648677",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5639,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para reduzir o prazo de habilitação ao voto em trânsito, admitir a habilitação por meio eletrônico e dispor sobre o voto em trânsito dos motoristas profissionais de transporte rodoviário de cargas, inclusive em seções eleitorais instaladas em postos da Polícia Rodoviária Federal.",
+      "dataApresentacao": "2026-10-21T16:26"
+    },
+    {
+      "id": 2648645,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648645",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5637,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para assegurar prioridade na restituição do Imposto sobre a Renda das Pessoas Físicas aos contribuintes que tenham como dependentes crianças ou adolescentes com transtorno do espectro autista, deficiência ou doença grave.",
+      "dataApresentacao": "2026-10-21T15:21"
+    },
+    {
+      "id": 2648636,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648636",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5636,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para proibir, em todo o território nacional, a fabricação, a importação, a comercialização e o uso de fantasias, alegorias, adereços e ornamentos confeccionados com partes de origem animal, estabelecer mecanismos de fiscalização e responsabilização administrativa e dá outras providências.",
+      "dataApresentacao": "2026-10-21T13:31"
+    },
+    {
+      "id": 2648633,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648633",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5635,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, Estatuto da Pessoa com Deficiência, para dispor sobre a garantia de meios acessíveis de alerta e acompanhamento de chamadas para atendimento presencial em órgãos públicos e estabelecimentos privados.",
+      "dataApresentacao": "2026-10-21T12:32"
+    },
+    {
+      "id": 2648620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648620",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5634,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.434, de 16 de junho de 2026, para dispor sobre os efeitos dos atos emanados dos Sistemas Internacionais de Direitos Humanos no âmbito do Conselho Nacional de Justiça",
+      "dataApresentacao": "2026-10-21T12:03"
+    },
+    {
+      "id": 2648619,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648619",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5633,
+      "ano": 2026,
+      "ementa": "Revoga a Lei nº 15.434, de 16 de junho de 2026, que cria, no âmbito do Conselho Nacional de Justiça, o Departamento de Monitoramento e Fiscalização das Decisões dos Sistemas Internacionais de Direitos Humanos (DDH).",
+      "dataApresentacao": "2026-10-21T12:03"
+    },
+    {
       "id": 2648603,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648603",
       "siglaTipo": "PL",
@@ -379,126 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre as diretrizes para a regularização da ocupação de imóveis de domínio da União situados nas praias do Araçagy, Olho de Porco, Mangue Seco, Vista ao Mar e Pucal, no Estado do Maranhão, e dá outras providências.",
       "dataApresentacao": "2026-10-15T15:46"
-    },
-    {
-      "id": 2648292,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648292",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5584,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir o Programa Brasil contra o Crime Organizado no âmbito da Política Nacional de Segurança Pública e Defesa Social",
-      "dataApresentacao": "2026-10-15T15:33"
-    },
-    {
-      "id": 2648287,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648287",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5583,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes para a ampliação do acesso ao diagnóstico, ao tratamento e ao acompanhamento em saúde mental e neurocognitiva, com atenção às crianças e aos adolescentes com Transtorno do Déficit de Atenção com Hiperatividade, às pessoas com depressão e ansiedade, às pessoas idosas com doenças neurodegenerativas e aos seus familiares e cuidadores, e dá outras providências.",
-      "dataApresentacao": "2026-10-15T14:54"
-    },
-    {
-      "id": 2647789,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647789",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5582,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir a garantia de distribuição gratuita de propaganda eleitoral identificada em plataformas digitais.",
-      "dataApresentacao": "2026-10-15T14:04"
-    },
-    {
-      "id": 2647787,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647787",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5581,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 13.344, de 6 de outubro de 2016, para agravar a pena do tráfico de pessoas praticado no contexto de organização criminosa, milícia privada ou grupo paramilitar, instituir prestação patrimonial especial destinada à desarticulação econômica da atividade criminosa quando a vítima for criança ou adolescente, estabelecer protocolo de resposta rápida para casos com indícios de transnacionalidade e dispor sobre o monitoramento do embarque de crianças e adolescentes.",
-      "dataApresentacao": "2026-10-15T13:47"
-    },
-    {
-      "id": 2647780,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647780",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5580,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Formação de Talentos, destinada ao desenvolvimento de competências, à orientação educacional e profissional e à preparação dos estudantes para as transformações tecnológicas, econômicas e ocupacionais, e dá outras providências.",
-      "dataApresentacao": "2026-10-15T12:14"
-    },
-    {
-      "id": 2647779,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647779",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5579,
-      "ano": 2026,
-      "ementa": "Institui mecanismos de avaliação periódica e redução gradual de subsídios tarifários não sociais custeados pela Conta de Desenvolvimento Energético (CDE), com o objetivo de promover a modicidade tarifária, preservar a Tarifa Social de Energia Elétrica e assegurar transparência na composição dos custos suportados pelos consumidores.",
-      "dataApresentacao": "2026-10-15T12:10"
-    },
-    {
-      "id": 2647778,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647778",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5578,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para estabelecer diretrizes de apoio à implantação e à qualificação de Centros de Referência em Transtorno do Espectro Autista, promover a integração da rede de atendimento e fortalecer a inclusão, a autonomia e o suporte às pessoas com transtorno do espectro autista e suas famílias.",
-      "dataApresentacao": "2026-10-15T12:06"
-    },
-    {
-      "id": 2647777,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647777",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5577,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes para a integração da telessaúde, do acompanhamento clínico remoto e da entrega domiciliar de medicamentos no âmbito do Sistema Único de Saúde (SUS), com prioridade para regiões de difícil acesso e pessoas com barreiras de deslocamento, e dá outras providências.",
-      "dataApresentacao": "2026-10-15T12:00"
-    },
-    {
-      "id": 2647775,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647775",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5576,
-      "ano": 2026,
-      "ementa": "Institui mecanismos para o aproveitamento da capacidade assistencial ociosa dos prestadores privados de serviços de saúde em caráter complementar ao Sistema Único de Saúde (SUS), e altera a Lei nº 8.080, de 19 de setembro de 1990.",
-      "dataApresentacao": "2026-10-15T11:50"
-    },
-    {
-      "id": 2647730,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647730",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5575,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.874, de 20 de setembro de 2019, para estabelecer requisitos de fundamentação técnica, transparência e proporcionalidade para exigências administrativas estaduais, distritais e municipais que restrinjam o exercício de atividades econômicas classificadas como de baixo risco.",
-      "dataApresentacao": "2026-10-14T19:26"
-    },
-    {
-      "id": 2647726,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647726",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5574,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional Acolher de Tutoria e Reforço Escolar entre Estudantes, destinado à melhoria da aprendizagem na educação básica, à redução das desigualdades educacionais e à valorização da cooperação entre alunos, e dá outras providências.",
-      "dataApresentacao": "2026-10-14T19:11"
-    },
-    {
-      "id": 2647701,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647701",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5573,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.433, de 8 de janeiro de 1997, para simplificar e conferir maior previsibilidade aos procedimentos de concessão, renovação e alteração de outorgas de direito de uso de recursos hídricos destinadas à irrigação agropecuária, estabelecer prazos e critérios proporcionais de análise e promover a segurança jurídica do produtor rural, preservada a gestão sustentável dos recursos hídricos.",
-      "dataApresentacao": "2026-10-14T18:59"
     }
   ]
 }
