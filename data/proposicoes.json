@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2648821,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648821",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5654,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 667, de 2 de julho de 1969, para estabelecer diretrizes gerais para a instituição, pelos Estados e pelo Distrito Federal, de contribuição previdenciária voluntária adicional por militar estadual inativo, destinada à constituição de reserva para futura complementação de proventos, observados os limites constitucionais e a legislação do respectivo ente federativo.",
+      "dataApresentacao": "2026-10-23T19:00"
+    },
+    {
+      "id": 2648820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648820",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5653,
+      "ano": 2026,
+      "ementa": "Acrescenta art. 48-A à Lei nº 11.196, de 21 de novembro de 2005, para instituir incentivo fiscal no Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e na Contribuição Social sobre o Lucro Líquido (CSLL) às pessoas jurídicas que adquiram materiais recicláveis de cooperativas e associações de catadores de materiais reutilizáveis e recicláveis.",
+      "dataApresentacao": "2026-10-23T18:59"
+    },
+    {
+      "id": 2648819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648819",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5652,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2022, Lei de Licitações e Contratos Administrativos, para dispor sobre o videomonitoramento de obras e serviços públicos de engenharia e dá outras providências.",
+      "dataApresentacao": "2026-10-23T18:59"
+    },
+    {
+      "id": 2648811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5650,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para dispor sobre o reajuste anual dos valores do Programa Bolsa Família e instituir política de valorização real.",
+      "dataApresentacao": "2026-10-22T19:57"
+    },
+    {
       "id": 2648807,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648807",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para assegurar o pagamento em dobro do abono anual a todos os aposentados do Regime Geral de Previdência Social.",
       "dataApresentacao": "2026-10-18T11:48"
-    },
-    {
-      "id": 2648324,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648324",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5591,
-      "ano": 2026,
-      "ementa": "Institui a Lei Amapá Tucujú, estabelece diretrizes para a prioridade de investimentos em infraestrutura petrolífera no Estado do Amapá e dispõe sobre o desenvolvimento econômico e social associado às atividades de petróleo e gás natural da Margem Equatorial Brasileira.",
-      "dataApresentacao": "2026-10-16T15:53"
-    },
-    {
-      "id": 2648322,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648322",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5590,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 Lei Geral do Esporte, para incluir o fomento do esporte universitário entre os objetivos do Fundo Nacional do Esporte.",
-      "dataApresentacao": "2026-10-16T11:28"
-    },
-    {
-      "id": 2648319,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648319",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5589,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a regulamentação da profissão de Consultor de Imagem.",
-      "dataApresentacao": "2026-10-16T10:00"
-    },
-    {
-      "id": 2648317,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648317",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5588,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para ampliar o limite anual de aquisição de gêneros alimentícios da agricultura familiar, por Cadastro Nacional da Agricultura Familiar, no âmbito do Programa Nacional de Alimentação Escolar.",
-      "dataApresentacao": "2026-10-16T09:24"
     }
   ]
 }
