@@ -1,6 +1,26 @@
 {
   "dados": [
     {
+      "id": 2648838,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648838",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5662,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para assegurar a gratuidade do estacionamento vinculado a estabelecimento de saúde ou de habilitação e reabilitação para veículo utilizado no transporte de pessoa com deficiência com comprometimento de mobilidade.",
+      "dataApresentacao": "2026-10-26T13:27"
+    },
+    {
+      "id": 2648834,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648834",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5661,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de desenvolvimento e execução da publicidade dos órgãos e entidades integrantes da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "dataApresentacao": "2026-10-26T12:04"
+    },
+    {
       "id": 2648825,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648825",
       "siglaTipo": "PL",
@@ -479,26 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Programa Federal Acolhe Universitário, de apoio à permanência e à conclusão da graduação por estudantes do interior ou em situação de vulnerabilidade socioeconômica.",
       "dataApresentacao": "2026-10-19T15:20"
-    },
-    {
-      "id": 2648384,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648384",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5597,
-      "ano": 2026,
-      "ementa": "Altera a legislação eleitoral para instituir o sistema federativo misto nas eleições de Deputado Federal, Deputado Estadual, Deputado Distrital e Vereador.",
-      "dataApresentacao": "2026-10-19T15:18"
-    },
-    {
-      "id": 2648382,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648382",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5596,
-      "ano": 2026,
-      "ementa": "Altera as Leis nºs 11.076, de 30 de dezembro de 2004 e 11.033, de 21 de dezembro de 2004 para instituir o Certificado de Recebíveis do Seguro Rural (CRSR).",
-      "dataApresentacao": "2026-10-19T14:39"
     }
   ]
 }
