@@ -1,6 +1,136 @@
 {
   "dados": [
     {
+      "id": 2649499,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649499",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5689,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
+      "dataApresentacao": "2026-10-29T09:52"
+    },
+    {
+      "id": 2649485,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649485",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5688,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais para a contratação de instituições organizadoras de concursos públicos e de processos seletivos públicos, com requisitos mínimos de segurança, idoneidade e rastreabilidade, dispõe sobre a restituição da taxa de inscrição em caso de anulação ou cancelamento do certame e institui o Cadastro Nacional de Organizadoras de Concursos Impedidas.",
+      "dataApresentacao": "2026-10-29T08:47"
+    },
+    {
+      "id": 2649484,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649484",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5687,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.716, de 5 de janeiro de 1989, para incluir a discriminação ou o preconceito em razão de origem regional entre os crimes nela definidos, agravar a pena quando motivados por resultado eleitoral e prever a preservação de dados para a identificação da autoria dos crimes cometidos pela internet.",
+      "dataApresentacao": "2026-10-29T08:47"
+    },
+    {
+      "id": 2649483,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649483",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5686,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para dispor sobre mecanismos de verificação, transparência e responsabilização na concessão do seguro-desemprego ao pescador artesanal durante o período de defeso e sobre garantias ao beneficiário nos processos de suspensão e cancelamento do benefício.",
+      "dataApresentacao": "2026-10-29T08:47"
+    },
+    {
+      "id": 2649482,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649482",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5685,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para assegurar notificação prévia e prazo de regularização antes da exclusão de unidade consumidora da Tarifa Social de Energia Elétrica, garantir o benefício ao morador efetivo da unidade consumidora e assegurar a gratuidade da alteração de titularidade.",
+      "dataApresentacao": "2026-10-29T08:38"
+    },
+    {
+      "id": 2649423,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649423",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5684,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o limite do custo total das operações de crédito e estabelece medidas de proteção contra a cobrança excessiva de juros e encargos.",
+      "dataApresentacao": "2026-10-28T18:31"
+    },
+    {
+      "id": 2649418,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649418",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5683,
+      "ano": 2026,
+      "ementa": "Institui o Plano de Desenvolvimento Agropecuário e Agroindustrial do Polo SEALBA (PDAA/SEALBA) e dispõe sobre sua governança, seus instrumentos e seu financiamento.",
+      "dataApresentacao": "2026-10-28T18:18"
+    },
+    {
+      "id": 2649364,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649364",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5682,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 986, de 21 de outubro de 1969, e a Lei nº 8.078, de 11 de setembro de 1990, para aprimorar as regras de rotulagem, apresentação e comercialização de alimentos industrializados, a fim de ampliar a transparência ao consumidor e evitar indução a erro quanto à composição efetiva dos produtos.",
+      "dataApresentacao": "2026-10-28T16:29"
+    },
+    {
+      "id": 2649328,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649328",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5681,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de fixação de material de campanha e rostos de candidatos, bem como de propaganda político-partidária explícita nas dependências de instituições de ensino, regulamentando o debate político e filosófico, e dá outras providências.",
+      "dataApresentacao": "2026-10-28T14:32"
+    },
+    {
+      "id": 2649215,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649215",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5680,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de criação de contas de crianças em redes sociais classificadas como de alto risco para crianças.",
+      "dataApresentacao": "2026-10-28T12:14"
+    },
+    {
+      "id": 2649214,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649214",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5679,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, para tipificar o crime de assédio eleitoral nas relações de trabalho e estabelecer medidas de proteção às vítimas.",
+      "dataApresentacao": "2026-10-28T11:53"
+    },
+    {
+      "id": 2649212,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649212",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5678,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.656, de 30 de abril de 2018, para isentar do pagamento de taxa de inscrição em concursos públicos federais os candidatos de baixa renda que tenham cursado o ensino médio na rede pública ou em situação equiparada.",
+      "dataApresentacao": "2026-10-28T11:47"
+    },
+    {
+      "id": 2649196,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649196",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5677,
+      "ano": 2026,
+      "ementa": "Altera os arts. 1º e 2º da Lei nº 9.029, de 13 de abril de 1995, para vedar práticas discriminatórias fundadas em convicções políticas e eleitorais e proibir a exigência ou devassa de redes sociais privadas de empregados ou candidatos a emprego.",
+      "dataApresentacao": "2026-10-28T11:13"
+    },
+    {
       "id": 2649124,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649124",
       "siglaTipo": "PL",
@@ -369,136 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para estabelecer normas gerais de política urbana destinadas à proteção do ponto tradicional de trabalho do vendedor ambulante nos processos de reorganização, requalificação ou restrição do uso de espaços públicos; instituir garantias de participação, motivação, transição e prioridade de realocação; estabelecer salvaguardas relativas à apreensão de mercadorias, equipamentos e instrumentos de trabalho; mitigar impactos socioeconômicos decorrentes de intervenções urbanas; e preservar as competências dos entes federativos sobre ordenamento territorial, poder de polícia e gestão dos bens públicos.",
       "dataApresentacao": "2026-10-20T16:36"
-    },
-    {
-      "id": 2648591,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648591",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5621,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional Presença Plena de Recuperação e Consolidação Territorial em Áreas sob Coerção Criminosa, disciplina a constituição temporária de Grupos Táticos Integrados de Recuperação Territorial no âmbito do Sistema Único de Segurança Pública, estabelece medidas destinadas à proteção da população, à continuidade dos serviços públicos e à prevenção da reocupação criminosa, e dá outras providências.",
-      "dataApresentacao": "2026-10-20T16:23"
-    },
-    {
-      "id": 2648590,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648590",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5620,
-      "ano": 2026,
-      "ementa": "Institui o sistema de voto proporcional nominal regionalizado nas eleições para a Câmara dos Deputados, as Assembleias Legislativas e a Câmara Legislativa do Distrito Federal, estabelece critérios para a delimitação de distritos eleitorais, disciplina a distribuição de vagas e dispõe sobre a transparência das campanhas eleitorais.",
-      "dataApresentacao": "2026-10-20T16:12"
-    },
-    {
-      "id": 2648539,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648539",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5619,
-      "ano": 2026,
-      "ementa": "Institui a Lei da Tarifa Justa de Água e Esgoto, para estabelecer garantias de medição, faturamento, proporcionalidade tarifária, compensação e ressarcimento por descontinuidade do abastecimento, postergação de vencimento e cobrança proporcional dos serviços de esgotamento sanitário, e altera a Lei nº 11.445, de 5 de janeiro de 2007.",
-      "dataApresentacao": "2026-10-20T15:36"
-    },
-    {
-      "id": 2648537,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648537",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5618,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.252, de 4 de novembro de 2025, e a Lei nº 8.212, de 24 de julho de 1991, para instituir salvaguardas de segurança digital, requisitos de habilitação aplicáveis às instituições destinatárias de recursos decorrentes da portabilidade de benefícios previdenciários, mecanismos de prevenção a fraudes e critérios prudenciais de gerenciamento de riscos.",
-      "dataApresentacao": "2026-10-20T15:18"
-    },
-    {
-      "id": 2648526,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648526",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5617,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional de Prevenção de Colisões por Restrição de Gabarito, estabelece mecanismos de identificação, sinalização e alerta antecipado para veículos que se aproximem de estruturas rodoviárias com limitação de altura ou dimensões, e dá outras providências.",
-      "dataApresentacao": "2026-10-20T14:16"
-    },
-    {
-      "id": 2648525,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648525",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5616,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional de Controle Inteligente e Preventivo de Velocidade para veículos de transporte de cargas e de passageiros de grande porte, estabelece mecanismos tecnológicos de advertência, assistência à condução e prevenção de acidentes, e dá outras providências.",
-      "dataApresentacao": "2026-10-20T14:16"
-    },
-    {
-      "id": 2648524,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648524",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5615,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 – Lei de Registros Públicos, para dispor sobre a inclusão do número de inscrição no Cadastro de Pessoas Físicas dos genitores no assento de nascimento.",
-      "dataApresentacao": "2026-10-20T14:11"
-    },
-    {
-      "id": 2648421,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648421",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5614,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 6.830, de 22 de setembro de 1980 (Lei de Execução Fiscal), para dispor sobre a impenhorabilidade de proventos de aposentadoria e pensões de pessoa idosa em situação de vulnerabilidade econômica.",
-      "dataApresentacao": "2026-10-20T13:28"
-    },
-    {
-      "id": 2648420,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648420",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5613,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
-      "dataApresentacao": "2026-10-20T12:24"
-    },
-    {
-      "id": 2648414,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648414",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5612,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848 para aumentar a pena do crime de resistência.",
-      "dataApresentacao": "2026-10-20T11:31"
-    },
-    {
-      "id": 2648406,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648406",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5610,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir procedimento de verificação de informações factuais apresentadas durante debates eleitorais.",
-      "dataApresentacao": "2026-10-19T21:37"
-    },
-    {
-      "id": 2648405,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648405",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5609,
-      "ano": 2026,
-      "ementa": "Institui a Área de Proteção Ambiental (APA) Federal da Bacia Hidrográfica do Rio Doce no Estado do Espírito Santo, estabelece suas diretrizes de delimitação, preservação e recuperação ambiental, e dá outras providências.",
-      "dataApresentacao": "2026-10-19T19:49"
-    },
-    {
-      "id": 2648397,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648397",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5608,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a dispensa de inscrição suplementar para advogados que atuem em processos fora da jurisdição do Conselho Seccional ao qual estão regularmente inscritos, e altera a Lei nº 8.906, de 4 de julho de 1994 – Estatuto da Advocacia e a Ordem dos Advogados do Brasil.",
-      "dataApresentacao": "2026-10-19T16:24"
     }
   ]
 }
