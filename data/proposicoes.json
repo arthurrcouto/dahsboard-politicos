@@ -1,6 +1,226 @@
 {
   "dados": [
     {
+      "id": 2650486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650486",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5750,
+      "ano": 2026,
+      "ementa": "Regulamenta o inciso XLVI-A do art. 5º da Constituição Federal, que dispõe sobre o regime legal especial aplicável a integrantes e líderes de organizações criminosas de alta periculosidade ou lesividade, bem como a autores de crimes de alta lesividade cometidos mediante violência ou grave ameaça, alterando o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal; a Lei nº 7.210, de 11 de julho de 1984; a Lei nº 8.072, de 25 de julho de 1990; a Lei nº 9.807, de 13 de julho de 1999; e a Lei nº 15.358, de 24 de março de 2026.",
+      "dataApresentacao": "2026-11-04T11:39"
+    },
+    {
+      "id": 2650471,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650471",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5749,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o incêndio criminoso em biomas florestais; disciplina a perda e a desapropriação de imóveis rurais utilizados para incêndios criminosos, por descumprimento da função socioambiental da propriedade; e dá outras providências.",
+      "dataApresentacao": "2026-11-04T11:28"
+    },
+    {
+      "id": 2650404,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650404",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5748,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Transição Protegida para o Trabalho e o Empreendedorismo — Emprego Sem Medo, estabelece proteção temporária do Programa Bolsa Família para as famílias em processo de inclusão produtiva, cria incentivo condicionado à contratação adicional de trabalhadores e dispõe sobre qualificação, fiscalização, avaliação e responsabilidade fiscal.",
+      "dataApresentacao": "2026-11-04T10:24"
+    },
+    {
+      "id": 2650194,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650194",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5747,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000, para incluir as pessoas com transtorno do neurodesenvolvimento entre os beneficiários de atendimento prioritário e estabelecer ordem de precedência no atendimento.",
+      "dataApresentacao": "2026-11-03T19:24"
+    },
+    {
+      "id": 2650116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650116",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5746,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a Política Nacional de Soberania Digital, estabelece diretrizes para a jurisdição do espaço digital brasileiro, regulamenta a atuação de empresas de tecnologia e institui a obrigatoriedade de interoperabilidade entre plataformas, e dá outras providências.",
+      "dataApresentacao": "2026-11-03T19:12"
+    },
+    {
+      "id": 2650114,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650114",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5745,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de criação, produção e disseminação deliberada de desinformação (notícias falsas) que atente contra a saúde pública, a ordem econômica e a paz social, e dá outras providências.",
+      "dataApresentacao": "2026-11-03T19:11"
+    },
+    {
+      "id": 2650111,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650111",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5744,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Socioprodutiva em Saúde Mental, denominada Lei Trabalho e Autonomia em Saúde Mental, destinada a promover a qualificação profissional, o acesso e a permanência no trabalho, o emprego apoiado, o cooperativismo social, a geração de trabalho e renda e o retorno laboral de pessoas em sofrimento psíquico, com respeito à autonomia, à não discriminação e ao sigilo das informações de saúde.",
+      "dataApresentacao": "2026-11-03T19:06"
+    },
+    {
+      "id": 2650083,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650083",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5743,
+      "ano": 2026,
+      "ementa": "Institui o Protocolo Nacional Alerta Neuro, no âmbito da Política Nacional de Busca de Pessoas Desaparecidas, para resposta prioritária ao desaparecimento de pessoa com deficiência ou condição do neurodesenvolvimento ou neurocognitiva que implique risco aumentado de desorientação, dificuldade de comunicação ou de autoproteção, independentemente da idade, e estabelece mecanismos de informação preventiva e proteção de dados pessoais.",
+      "dataApresentacao": "2026-11-03T18:34"
+    },
+    {
+      "id": 2650051,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650051",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5742,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas tributárias e aduaneiras referentes à realização da Copa do Mundo Feminina da Fédération Internationale de Football Association – FIFA 2027 na República Federativa do Brasil.",
+      "dataApresentacao": "2026-11-03T17:58"
+    },
+    {
+      "id": 2650043,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650043",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5741,
+      "ano": 2026,
+      "ementa": "Estabelece normas de proteção econômica do passageiro no transporte aéreo, com critérios de restituição progressiva no cancelamento de passagens, transparência na recomercialização da capacidade de transporte e compensação em caso de cancelamento de voo imputável ao transportador, e altera a Lei nº 7.565, de 19 de dezembro de 1986.",
+      "dataApresentacao": "2026-11-03T17:57"
+    },
+    {
+      "id": 2649998,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649998",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5740,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção pelo Silêncio Inclusivo, estabelece medidas de prevenção e proteção do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas vulneráveis a perturbações sonoras no ambiente residencial, especialmente crianças e pessoas idosas, e dispõe sobre a comunicação preventiva e a atuação das autoridades competentes.",
+      "dataApresentacao": "2026-11-03T16:16"
+    },
+    {
+      "id": 2649984,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649984",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5739,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do sossego e da integridade sensorial de pessoas especialmente vulneráveis a estímulos sonoros no ambiente residencial, estabelece critérios para a comunicação prévia e a responsabilização por perturbações deliberadas, protege dados de saúde e acrescenta o art. 42-A ao Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+      "dataApresentacao": "2026-11-03T16:03"
+    },
+    {
+      "id": 2649935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649935",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5738,
+      "ano": 2026,
+      "ementa": "Institui o Cadastro Nacional de Empregadores e Empresas Responsabilizados por Assédio Eleitoral, estabelece critérios para sua inclusão, manutenção e exclusão, dispõe sobre sua divulgação e atualização pelos órgãos públicos e estabelece restrições à contratação com o poder público e ao acesso a recursos públicos.",
+      "dataApresentacao": "2026-11-03T15:31"
+    },
+    {
+      "id": 2649934,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649934",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5737,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965, para agravar as penas dos crimes contra a liberdade do sufrágio e estabelecer causas de aumento de pena para condutas praticadas mediante abuso de poder econômico, hierárquico ou de relações familiares e de cuidado, especialmente contra pessoas idosas.",
+      "dataApresentacao": "2026-11-03T15:31"
+    },
+    {
+      "id": 2649804,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649804",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5734,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer critérios de contextualização e garantias procedimentais na classificação indicativa de diversões e espetáculos públicos e de programas de rádio e televisão.",
+      "dataApresentacao": "2026-11-03T14:42"
+    },
+    {
+      "id": 2649802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5733,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispor sobre a manifestação prévia da União e a mediação nas ações possessórias que envolvam praias, terrenos de marinha e áreas de uso tradicional por comunidades de pesca artesanal.",
+      "dataApresentacao": "2026-11-03T14:35"
+    },
+    {
+      "id": 2649801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649801",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5732,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito do Sistema Único de Saúde – SUS, a Linha Nacional de Cuidado Integral à Saúde da Mulher em Situação de Rua – Dignidade Feminina nas Ruas, destinada a assegurar busca ativa, prevenção, diagnóstico, tratamento, acompanhamento longitudinal e atenção integrada à saúde sexual e reprodutiva, ginecológica, oncológica, materna, menstrual e mental e às situações de violência.",
+      "dataApresentacao": "2026-11-03T14:34"
+    },
+    {
+      "id": 2649800,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649800",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5731,
+      "ano": 2026,
+      "ementa": "Altera a legislação eleitoral para instituir o voto distrital misto para a eleição de representantes da Câmara dos Deputados, Assembleias Legislativas, Câmara Legislativa e das Câmaras Municipais dos Municípios com mais de duzentos mil eleitores.",
+      "dataApresentacao": "2026-11-03T14:29"
+    },
+    {
+      "id": 2649799,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649799",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5730,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para assegurar acessibilidade, autonomia e igualdade de condições às pessoas com deficiência visual na utilização de serviços bancários e financeiros.",
+      "dataApresentacao": "2026-11-03T14:23"
+    },
+    {
+      "id": 2649761,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649761",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5729,
+      "ano": 2026,
+      "ementa": "Institui a Lei Anticrime Deepfake, estabelece medidas penais, processuais e de investigação destinadas à repressão de fraudes, extorsões e organizações criminosas que utilizem inteligência artificial, deepfakes, clonagem de voz ou manipulação artificial de identidade, dispõe sobre mecanismos de preservação e rastreabilidade de evidências digitais, cria protocolo nacional de resposta emergencial a fraudes tecnológicas e estabelece medidas de bloqueio, recuperação e perda de ativos relacionados a esses crimes.",
+      "dataApresentacao": "2026-11-03T13:46"
+    },
+    {
+      "id": 2649753,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649753",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5728,
+      "ano": 2026,
+      "ementa": "Estabelece medidas de segurança para prevenção à transferência fraudulenta de números telefônicos e à apropriação indevida de contas digitais de comunicação, e altera a Lei nº 12.965, de 23 de abril de 2014.",
+      "dataApresentacao": "2026-11-03T13:37"
+    },
+    {
+      "id": 2649747,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649747",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5727,
+      "ano": 2026,
+      "ementa": "Institui o Programa Talento Sênior, estabelece medidas para promover a qualificação profissional, prevenir a discriminação por idade no trabalho e estimular a contratação de pessoas idosas.",
+      "dataApresentacao": "2026-11-03T13:29"
+    },
+    {
       "id": 2649670,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649670",
       "siglaTipo": "PL",
@@ -279,226 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 9.250 de 26 de dezembro de 1995, para permitir a dedução, da base de cálculo do Imposto sobre a Renda das pessoas físicas, das despesas específicas suportadas com pessoa com deficiência, com transtorno do espectro autista ou outro transtorno do neurodesenvolvimento, inclusive pelo familiar ou responsável por seu sustento.",
       "dataApresentacao": "2026-10-29T11:31"
-    },
-    {
-      "id": 2649524,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649524",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5695,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.541, de 3 de abril de 2023, para estabelecer mecanismos de expansão da cobertura policial especializada às mulheres nos Municípios  que não disponham de cobertura adequada e critérios de prioridades para o apoio federal.",
-      "dataApresentacao": "2026-10-29T11:28"
-    },
-    {
-      "id": 2649523,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649523",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5694,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Reinserção Profissional da Mulher, destinado a promover o retorno ao mercado de trabalho de mulheres que tenham interrompido ou reduzido sua atividade profissional em razão de responsabilidades de cuidado, enfermidade de dependente ou situação de violência.",
-      "dataApresentacao": "2026-10-29T11:26"
-    },
-    {
-      "id": 2649522,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649522",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5693,
-      "ano": 2026,
-      "ementa": "Acrescenta o art. 359-N-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a supressão do transporte de eleitores com o fim de impedir ou perturbar a eleição.",
-      "dataApresentacao": "2026-10-29T11:24"
-    },
-    {
-      "id": 2649521,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649521",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5692,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
-      "dataApresentacao": "2026-10-29T11:23"
-    },
-    {
-      "id": 2649518,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649518",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5691,
-      "ano": 2026,
-      "ementa": "Institui o Fundo Nacional de Apoio, Liquidez e Armazenamento da Cacauicultura  (FUN-CACAU), fundo de natureza contábil e financeira, sem personalidade jurídica própria, destinado a financiar ações de apoio à comercialização, armazenagem, liquidez e organização econômica da produção brasileira de cacau.",
-      "dataApresentacao": "2026-10-29T10:53"
-    },
-    {
-      "id": 2649517,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649517",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5690,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.710, de 24 de agosto de 2018, para instituir o Marco Legal do Cacau Brasileiro, ampliar os instrumentos de desenvolvimento sustentável, defesa da produção nacional, transparência de mercado, rastreabilidade, inovação e agregação de valor da cadeia produtiva do cacau e do chocolate.",
-      "dataApresentacao": "2026-10-29T10:53"
-    },
-    {
-      "id": 2649499,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649499",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5689,
-      "ano": 2026,
-      "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
-      "dataApresentacao": "2026-10-29T09:52"
-    },
-    {
-      "id": 2649485,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649485",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5688,
-      "ano": 2026,
-      "ementa": "Estabelece normas gerais para a contratação de instituições organizadoras de concursos públicos e de processos seletivos públicos, com requisitos mínimos de segurança, idoneidade e rastreabilidade, dispõe sobre a restituição da taxa de inscrição em caso de anulação ou cancelamento do certame e institui o Cadastro Nacional de Organizadoras de Concursos Impedidas.",
-      "dataApresentacao": "2026-10-29T08:47"
-    },
-    {
-      "id": 2649484,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649484",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5687,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.716, de 5 de janeiro de 1989, para incluir a discriminação ou o preconceito em razão de origem regional entre os crimes nela definidos, agravar a pena quando motivados por resultado eleitoral e prever a preservação de dados para a identificação da autoria dos crimes cometidos pela internet.",
-      "dataApresentacao": "2026-10-29T08:47"
-    },
-    {
-      "id": 2649483,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649483",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5686,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para dispor sobre mecanismos de verificação, transparência e responsabilização na concessão do seguro-desemprego ao pescador artesanal durante o período de defeso e sobre garantias ao beneficiário nos processos de suspensão e cancelamento do benefício.",
-      "dataApresentacao": "2026-10-29T08:47"
-    },
-    {
-      "id": 2649482,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649482",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5685,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para assegurar notificação prévia e prazo de regularização antes da exclusão de unidade consumidora da Tarifa Social de Energia Elétrica, garantir o benefício ao morador efetivo da unidade consumidora e assegurar a gratuidade da alteração de titularidade.",
-      "dataApresentacao": "2026-10-29T08:38"
-    },
-    {
-      "id": 2649423,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649423",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5684,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o limite do custo total das operações de crédito e estabelece medidas de proteção contra a cobrança excessiva de juros e encargos.",
-      "dataApresentacao": "2026-10-28T18:31"
-    },
-    {
-      "id": 2649418,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649418",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5683,
-      "ano": 2026,
-      "ementa": "Institui o Plano de Desenvolvimento Agropecuário e Agroindustrial do Polo SEALBA (PDAA/SEALBA) e dispõe sobre sua governança, seus instrumentos e seu financiamento.",
-      "dataApresentacao": "2026-10-28T18:18"
-    },
-    {
-      "id": 2649364,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649364",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5682,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 986, de 21 de outubro de 1969, e a Lei nº 8.078, de 11 de setembro de 1990, para aprimorar as regras de rotulagem, apresentação e comercialização de alimentos industrializados, a fim de ampliar a transparência ao consumidor e evitar indução a erro quanto à composição efetiva dos produtos.",
-      "dataApresentacao": "2026-10-28T16:29"
-    },
-    {
-      "id": 2649328,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649328",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5681,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proibição de fixação de material de campanha e rostos de candidatos, bem como de propaganda político-partidária explícita nas dependências de instituições de ensino, regulamentando o debate político e filosófico, e dá outras providências.",
-      "dataApresentacao": "2026-10-28T14:32"
-    },
-    {
-      "id": 2649215,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649215",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5680,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proibição de criação de contas de crianças em redes sociais classificadas como de alto risco para crianças.",
-      "dataApresentacao": "2026-10-28T12:14"
-    },
-    {
-      "id": 2649214,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649214",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5679,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, para tipificar o crime de assédio eleitoral nas relações de trabalho e estabelecer medidas de proteção às vítimas.",
-      "dataApresentacao": "2026-10-28T11:53"
-    },
-    {
-      "id": 2649212,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649212",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5678,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.656, de 30 de abril de 2018, para isentar do pagamento de taxa de inscrição em concursos públicos federais os candidatos de baixa renda que tenham cursado o ensino médio na rede pública ou em situação equiparada.",
-      "dataApresentacao": "2026-10-28T11:47"
-    },
-    {
-      "id": 2649196,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649196",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5677,
-      "ano": 2026,
-      "ementa": "Altera os arts. 1º e 2º da Lei nº 9.029, de 13 de abril de 1995, para vedar práticas discriminatórias fundadas em convicções políticas e eleitorais e proibir a exigência ou devassa de redes sociais privadas de empregados ou candidatos a emprego.",
-      "dataApresentacao": "2026-10-28T11:13"
-    },
-    {
-      "id": 2649124,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649124",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5676,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a vedação de práticas discriminatórias motivadas por convicção política, filiação partidária ou voto nas relações de consumo e de trabalho, e dá outras providências.",
-      "dataApresentacao": "2026-10-28T09:07"
-    },
-    {
-      "id": 2649062,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649062",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5671,
-      "ano": 2026,
-      "ementa": "Altera a legislação eleitoral para instituir o sistema federativo misto majoritário-proporcional para as eleições de Deputado Federal, Deputado Estadual, Deputado Distrital e Vereador.",
-      "dataApresentacao": "2026-10-27T18:13"
-    },
-    {
-      "id": 2649057,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649057",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5670,
-      "ano": 2026,
-      "ementa": "Estabelece que as infrações de trânsito atribuídas a ambulâncias deverão ser anuladas de ofício pelos órgãos autuadores.",
-      "dataApresentacao": "2026-10-27T17:24"
     }
   ]
 }
