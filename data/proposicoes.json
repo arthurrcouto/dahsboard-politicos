@@ -1,6 +1,26 @@
 {
   "dados": [
     {
+      "id": 2651275,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651275",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5788,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o rastreamento precoce do diabetes mellitus tipo 1 e da doença celíaca na população pediátrica, no âmbito do Sistema Único de Saúde (SUS), e altera a Lei nº 13.895, de 30 de outubro de 2019, que institui a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética.",
+      "dataApresentacao": "2026-11-06T12:16"
+    },
+    {
+      "id": 2651272,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651272",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5787,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Silêncio Inclusivo e da Proteção Sensorial Imediata, estabelece medidas protetivas de urgência e mecanismos de intervenção policial destinados à preservação do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas com vulnerabilidade comprovada a estímulos sonoros, especialmente crianças e pessoas idosas, confere ao delegado de polícia competência para determinar medidas emergenciais de cessação de perturbações abusivas, prevê responsabilização pelo descumprimento de determinações protetivas e altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+      "dataApresentacao": "2026-11-06T11:49"
+    },
+    {
       "id": 2651263,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651263",
       "siglaTipo": "PL",
@@ -479,26 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispor sobre a manifestação prévia da União e a mediação nas ações possessórias que envolvam praias, terrenos de marinha e áreas de uso tradicional por comunidades de pesca artesanal.",
       "dataApresentacao": "2026-11-03T14:35"
-    },
-    {
-      "id": 2649801,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649801",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5732,
-      "ano": 2026,
-      "ementa": "Institui, no âmbito do Sistema Único de Saúde – SUS, a Linha Nacional de Cuidado Integral à Saúde da Mulher em Situação de Rua – Dignidade Feminina nas Ruas, destinada a assegurar busca ativa, prevenção, diagnóstico, tratamento, acompanhamento longitudinal e atenção integrada à saúde sexual e reprodutiva, ginecológica, oncológica, materna, menstrual e mental e às situações de violência.",
-      "dataApresentacao": "2026-11-03T14:34"
-    },
-    {
-      "id": 2649800,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649800",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5731,
-      "ano": 2026,
-      "ementa": "Altera a legislação eleitoral para instituir o voto distrital misto para a eleição de representantes da Câmara dos Deputados, Assembleias Legislativas, Câmara Legislativa e das Câmaras Municipais dos Municípios com mais de duzentos mil eleitores.",
-      "dataApresentacao": "2026-11-03T14:29"
     }
   ]
 }
