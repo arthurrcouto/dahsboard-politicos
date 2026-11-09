@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2651409,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651409",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5796,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a remição da pena por meio da doação voluntária de sangue.",
+      "dataApresentacao": "2026-11-09T12:26"
+    },
+    {
+      "id": 2651389,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651389",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5795,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 25, de 30 de novembro de 1937 e a Lei nº 8.313, de 23 de dezembro de 1991, Lei nº 11.771, de 17 de setembro de 2008, Lei nº 11.904, de 14 de janeiro de 2009, Lei nº 11.906, de 20 de janeiro de 2009, e Lei nº 12.343, de 2 de dezembro de 2010, para fortalecer a preservação, a valorização e a difusão da memória e do patrimônio cultural de grupos historicamente invisibilizados, especialmente das populações LGBTI+, negras e quilombolas.",
+      "dataApresentacao": "2026-11-09T11:14"
+    },
+    {
+      "id": 2651388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651388",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5794,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas emergenciais destinadas à prevenção e ao enfrentamento dos incêndios florestais, da estiagem e da crise de abastecimento de água no Estado do Pará, e estabelece medidas de assistência às populações e de recuperação das áreas atingidas.",
+      "dataApresentacao": "2026-11-09T11:08"
+    },
+    {
+      "id": 2651340,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651340",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5793,
+      "ano": 2026,
+      "ementa": "Dispõe sobre os recursos cabíveis contra as decisões judiciais que concedem, indeferem ou reveem as medidas protetivas de urgência previstas na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
+      "dataApresentacao": "2026-11-06T22:56"
+    },
+    {
       "id": 2651275,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651275",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a proteção do sossego e da integridade sensorial de pessoas especialmente vulneráveis a estímulos sonoros no ambiente residencial, estabelece critérios para a comunicação prévia e a responsabilização por perturbações deliberadas, protege dados de saúde e acrescenta o art. 42-A ao Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
       "dataApresentacao": "2026-11-03T16:03"
-    },
-    {
-      "id": 2649935,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649935",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5738,
-      "ano": 2026,
-      "ementa": "Institui o Cadastro Nacional de Empregadores e Empresas Responsabilizados por Assédio Eleitoral, estabelece critérios para sua inclusão, manutenção e exclusão, dispõe sobre sua divulgação e atualização pelos órgãos públicos e estabelece restrições à contratação com o poder público e ao acesso a recursos públicos.",
-      "dataApresentacao": "2026-11-03T15:31"
-    },
-    {
-      "id": 2649934,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649934",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5737,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965, para agravar as penas dos crimes contra a liberdade do sufrágio e estabelecer causas de aumento de pena para condutas praticadas mediante abuso de poder econômico, hierárquico ou de relações familiares e de cuidado, especialmente contra pessoas idosas.",
-      "dataApresentacao": "2026-11-03T15:31"
-    },
-    {
-      "id": 2649804,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649804",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5734,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer critérios de contextualização e garantias procedimentais na classificação indicativa de diversões e espetáculos públicos e de programas de rádio e televisão.",
-      "dataApresentacao": "2026-11-03T14:42"
-    },
-    {
-      "id": 2649802,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649802",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5733,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispor sobre a manifestação prévia da União e a mediação nas ações possessórias que envolvam praias, terrenos de marinha e áreas de uso tradicional por comunidades de pesca artesanal.",
-      "dataApresentacao": "2026-11-03T14:35"
     }
   ]
 }
