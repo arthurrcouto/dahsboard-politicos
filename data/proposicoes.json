@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2653536,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653536",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5842,
+      "ano": 2026,
+      "ementa": "Institui o marco legal das Áreas de Proteção de Mananciais - APMs, altera as Leis nº 9.433, de 8 de janeiro de 1997, Lei n° 9.984, de 17 de julho de 2000, Lei nº 9.985, de 18 de julho de 2000, Lei nº 12.651, de 25 de maio de 2012, Lei nº 11.445, de 5 de janeiro de 2007, e a Lei n° 10.257, de 10 de julho de 2001.",
+      "dataApresentacao": "2026-11-12T18:30"
+    },
+    {
+      "id": 2653293,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653293",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5841,
+      "ano": 2026,
+      "ementa": "Reconhece a Schlachtfest, realizada no Município de São Bento do Sul, no Estado de Santa Catarina, como manifestação da cultura nacional.",
+      "dataApresentacao": "2026-11-12T16:10"
+    },
+    {
+      "id": 2653227,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653227",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5840,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para tipificar a divulgação indevida da intimidade de pessoa idosa, com deficiência ou dependente de cuidados e agravar a punição dos crimes praticados com abuso de relação de cuidado ou confiança.",
+      "dataApresentacao": "2026-11-12T12:48"
+    },
+    {
+      "id": 2653188,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653188",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5839,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.142, de 3 de junho de 2025, para explicitar a vedação ao fracionamento do cálculo da reserva de vagas por especialidade, disciplina, unidade acadêmica, departamento, campus ou local de lotação no âmbito dos concursos públicos federais",
+      "dataApresentacao": "2026-11-12T12:28"
+    },
+    {
       "id": 2653185,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653185",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 5.889, de 8 de junho de 1973, para determinar que os intervalos intrajornada para repouso ou alimentação sejam computados na duração do trabalho e remunerados como de serviço efetivo.",
       "dataApresentacao": "2026-11-05T17:06"
-    },
-    {
-      "id": 2651219,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651219",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5782,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a garantia de direitos acadêmicos às estudantes vítimas de violência doméstica em todos os níveis de ensino, na rede pública e privada",
-      "dataApresentacao": "2026-11-05T15:37"
-    },
-    {
-      "id": 2651217,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651217",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5781,
-      "ano": 2026,
-      "ementa": "Altera a Lei n° 8.080, de 19 de setembro de 1990, para qualificar a saúde como um direito humano.",
-      "dataApresentacao": "2026-11-05T15:37"
-    },
-    {
-      "id": 2651186,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651186",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5779,
-      "ano": 2026,
-      "ementa": "Institui diretrizes nacionais para a valorização dos Agentes de Proteção da Infância e da Juventude e estabelece princípios para o reconhecimento, a capacitação e o apoio ao exercício de suas atividades.",
-      "dataApresentacao": "2026-11-05T13:49"
-    },
-    {
-      "id": 2651185,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651185",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5778,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade da presença de Agentes de Proteção da Infância e Juventude em eventos públicos de grande porte, estabelece medidas de prevenção à violação dos direitos de crianças e adolescentes e dá outras providências.",
-      "dataApresentacao": "2026-11-05T13:44"
     }
   ]
 }
