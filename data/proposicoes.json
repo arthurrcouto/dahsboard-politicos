@@ -1,6 +1,136 @@
 {
   "dados": [
     {
+      "id": 2653948,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653948",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5856,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para estabelecer medidas de responsabilização disciplinar de atletas pela prática de violência contra a mulher.",
+      "dataApresentacao": "2026-11-13T18:36"
+    },
+    {
+      "id": 2653947,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653947",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
+      "dataApresentacao": "2026-11-13T18:29"
+    },
+    {
+      "id": 2653946,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653946",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5854,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "dataApresentacao": "2026-11-13T18:29"
+    },
+    {
+      "id": 2653945,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653945",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
+      "dataApresentacao": "2026-11-13T18:29"
+    },
+    {
+      "id": 2653944,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653944",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5852,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "dataApresentacao": "2026-11-13T18:29"
+    },
+    {
+      "id": 2653822,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653822",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5851,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a destinação de parcela da receita do Imposto Seletivo ao financiamento adicional de tratamentos de saúde no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2026-11-13T13:42"
+    },
+    {
+      "id": 2653820,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653820",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5850,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação de Rota Turística Imperial São Pedro de Alcântara, nos Estados do Espírito Santo e de Minas Gerais , e dá outras providências.",
+      "dataApresentacao": "2026-11-13T12:40"
+    },
+    {
+      "id": 2653819,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653819",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5849,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 6.392, de 7 de julho de 1981, para incentivar a contratação de seguros contra acidentes pessoais e de responsabilidade civil, pela instituição de saúde formadora, em benefício de seus médicos residentes, bem como reajustes periódicos da bolsa concedida a esses profissionais, observadas a recomposição e a preservação de seu poder aquisitivo, segundo índices elaborados pelos órgãos técnicos competentes.",
+      "dataApresentacao": "2026-11-13T12:26"
+    },
+    {
+      "id": 2653818,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653818",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5848,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilização penal e civil por crimes contra o patrimônio praticados entre familiares, revoga imunidades penais, estabelece medidas de reparação patrimonial e altera o Código Civil para prever novas hipóteses de indignidade sucessória e deserdação.",
+      "dataApresentacao": "2026-11-13T11:51"
+    },
+    {
+      "id": 2653816,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653816",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5847,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 47-A à Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para destinar percentual mínimo do horário eleitoral gratuito no rádio e na televisão, nas eleições majoritárias, à apresentação de propostas, projetos e compromissos dos candidatos e partidos políticos.",
+      "dataApresentacao": "2026-11-13T11:30"
+    },
+    {
+      "id": 2653814,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653814",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5846,
+      "ano": 2026,
+      "ementa": "Institui o Símbolo da Criminologia Brasileira e estabelece disposições relativas à sua representação.",
+      "dataApresentacao": "2026-11-13T09:55"
+    },
+    {
+      "id": 2653813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653813",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5845,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da fabricação, importação, comercialização, distribuição, armazenamento, transporte e utilização de rojões e demais fogos de artifício e artefatos pirotécnicos que produzam estampidos ou efeitos sonoros de explosão em todo o território nacional, e dá outras providências.",
+      "dataApresentacao": "2026-11-13T09:18"
+    },
+    {
+      "id": 2653811,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653811",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5844,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para estabelecer critérios de equiparação dos contratos de planos privados de assistência à saúde coletivos empresariais utilizados exclusivamente por núcleo familiar aos planos individuais ou familiares, assegurando proteção contra reajustes abusivos e outras práticas contratuais prejudiciais aos consumidores.",
+      "dataApresentacao": "2026-11-13T09:18"
+    },
+    {
       "id": 2653536,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653536",
       "siglaTipo": "PL",
@@ -369,136 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para criar a “Lei Anti-Oruam 3.0”, autorizando o bloqueio judicial de contas em redes sociais de pessoas foragidas da justiça.",
       "dataApresentacao": "2026-11-10T10:03"
-    },
-    {
-      "id": 2651907,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651907",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5799,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para instituir a remição de pena pelo cadastramento voluntário como doador de medula óssea e pela efetiva doação.",
-      "dataApresentacao": "2026-11-10T09:51"
-    },
-    {
-      "id": 2651864,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651864",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5798,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Fomento às Plataformas Digitais Coletivas de Interesse Público para Serviços de Transporte e Entregas, estabelece mecanismos de financiamento, desenvolvimento tecnológico, proteção social e dá outras providências.",
-      "dataApresentacao": "2026-11-09T18:25"
-    },
-    {
-      "id": 2651863,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651863",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5797,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Memória e Reparação Institucional do Movimento Estudantil Brasileiro, estabelece diretrizes para a identificação e a reconstrução documental dos danos decorrentes da repressão política durante o regime autoritário de 1964 a 1985 e dispõe sobre medidas de preservação e recuperação do patrimônio histórico, cultural e institucional das entidades estudantis.",
-      "dataApresentacao": "2026-11-09T18:23"
-    },
-    {
-      "id": 2651409,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651409",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5796,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a remição da pena por meio da doação voluntária de sangue",
-      "dataApresentacao": "2026-11-09T12:26"
-    },
-    {
-      "id": 2651389,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651389",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5795,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 25, de 30 de novembro de 1937 e a Lei nº 8.313, de 23 de dezembro de 1991, Lei nº 11.771, de 17 de setembro de 2008, Lei nº 11.904, de 14 de janeiro de 2009, Lei nº 11.906, de 20 de janeiro de 2009, e Lei nº 12.343, de 2 de dezembro de 2010, para fortalecer a preservação, a valorização e a difusão da memória e do patrimônio cultural de grupos historicamente invisibilizados, especialmente das populações LGBTI+, negras e quilombolas.",
-      "dataApresentacao": "2026-11-09T11:14"
-    },
-    {
-      "id": 2651388,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651388",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5794,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas emergenciais destinadas à prevenção e ao enfrentamento dos incêndios florestais, da estiagem e da crise de abastecimento de água no Estado do Pará, e estabelece medidas de assistência às populações e de recuperação das áreas atingidas.",
-      "dataApresentacao": "2026-11-09T11:08"
-    },
-    {
-      "id": 2651340,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651340",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5793,
-      "ano": 2026,
-      "ementa": "Dispõe sobre os recursos cabíveis contra as decisões judiciais que concedem, indeferem ou reveem as medidas protetivas de urgência previstas na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
-      "dataApresentacao": "2026-11-06T22:56"
-    },
-    {
-      "id": 2651275,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651275",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5788,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o rastreamento precoce do diabetes mellitus tipo 1 e da doença celíaca na população pediátrica, no âmbito do Sistema Único de Saúde (SUS), e altera a Lei nº 13.895, de 30 de outubro de 2019, que institui a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética.",
-      "dataApresentacao": "2026-11-06T12:16"
-    },
-    {
-      "id": 2651272,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651272",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5787,
-      "ano": 2026,
-      "ementa": "Institui a Lei do Silêncio Inclusivo e da Proteção Sensorial Imediata, estabelece medidas protetivas de urgência e mecanismos de intervenção policial destinados à preservação do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas com vulnerabilidade comprovada a estímulos sonoros, especialmente crianças e pessoas idosas, confere ao delegado de polícia competência para determinar medidas emergenciais de cessação de perturbações abusivas, prevê responsabilização pelo descumprimento de determinações protetivas e altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
-      "dataApresentacao": "2026-11-06T11:49"
-    },
-    {
-      "id": 2651263,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651263",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5786,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.594, de 18 de janeiro de 2012, para vedar a visita íntima a adolescente privado de liberdade no âmbito do Sistema Nacional de Atendimento Socioeducativo (Sinase), e revoga o art. 68 da mesma Lei.",
-      "dataApresentacao": "2026-11-06T11:10"
-    },
-    {
-      "id": 2651261,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651261",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5785,
-      "ano": 2026,
-      "ementa": "Institui o Programa de Assistência Previdenciária Universitária (PAPU), destinado à mobilização de estudantes da educação superior para o apoio técnico supervisionado a segurados e potenciais beneficiários do Regime Geral de Previdência Social e do Benefício de Prestação Continuada, e altera a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a apresentação ao Instituto Nacional do Seguro Social de documentos produzidos no âmbito do Programa.",
-      "dataApresentacao": "2026-11-06T10:51"
-    },
-    {
-      "id": 2651243,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651243",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5784,
-      "ano": 2026,
-      "ementa": "Institui diretrizes nacionais para a prevenção e o combate à fabricação, à comercialização e ao uso de linhas cortantes em pipas e artefatos similares; estabelece medidas de fiscalização, educação e responsabilização administrativa; e dá outras providências.",
-      "dataApresentacao": "2026-11-05T17:36"
-    },
-    {
-      "id": 2651239,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651239",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5783,
-      "ano": 2026,
-      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 5.889, de 8 de junho de 1973, para determinar que os intervalos intrajornada para repouso ou alimentação sejam computados na duração do trabalho e remunerados como de serviço efetivo.",
-      "dataApresentacao": "2026-11-05T17:06"
     }
   ]
 }
