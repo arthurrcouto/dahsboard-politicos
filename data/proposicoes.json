@@ -1,6 +1,46 @@
 {
   "dados": [
     {
+      "id": 2654057,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654057",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5860,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 – Estatuto da Cidade, para incluir a promoção da segurança alimentar e nutricional entre as diretrizes gerais da política urbana",
+      "dataApresentacao": "2026-11-16T12:06"
+    },
+    {
+      "id": 2654022,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654022",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5859,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.439, de 26 de junho de 2026, para assegurar o fornecimento gratuito e contínuo de sistemas de monitoramento da glicose às pessoas com diabetes mellitus tipo 1, no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2026-11-16T11:21"
+    },
+    {
+      "id": 2653974,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653974",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5858,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei Complementar nº 150, de 1º de junho de 2015, a Lei nº 13.475, de 28 de agosto de 2017, e a Lei nº 14.597, de 14 de junho de 2023, para determinar que a duração das férias anuais seja computada em dias úteis.",
+      "dataApresentacao": "2026-11-16T09:26"
+    },
+    {
+      "id": 2653972,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653972",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5857,
+      "ano": 2026,
+      "ementa": "Institui o Alerta Nacional de Criança e Adolescente Desaparecidos e estabelece prazo de acionamento, protocolo de busca e relatório público periódico, e dá outras providências.",
+      "dataApresentacao": "2026-11-16T09:02"
+    },
+    {
       "id": 2653948,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653948",
       "siglaTipo": "PL",
@@ -459,46 +499,6 @@
       "ano": 2026,
       "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral que contenha apologia à prática de qualquer crime ou a seus autores.",
       "dataApresentacao": "2026-11-10T11:12"
-    },
-    {
-      "id": 2651934,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651934",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5803,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer a imediata execução de pena imposta pelo Conselho de Sentença.",
-      "dataApresentacao": "2026-11-10T11:12"
-    },
-    {
-      "id": 2651933,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651933",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5802,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre a alteração do local de votação do agressor como medida protetiva de urgência para circunscrição distante da ofendida.",
-      "dataApresentacao": "2026-11-10T11:11"
-    },
-    {
-      "id": 2651918,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651918",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5801,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para instituir a obrigatoriedade de lacração ou selagem de segurança nas bagagens despachadas no transporte aéreo de passageiros.",
-      "dataApresentacao": "2026-11-10T10:12"
-    },
-    {
-      "id": 2651915,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651915",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5800,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para criar a “Lei Anti-Oruam 3.0”, autorizando o bloqueio judicial de contas em redes sociais de pessoas foragidas da justiça.",
-      "dataApresentacao": "2026-11-10T10:03"
     }
   ]
 }
