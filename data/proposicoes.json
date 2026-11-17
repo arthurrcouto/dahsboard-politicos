@@ -1,6 +1,136 @@
 {
   "dados": [
     {
+      "id": 2654503,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654503",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5878,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 14.238, de 19 de dezembro de 2021, o Estatuto da Pessoa com Câncer, para instituir a Carteira Nacional Digital de Identificação da Pessoa com Câncer, expedida gratuitamente pela direção única, no âmbito da União, do Sistema Único de Saúde, e integrada às plataformas digitais oficiais do Poder Público.",
+      "dataApresentacao": "2026-11-17T12:51"
+    },
+    {
+      "id": 2654412,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654412",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5876,
+      "ano": 2026,
+      "ementa": "Denomina “Rodovia Marconi Malagoli” trecho da rodovia BR-365 em toda sua extensão no estado de Minas Gerais, entre o município de Montes Claros (MG) e a divisa com Goiás.",
+      "dataApresentacao": "2026-11-17T11:24"
+    },
+    {
+      "id": 2654386,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654386",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5875,
+      "ano": 2026,
+      "ementa": "Institui o Programa Ótica SUS, no âmbito do Sistema Único de Saúde, para ampliar o acesso da população a meios de correção visual mediante credenciamento de estabelecimentos ópticos e cofinanciamento público.",
+      "dataApresentacao": "2026-11-17T11:08"
+    },
+    {
+      "id": 2654371,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654371",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5874,
+      "ano": 2026,
+      "ementa": "Institui o cruzamento obrigatório e periódico de dados do Censo Escolar com as folhas de pagamento dos entes federados e com os pagamentos efetuados com recursos do Fundeb, e dispõe sobre a exclusão de estudantes do Censo Escolar, para coibir fraudes e o desvio de recursos da educação.",
+      "dataApresentacao": "2026-11-17T10:43"
+    },
+    {
+      "id": 2654360,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654360",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5873,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais de vistoria elétrica e de prevenção e combate a incêndio em escolas públicas de educação básica e condiciona o repasse de recursos federais para obras e reformas escolares à sua comprovação.",
+      "dataApresentacao": "2026-11-17T10:41"
+    },
+    {
+      "id": 2654327,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654327",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5870,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos), para estabelecer requisitos para a contratação de profissionais do setor artístico pela Administração Pública.",
+      "dataApresentacao": "2026-11-17T08:06"
+    },
+    {
+      "id": 2654320,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654320",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5868,
+      "ano": 2026,
+      "ementa": "Altera o art. 352 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar a evasão ou tentativa de evasão de pessoa presa ou submetida a medida de segurança detentiva, independentemente do emprego de violência ou grave ameaça, e estabelecer tratamento penal mais rigoroso para essas condutas quando praticadas mediante violência ou grave ameaça à pessoa.",
+      "dataApresentacao": "2026-11-16T20:19"
+    },
+    {
+      "id": 2654303,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654303",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5867,
+      "ano": 2026,
+      "ementa": "Reconhece a Schützenfest – Festa dos Atiradores, realizada no Município de Jaraguá do Sul, no Estado de Santa Catarina, como manifestação da cultura nacional",
+      "dataApresentacao": "2026-11-16T19:24"
+    },
+    {
+      "id": 2654171,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654171",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5865,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a rastreabilidade e a comercialização de cobre, fios e cabos elétricos por estabelecimentos de compra e venda de sucata e sobre a comunicação de furtos desses materiais pelas prestadoras de serviços públicos.",
+      "dataApresentacao": "2026-11-16T14:33"
+    },
+    {
+      "id": 2654170,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654170",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5864,
+      "ano": 2026,
+      "ementa": "Veda a criação e o uso comercial de réplicas de voz ou de imagem de pessoa natural geradas por inteligência artificial sem autorização expressa do titular e dispõe sobre os deveres dos provedores de aplicações de internet que disponibilizam modelos de geração de voz ou de imagem.",
+      "dataApresentacao": "2026-11-16T14:30"
+    },
+    {
+      "id": 2654169,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654169",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5863,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes mínimas de segurança cibernética para as contas bancárias e os sistemas de pagamento que movimentam recursos do Sistema Único de Saúde.",
+      "dataApresentacao": "2026-11-16T14:28"
+    },
+    {
+      "id": 2654168,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654168",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5862,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilidade das instituições de pagamento por boletos fraudulentos emitidos por meio de suas plataformas e sobre os mecanismos de segurança para prevenir essa fraude.",
+      "dataApresentacao": "2026-11-16T14:24"
+    },
+    {
+      "id": 2654163,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654163",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5861,
+      "ano": 2026,
+      "ementa": "Institui a Lei Manfred e Marisia von Richthofen, que proíbe e criminaliza a obtenção de vantagem econômica, direta ou indireta, por pessoa condenada pela prática de infração penal, mediante exploração comercial, promoção ou monetização do próprio delito, estabelece mecanismos de perda de valores, reparação das vítimas e responsabilização de terceiros que atuem para fraudar a proibição, e dá outras providências.",
+      "dataApresentacao": "2026-11-16T13:57"
+    },
+    {
       "id": 2654057,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654057",
       "siglaTipo": "PL",
@@ -369,136 +499,6 @@
       "ano": 2026,
       "ementa": "Dispõe sobre a importação, por pessoa física, de medicamento sem registro sanitário no Brasil destinado a uso próprio ou individual, altera a Lei nº 6.360, de 23 de setembro de 1976, e estabelece garantias aplicáveis ao controle sanitário dessa modalidade de importação.",
       "dataApresentacao": "2026-11-10T19:39"
-    },
-    {
-      "id": 2652521,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652521",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5815,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Inclusão Produtiva, Qualificação Profissional e Superação da Vulnerabilidade Socioeconômica; altera as Leis nº 8.742, de 7 de dezembro de 1993, nº 14.133, de 1º de abril de 2021, e nº 14.601, de 19 de junho de 2023; e dá outras providências.",
-      "dataApresentacao": "2026-11-10T19:00"
-    },
-    {
-      "id": 2652518,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652518",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5814,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.185, de 6 de novembro de 2015, para estabelecer procedimentos obrigatórios de prevenção e enfrentamento à intimidação sistemática (bullying) nos estabelecimentos de ensino, assegurar atendimento às vítimas e prever medidas de responsabilização das instituições e dos agressores.",
-      "dataApresentacao": "2026-11-10T18:59"
-    },
-    {
-      "id": 2652517,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652517",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5813,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.308, de 8 de março de 2022, para estabelecer diretrizes de medicina de precisão, diagnóstico molecular e genômico, avaliação multidisciplinar especializada, utilização responsável de tecnologias avançadas e monitoramento de resultados na atenção à oncologia pediátrica.",
-      "dataApresentacao": "2026-11-10T18:28"
-    },
-    {
-      "id": 2652516,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652516",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5812,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.858, de 13 de abril de 2004, para estabelecer diretrizes para a entrega domiciliar de medicamentos e outros produtos disponibilizados no âmbito do Programa Farmácia Popular do Brasil, admitir a participação de operadores logísticos privados e dispor sobre condições de segurança, rastreabilidade e responsabilidade sanitária.",
-      "dataApresentacao": "2026-11-10T18:26"
-    },
-    {
-      "id": 2652515,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652515",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5811,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a oferta e a negociação de contratos derivativos não financeiros referenciados em eventos reais ou virtuais não representativos de referencial econômico-financeiro, a critério da Comissão de Valores Mobiliários, e dá outras providências.",
-      "dataApresentacao": "2026-11-10T18:17"
-    },
-    {
-      "id": 2652509,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652509",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5810,
-      "ano": 2026,
-      "ementa": "Institui a Lei Acesso Íntegro e altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o abuso de acesso profissional ou funcional a dados pessoais, estabelecer forma qualificada para sua comercialização, transferência, divulgação ou fornecimento ilícitos, responsabilizar terceiros envolvidos na exploração criminosa dessas informações, prever causas de aumento de pena e dispor sobre a persecução penal.",
-      "dataApresentacao": "2026-11-10T17:37"
-    },
-    {
-      "id": 2652463,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652463",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Teste de Comissão",
-      "dataApresentacao": "2026-11-10T18:43"
-    },
-    {
-      "id": 2652209,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652209",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5809,
-      "ano": 2026,
-      "ementa": "Veda proibições administrativas genéricas ao consumo de refeições por profissionais da educação nas unidades públicas de educação básica.",
-      "dataApresentacao": "2026-11-10T16:30"
-    },
-    {
-      "id": 2652176,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652176",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5808,
-      "ano": 2026,
-      "ementa": "Altera o Anexo III da Lei nº 10.356, de 27 de dezembro de 2001, que dispõe sobre o Quadro de Pessoal e o Plano de Carreira do Tribunal de Contas da União e dá outras providências.",
-      "dataApresentacao": "2026-11-10T15:56"
-    },
-    {
-      "id": 2652175,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652175",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5807,
-      "ano": 2026,
-      "ementa": "Cria a Rota Turística Caminho Santa Rita de Cássia, no trecho compreendido entre os Municípios de Passos e Cássia, no Estado de Minas Gerais.",
-      "dataApresentacao": "2026-11-10T15:46"
-    },
-    {
-      "id": 2652027,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652027",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5806,
-      "ano": 2026,
-      "ementa": "Institui o Cadastro Nacional de Condenados Foragidos por Crimes Sexuais e dispõe sobre o alerta imediato às polícias dos estados.",
-      "dataApresentacao": "2026-11-10T12:03"
-    },
-    {
-      "id": 2651979,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651979",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5805,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer requisitos de sinalização e de comprovação da regularidade da fiscalização eletrônica de velocidade.",
-      "dataApresentacao": "2026-11-10T11:43"
-    },
-    {
-      "id": 2651938,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651938",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5804,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral que contenha apologia à prática de qualquer crime ou a seus autores.",
-      "dataApresentacao": "2026-11-10T11:12"
     }
   ]
 }

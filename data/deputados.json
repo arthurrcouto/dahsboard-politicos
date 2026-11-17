@@ -2333,6 +2333,17 @@
       "email": "dep.gervasiomaia@camara.leg.br"
     },
     {
+      "id": 74383,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+      "nome": "Giacobo",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+      "email": "dep.giacobo@camara.leg.br"
+    },
+    {
       "id": 204491,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204491",
       "nome": "Gilberto Abramo",
@@ -2672,17 +2683,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
       "email": "dep.isnaldobulhoesjr@camara.leg.br"
-    },
-    {
-      "id": 225846,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225846",
-      "nome": "Itamar Paim",
-      "siglaPartido": "PL",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-      "siglaUf": "PR",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225846.jpg",
-      "email": "dep.itamarpaim@camara.leg.br"
     },
     {
       "id": 220696,
@@ -5646,7 +5646,7 @@
   ],
   "partidoMap": {
     "MDB": 38,
-    "PL": 98,
+    "PL": 97,
     "PSDB": 17,
     "NOVO": 5,
     "PP": 47,
@@ -5659,7 +5659,7 @@
     "PV": 6,
     "REDE": 3,
     "PSB": 17,
-    "PSD": 48,
+    "PSD": 49,
     "PODE": 27,
     "SOLIDARIEDADE": 4,
     "PSOL": 13,
