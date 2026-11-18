@@ -1,6 +1,156 @@
 {
   "dados": [
     {
+      "id": 2655184,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655184",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5895,
+      "ano": 2026,
+      "ementa": "INSTITUI O MARCO NACIONAL DE PROTEÇÃO, DEFESA E RECONHECIMENTO DOS TRABALHADORES DO COMÉRCIO E ESTABELECE DIRETRIZES PARA A POLÍTICA NACIONAL DE VALORIZAÇÃO E DESENVOLVIMENTO PROFISSIONAL DA CATEGORIA.",
+      "dataApresentacao": "2026-11-18T11:13"
+    },
+    {
+      "id": 2655134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655134",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5894,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar, de forma proporcional ao número de agressores, a pena dos crimes de lesão corporal e de homicídio cometidos mediante espancamento coletivo.",
+      "dataApresentacao": "2026-11-18T10:00"
+    },
+    {
+      "id": 2655132,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655132",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 2423,
+      "ano": 2026,
+      "ementa": "Reconhece como manifestação da cultura nacional a Romaria do Divino Pai Eterno, realizada no Município de Trindade, no Estado de Goiás.",
+      "dataApresentacao": "2026-11-13T18:37"
+    },
+    {
+      "id": 2655116,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655116",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 3768,
+      "ano": 2026,
+      "ementa": "Institui o Prêmio Nacional da Educação Brasileira (PNEB).",
+      "dataApresentacao": "2026-11-13T18:28"
+    },
+    {
+      "id": 2655025,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655025",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5893,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar a confirmação diagnóstica, o tratamento e o acompanhamento da criança com resultado alterado ou inconclusivo no teste do pezinho, o aconselhamento genético à família e a divulgação de indicadores da triagem neonatal.",
+      "dataApresentacao": "2026-11-18T09:00"
+    },
+    {
+      "id": 2655021,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655021",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5892,
+      "ano": 2026,
+      "ementa": "Dispõe sobre diretrizes para prevenção e enfrentamento do uso de dispositivos eletrônicos para fumar, com especial atenção a crianças, adolescentes e jovens.",
+      "dataApresentacao": "2026-11-18T08:49"
+    },
+    {
+      "id": 2655015,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655015",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5891,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 14.717, de 31 de outubro de 2023, para dispor sobre hipótese de requerimento de benefício de pensão especial aos filhos e aos dependentes de mulher vítima de crime de feminicídio pela autoridade policial, Ministério Público, Defensoria Pública e Conselho Tutelar ou por determinação judicial.",
+      "dataApresentacao": "2026-11-17T23:57"
+    },
+    {
+      "id": 2654838,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654838",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5889,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "dataApresentacao": "2026-11-17T18:44"
+    },
+    {
+      "id": 2654813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654813",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5888,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Envelhecer com Saúde Mental, destinada à prevenção da depressão, do sofrimento psíquico, da solidão e do isolamento social da pessoa idosa, à identificação precoce de fatores de risco, à garantia do cuidado integral e continuado, ao fortalecimento dos vínculos familiares e comunitários e à articulação das redes de saúde e assistência social.",
+      "dataApresentacao": "2026-11-17T18:10"
+    },
+    {
+      "id": 2654802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654802",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5887,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer garantias à intimidade, à dignidade e à integridade das mulheres submetidas à abordagem pessoal, disciplinando sua realização por agente do sexo feminino e as hipóteses excepcionais de execução por agente do sexo masculino.",
+      "dataApresentacao": "2026-11-17T17:40"
+    },
+    {
+      "id": 2654795,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654795",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5886,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para estabelecer prazos máximos de pagamento aos prestadores de serviços de saúde e disciplinar o faturamento, a auditoria e as glosas.",
+      "dataApresentacao": "2026-11-17T17:27"
+    },
+    {
+      "id": 2654765,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654765",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5884,
+      "ano": 2026,
+      "ementa": "Institui a Lei das Fronteiras Inteligentes, cria o Programa Nacional Integrado de Proteção e Monitoramento de Fronteiras e Divisas, estabelece mecanismos de inteligência preditiva e integração tecnológica entre órgãos federais e forças de segurança estaduais, e destina recursos provenientes de bens e valores vinculados ao tráfico de drogas para o fortalecimento da segurança fronteiriça e dá outras providências.",
+      "dataApresentacao": "2026-11-17T16:24"
+    },
+    {
+      "id": 2654744,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654744",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5883,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a oferta voluntária de abordagens especializadas destinadas à redução da libido de pessoas condenadas por crimes sexuais contra crianças e adolescentes.",
+      "dataApresentacao": "2026-11-17T15:51"
+    },
+    {
+      "id": 2654736,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654736",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5882,
+      "ano": 2026,
+      "ementa": "Institui o direito à autonomia algorítmica, assegura ao usuário de plataforma digital a escolha de modalidade de apresentação de conteúdos não baseada em perfilamento comportamental e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para incluir esse direito no rol de direitos dos usuários de internet.",
+      "dataApresentacao": "2026-11-17T15:44"
+    },
+    {
+      "id": 2654578,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654578",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5881,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 11.664, de 29 de abril de 2008, para assegurar a oferta do teste molecular para detecção do papilomavírus humano (HPV) oncogênico no rastreamento do câncer do colo do útero no âmbito do Sistema Único de Saúde (SUS).",
+      "dataApresentacao": "2026-11-17T13:38"
+    },
+    {
       "id": 2654503,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654503",
       "siglaTipo": "PL",
@@ -349,156 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Sistema Nacional de Acompanhamento de Operações de Financiamento Imobiliário (SNAFI) e estabelece mecanismos de transparência, rastreabilidade e fiscalização das operações de financiamento imobiliário.",
       "dataApresentacao": "2026-11-12T12:07"
-    },
-    {
-      "id": 2653184,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653184",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5837,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.514, de 20 de novembro de 1997, para estabelecer prazos e obrigações nas operações de financiamento imobiliário, disciplinar a cobrança de encargos, o fornecimento do termo de quitação e a atuação de intervenientes quitantes, e tornar obrigatória a notificação do devedor nas operações de cessão de crédito imobiliário.",
-      "dataApresentacao": "2026-11-12T12:07"
-    },
-    {
-      "id": 2653179,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653179",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5836,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.142, de 3 de junho de 2025, para explicitar a vedação ao fracionamento do cálculo da reserva de vagas por especialidade, disciplina, unidade acadêmica, departamento, campus ou local de lotação no âmbito dos concursos públicos federais.",
-      "dataApresentacao": "2026-11-12T11:41"
-    },
-    {
-      "id": 2653177,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653177",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5835,
-      "ano": 2026,
-      "ementa": "Altera a Lei no 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), e a Lei no 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para instituir o combate ao isolamento social e a promoção da conexão social como diretrizes do Sistema Único de Saúde e do desenvolvimento urbano, e dá outras providências.",
-      "dataApresentacao": "2026-11-12T11:41"
-    },
-    {
-      "id": 2653172,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653172",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5834,
-      "ano": 2026,
-      "ementa": "Reconhece a Romaria de Nossa Senhora da Penha, realizada no Município de João Pessoa, Estado da Paraíba, como manifestação da cultura nacional.",
-      "dataApresentacao": "2026-11-12T11:22"
-    },
-    {
-      "id": 2653123,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653123",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5832,
-      "ano": 2026,
-      "ementa": "Institui o “Programa Primeiro Negócio”, destinado a facilitar o acesso ao crédito para pessoas que estejam constituindo ou tenham constituído recentemente seu primeiro empreendimento formal, e dá outras providências.",
-      "dataApresentacao": "2026-11-12T10:14"
-    },
-    {
-      "id": 2653050,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653050",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5830,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o regime especial de organização da jornada de trabalho nos serviços de saúde, nos termos do § 3º do art. 7º da Constituição Federal, e dá outras providências.",
-      "dataApresentacao": "2026-11-11T20:21"
-    },
-    {
-      "id": 2652995,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652995",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5826,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para vedar a utilização de sistemas de inteligência artificial na publicidade, oferta, apresentação e divulgação comercial de produtos alimentícios em estabelecimentos comerciais e plataformas de delivery.",
-      "dataApresentacao": "2026-11-11T18:06"
-    },
-    {
-      "id": 2652993,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652993",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5825,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.223, de 30 de setembro de 2025, para instituir o Programa Pronaf Mulher.",
-      "dataApresentacao": "2026-11-11T17:59"
-    },
-    {
-      "id": 2652914,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652914",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5823,
-      "ano": 2026,
-      "ementa": "Reconhece como manifestação da cultura nacional a Festa de São Sebastião do Mutum, realizada no Município de Barão de Melgaço, Estado de Mato Grosso.",
-      "dataApresentacao": "2026-11-11T15:36"
-    },
-    {
-      "id": 2652911,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652911",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5822,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.812, de 16 de março de 2019, para aperfeiçoar o acompanhamento das ocorrências de desaparecimento de pessoas, os procedimentos de divulgação de alertas urgentes, a assistência às pessoas localizadas e a avaliação dos resultados das ações de busca.",
-      "dataApresentacao": "2026-11-11T13:12"
-    },
-    {
-      "id": 2652739,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652739",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5820,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral mediante bandeira de vento (wind banner).",
-      "dataApresentacao": "2026-11-11T11:55"
-    },
-    {
-      "id": 2652736,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652736",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5819,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proteção da integridade física, da segurança pessoal e do exercício do direito à moradia em condomínios edilícios; altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para disciplinar o afastamento judicial de ocupantes responsáveis por violência grave, estabelecer medidas protetivas de urgência, tipificar a coação violenta ao exercício da moradia e assegurar a reparação patrimonial das vítimas, inclusive mediante adjudicação judicial de bens do responsável.",
-      "dataApresentacao": "2026-11-11T11:34"
-    },
-    {
-      "id": 2652684,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652684",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5818,
-      "ano": 2026,
-      "ementa": "Requer a inclusão na ordem do dia do Recurso contra apreciação conclusiva de comissão nº 1/2026 ao Projeto de Lei nº 2.812, de 2022, que revoga a Lei nº 12.318, de 26 de agosto de 2010 - Lei de Alienação Parental.",
-      "dataApresentacao": "2026-11-10T21:46"
-    },
-    {
-      "id": 2652676,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652676",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5817,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer requisitos de planejamento, necessidade funcional, economicidade e transparência nas contratações públicas que envolvam equipamentos eletrônicos destinados ao uso institucional.",
-      "dataApresentacao": "2026-11-10T20:50"
-    },
-    {
-      "id": 2652528,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652528",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5816,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a importação, por pessoa física, de medicamento sem registro sanitário no Brasil destinado a uso próprio ou individual, altera a Lei nº 6.360, de 23 de setembro de 1976, e estabelece garantias aplicáveis ao controle sanitário dessa modalidade de importação.",
-      "dataApresentacao": "2026-11-10T19:39"
     }
   ]
 }
