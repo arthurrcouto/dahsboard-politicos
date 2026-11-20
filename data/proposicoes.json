@@ -1,6 +1,86 @@
 {
   "dados": [
     {
+      "id": 2655695,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655695",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5756,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregues pela União aos Estados e ao Distrito Federal voltados para a garantia do acesso à internet, com fins educacionais, aos estabelecimentos de ensino, aos alunos e aos professores da\nrede pública de ensino dos Estados, do Distrito Federal e dos Municípios, em virtude da calamidade pública decorrente da covid-19.",
+      "dataApresentacao": "2026-11-19T16:05"
+    },
+    {
+      "id": 2655688,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655688",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 892,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, para tornar disponível, no Sistema Único de Saúde (SUS), o teste molecular para detecção do ácido desoxirribonucleico (DNA) do papilomavírus humano (HPV), com possibilidade de autocoleta do material, a ser examinado.",
+      "dataApresentacao": "2026-11-19T15:02"
+    },
+    {
+      "id": 2655664,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655664",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5916,
+      "ano": 2026,
+      "ementa": "Altera o parágrafo único do art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar hediondo o homicídio praticado na direção de veículo automotor, quando praticado em concurso com a condução de veículo com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência (art. 306 do CTB) ou com a participação em corrida, disputa ou competição automobilística não autorizada (art. 308 do CTB), vedando fiança, anistia, graça e indulto e impondo cumprimento inicial da pena em regime fechado.",
+      "dataApresentacao": "2026-11-19T16:43"
+    },
+    {
+      "id": 2655649,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655649",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5915,
+      "ano": 2026,
+      "ementa": "Denomina “Passarela Dr. Elias – Elias José Abrão Neto” a passarela de pedestres localizada sobre a Rodovia BR-365, no Município de Patrocínio, Estado de Minas Gerais.",
+      "dataApresentacao": "2026-11-19T16:22"
+    },
+    {
+      "id": 2655613,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655613",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5914,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
+      "dataApresentacao": "2026-11-19T15:23"
+    },
+    {
+      "id": 2655598,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655598",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5913,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para dispor sobre a dedução dos rendimentos do trabalho do cuidador familiar no cálculo da renda familiar para fins de concessão do benefício de prestação continuada e a manutenção temporária do benefício em caso de elevação da renda familiar decorrente de trabalho.",
+      "dataApresentacao": "2026-11-19T15:05"
+    },
+    {
+      "id": 2655581,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655581",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5912,
+      "ano": 2026,
+      "ementa": "Institui o Programa de equipes especializadas para o atendimento de urgências em saúde mental ERSAM.",
+      "dataApresentacao": "2026-11-19T14:13"
+    },
+    {
+      "id": 2655580,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655580",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5911,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), para criar o Registro Nacional de Identificação de Emergência de Motociclistas (RENIEM).",
+      "dataApresentacao": "2026-11-19T13:51"
+    },
+    {
       "id": 2655542,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655542",
       "siglaTipo": "PL",
@@ -419,86 +499,6 @@
       "ano": 2026,
       "ementa": "Institui a Lei Manfred e Marisia von Richthofen, que proíbe e criminaliza a obtenção de vantagem econômica, direta ou indireta, por pessoa condenada pela prática de infração penal, mediante exploração comercial, promoção ou monetização do próprio delito, estabelece mecanismos de perda de valores, reparação das vítimas e responsabilização de terceiros que atuem para fraudar a proibição, e dá outras providências.",
       "dataApresentacao": "2026-11-16T13:57"
-    },
-    {
-      "id": 2654057,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654057",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5860,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 – Estatuto da Cidade, para incluir a promoção da segurança alimentar e nutricional entre as diretrizes gerais da política urbana",
-      "dataApresentacao": "2026-11-16T12:06"
-    },
-    {
-      "id": 2654022,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654022",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5859,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.439, de 26 de junho de 2026, para assegurar o fornecimento gratuito e contínuo de sistemas de monitoramento da glicose às pessoas com diabetes mellitus tipo 1, no âmbito do Sistema Único de Saúde (SUS).",
-      "dataApresentacao": "2026-11-16T11:21"
-    },
-    {
-      "id": 2653974,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653974",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5858,
-      "ano": 2026,
-      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei Complementar nº 150, de 1º de junho de 2015, a Lei nº 13.475, de 28 de agosto de 2017, e a Lei nº 14.597, de 14 de junho de 2023, para determinar que a duração das férias anuais seja computada em dias úteis.",
-      "dataApresentacao": "2026-11-16T09:26"
-    },
-    {
-      "id": 2653972,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653972",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5857,
-      "ano": 2026,
-      "ementa": "Institui o Alerta Nacional de Criança e Adolescente Desaparecidos e estabelece prazo de acionamento, protocolo de busca e relatório público periódico, e dá outras providências.",
-      "dataApresentacao": "2026-11-16T09:02"
-    },
-    {
-      "id": 2653948,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653948",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5856,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para estabelecer medidas de responsabilização disciplinar de atletas pela prática de violência contra a mulher.",
-      "dataApresentacao": "2026-11-13T18:36"
-    },
-    {
-      "id": 2653947,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653947",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5855,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
-      "dataApresentacao": "2026-11-13T18:29"
-    },
-    {
-      "id": 2653946,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653946",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5854,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
-      "dataApresentacao": "2026-11-13T18:29"
-    },
-    {
-      "id": 2653945,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653945",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5853,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
-      "dataApresentacao": "2026-11-13T18:29"
     }
   ]
 }
