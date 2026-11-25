@@ -1,6 +1,66 @@
 {
   "dados": [
     {
+      "id": 2659678,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659678",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5964,
+      "ano": 2026,
+      "ementa": "Regulamenta o direito à consulta prévia, livre e informada aos povos indígenas e tribais, nos termos do art. 231 da Constituição Federal e da Convenção nº 169 da Organização Internacional do Trabalho; institui procedimentos de celeridade, padrões de execução, supervisão e validação, e regime de cooperação federativa para condução operacional; e dá outras providências.",
+      "dataApresentacao": "2026-11-25T12:18"
+    },
+    {
+      "id": 2659671,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659671",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5963,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cuidado Integral à Pessoa com Distonia e à sua Família; altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943; e dispõe sobre a dedução, do imposto sobre a renda da pessoa física, da contribuição patronal incidente sobre a remuneração de cuidador de pessoa com deficiência.",
+      "dataApresentacao": "2026-11-25T11:46"
+    },
+    {
+      "id": 2659462,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659462",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5961,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.516, de 22 de setembro de 2026, para assegurar, nas unidades de saúde, acolhimento em sala reservada e informação sobre direitos às vítimas de violência psicológica, moral, patrimonial e de outras formas de violência diversas do estupro e da violência física.",
+      "dataApresentacao": "2026-11-25T09:08"
+    },
+    {
+      "id": 2659342,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659342",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5960,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Arborização Urbana, estabelece diretrizes para a compatibilização e o convívio seguro da vegetação com as redes de distribuição de energia elétrica, cria o Sistema Nacional de Informações sobre Arborização Urbana, e dá outras providências.",
+      "dataApresentacao": "2026-11-24T18:50"
+    },
+    {
+      "id": 2659340,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659340",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5959,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) para dispor sobre a obrigatoriedade de destaque visual do montante total de juros e do Custo Efetivo Total em contratos de crédito e financiamento.",
+      "dataApresentacao": "2026-11-24T18:41"
+    },
+    {
+      "id": 2659310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659310",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5958,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.185, de 6 de novembro de 2015, que institui o Programa de Combate à Intimidação Sistemática (Bullying), para assegurar direitos de acolhimento, proteção e informação à vítima e à sua família, instituir canal seguro de relato e disciplinar a resposta dos estabelecimentos de educação básica a casos de intimidação sistemática, inclusive em ambiente digital.",
+      "dataApresentacao": "2026-11-24T16:51"
+    },
+    {
       "id": 2659238,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659238",
       "siglaTipo": "PL",
@@ -107,7 +167,7 @@
       "codTipo": 139,
       "numero": 5946,
       "ano": 2026,
-      "ementa": "Altera as Leis n°s 14.182, de 2021, 9.648, de 1998, 10.438, de 2002, e 9.991, de 2000, para tratar da conexão de centrais hidrelétricas contratadas, do despacho centralizado de aproveitamentos de até 50MW e da destinação facultativa de recursos de pesquisa e desenvolvimento à Conta de Desenvolvimento Energético.",
+      "ementa": "Altera as Leis nºs 14.182, de 2021, 9.648, de 1998, e 9.991, de 2000, para tratar da conexão de centrais hidrelétricas contratadas, do despacho centralizado de aproveitamentos hidrelétricos de até 50 MW e da destinação facultativa de recursos de pesquisa e desenvolvimento ao Fundo Nacional de Desenvolvimento Científico e Tecnológico, com prioridade para projetos de eficiência energética.",
       "dataApresentacao": "2026-11-24T06:41"
     },
     {
@@ -439,66 +499,6 @@
       "ano": 2026,
       "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
       "dataApresentacao": "2026-11-19T15:23"
-    },
-    {
-      "id": 2655598,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655598",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5913,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para dispor sobre a dedução dos rendimentos do trabalho do cuidador familiar no cálculo da renda familiar para fins de concessão do benefício de prestação continuada e a manutenção temporária do benefício em caso de elevação da renda familiar decorrente de trabalho.",
-      "dataApresentacao": "2026-11-19T15:05"
-    },
-    {
-      "id": 2655581,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655581",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5912,
-      "ano": 2026,
-      "ementa": "Institui o Programa de equipes especializadas para o atendimento de urgências em saúde mental ERSAM.",
-      "dataApresentacao": "2026-11-19T14:13"
-    },
-    {
-      "id": 2655580,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655580",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5911,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), para criar o Registro Nacional de Identificação de Emergência de Motociclistas (RENIEM).",
-      "dataApresentacao": "2026-11-19T13:51"
-    },
-    {
-      "id": 2655542,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655542",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5910,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 11.350, de 5 de outubro de 2006, para agravar a pena dos crimes praticados contra agentes comunitários de saúde e agentes de combate às endemias em razão do exercício da função e para dispor sobre a proteção desses profissionais.",
-      "dataApresentacao": "2026-11-19T12:10"
-    },
-    {
-      "id": 2655541,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655541",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5909,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para fixar em grau máximo o adicional de insalubridade dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, e assegurar o cálculo sobre o vencimento ou salário-base.",
-      "dataApresentacao": "2026-11-19T12:00"
-    },
-    {
-      "id": 2655540,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655540",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5908,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 5.700, de 1º de setembro de 1971, para incluir a expressão “Justiça Social” na inscrição da Bandeira Nacional.",
-      "dataApresentacao": "2026-11-19T11:54"
     }
   ]
 }
