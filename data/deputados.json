@@ -3788,8 +3788,8 @@
       "id": 204566,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204566",
       "nome": "Marreca Filho",
-      "siglaPartido": "PRD",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
       "siglaUf": "MA",
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
@@ -5660,11 +5660,11 @@
     "REDE": 3,
     "PSB": 17,
     "PSD": 48,
-    "PODE": 27,
+    "PODE": 28,
     "SOLIDARIEDADE": 4,
     "PSOL": 13,
     "AVANTE": 5,
-    "PRD": 3,
+    "PRD": 2,
     "MISSÃO": 1
   }
 }

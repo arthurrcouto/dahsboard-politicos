@@ -370,6 +370,15 @@
       "mandato": "Titular"
     },
     {
+      "id": "6369",
+      "nome": "Jussara Lima",
+      "partido": "PSD",
+      "uf": "PI",
+      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6369.jpg",
+      "email": "sen.jussaralima@senado.leg.br",
+      "mandato": "1º Suplente"
+    },
+    {
       "id": "4811",
       "nome": "Laércio Oliveira",
       "partido": "PP",
@@ -673,15 +682,6 @@
       "uf": "PB",
       "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5748.jpg",
       "email": "sen.venezianovitaldorego@senado.leg.br",
-      "mandato": "Titular"
-    },
-    {
-      "id": "5016",
-      "nome": "Wellington Dias",
-      "partido": "PT",
-      "uf": "PI",
-      "foto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5016.jpg",
-      "email": "wellington.dias@senador.leg.br",
       "mandato": "Titular"
     },
     {
