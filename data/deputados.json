@@ -2652,6 +2652,17 @@
       "email": "dep.igortimo@camara.leg.br"
     },
     {
+      "id": 74295,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74295",
+      "nome": "Inácio Arruda",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "CE",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74295.jpg",
+      "email": "dep.inacioarruda@camara.leg.br"
+    },
+    {
       "id": 98615,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98615",
       "nome": "Ismael",
@@ -2892,17 +2903,6 @@
       "idLegislatura": 57,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
       "email": "dep.joseairtonfelixcirilo@camara.leg.br"
-    },
-    {
-      "id": 141470,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141470",
-      "nome": "José Guimarães",
-      "siglaPartido": "PT",
-      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
-      "siglaUf": "CE",
-      "idLegislatura": 57,
-      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141470.jpg",
-      "email": "dep.joseguimaraes@camara.leg.br"
     },
     {
       "id": 204472,
@@ -5650,12 +5650,12 @@
     "PSDB": 17,
     "NOVO": 5,
     "PP": 47,
-    "PT": 67,
+    "PT": 66,
     "PDT": 9,
     "REPUBLICANOS": 43,
     "CIDADANIA": 2,
     "UNIÃO": 50,
-    "PCdoB": 10,
+    "PCdoB": 11,
     "PV": 6,
     "REDE": 3,
     "PSB": 17,

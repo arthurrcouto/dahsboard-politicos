@@ -1,6 +1,76 @@
 {
   "dados": [
     {
+      "id": 2660450,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660450",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5998,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para tornar obrigatório o fornecimento de roda sobressalente e dos equipamentos necessários à sua substituição em automóveis, camionetas, caminhonetes e utilitários, vedadas a dispensa e a substituição por sistemas alternativos de reparação emergencial.",
+      "dataApresentacao": "2026-11-27T13:33"
+    },
+    {
+      "id": 2660442,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660442",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5997,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da divulgação, compartilhamento e impulsionamento de imagens e vídeos que exponham vítimas de violência física nas redes sociais e plataformas digitais, e estabelece medidas de proteção à dignidade humana.",
+      "dataApresentacao": "2026-11-27T12:16"
+    },
+    {
+      "id": 2660437,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660437",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5996,
+      "ano": 2026,
+      "ementa": "Altera a Lei n.º 9.709, de 18 de novembro de 1998, para condicionar o aumento de salário e demais benefícios de deputados federais e senadores a realização de plebiscito.",
+      "dataApresentacao": "2026-11-27T11:58"
+    },
+    {
+      "id": 2660404,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660404",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5995,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Combate à Discriminação e à Estigmatização de Povos e Comunidades em Contextos Internacionais e dá outras providências.",
+      "dataApresentacao": "2026-11-27T11:02"
+    },
+    {
+      "id": 2660396,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660396",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5994,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 — Código de Processo Penal, e a Lei nº 10.406, de 10 de janeiro de 2002 — Código Civil, para disciplinar o emprego de dispositivos defensivos na proteção da propriedade privada, estabelecer presunção relativa de finalidade defensiva em caso de invasão ilícita, assegurar proteção jurídica ao proprietário, possuidor ou morador, disciplinar a utilização de registros audiovisuais como meio de prova e estabelecer regras para a reparação dos danos causados pelo invasor.",
+      "dataApresentacao": "2026-11-27T10:32"
+    },
+    {
+      "id": 2660383,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660383",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5993,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para condicionar a contratação direta de material didático à demonstração de não sobreposição ao Programa Nacional do Livro e do Material Didático, à publicidade do termo de referência e ao controle dos tribunais de contas.",
+      "dataApresentacao": "2026-11-27T09:38"
+    },
+    {
+      "id": 2660369,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660369",
+      "siglaTipo": "PL",
+      "codTipo": 139,
+      "numero": 5992,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para excluir do cômputo de pontuação no prontuário do condutor a infração decorrente do descumprimento de rodízio municipal de veículos baseado no dígito final da placa.",
+      "dataApresentacao": "2026-11-26T17:46"
+    },
+    {
       "id": 2660119,
       "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660119",
       "siglaTipo": "PL",
@@ -429,76 +499,6 @@
       "ano": 2026,
       "ementa": "Institui diretrizes para a prevenção e o enfrentamento de barreiras à frequência, à permanência e à participação escolar dos estudantes com deficiência e altera a Lei nº 13.146, de 6 de julho de 2015.",
       "dataApresentacao": "2026-11-23T19:18"
-    },
-    {
-      "id": 2658977,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658977",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5942,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para estabelecer diretrizes de organização da atenção primária à saúde visual no âmbito do Sistema Único de Saúde e disciplinar a participação de profissionais de Optometria com formação superior reconhecida pelo poder público.",
-      "dataApresentacao": "2026-11-23T19:09"
-    },
-    {
-      "id": 2658975,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658975",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5941,
-      "ano": 2026,
-      "ementa": "Altera dispositivos à Lei nº 14.944, de 31 de julho de 2024, para aperfeiçoar as garantias de saúde e segurança ocupacional dos brigadistas florestais durante as operações de manejo integrado do fogo e de prevenção e combate aos incêndios florestais.",
-      "dataApresentacao": "2026-11-23T19:02"
-    },
-    {
-      "id": 2658974,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658974",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5940,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o exercício da profissão de cuidador de pessoa idosa, estabelece requisitos de qualificação profissional, define atribuições, direitos e deveres, disciplina o aproveitamento da experiência profissional e estabelece regras de transição.",
-      "dataApresentacao": "2026-11-23T18:57"
-    },
-    {
-      "id": 2658973,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658973",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5939,
-      "ano": 2026,
-      "ementa": "Institui mecanismo de fomento para operadores aéreos regionais da Amazônia Legal.",
-      "dataApresentacao": "2026-11-23T18:23"
-    },
-    {
-      "id": 2658972,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658972",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5938,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 8.069, de 13 de julho de 1990, nº 9.250, de 26 de dezembro de 1995, nº 9.532, de 10 de dezembro de 1997, e nº 12.213, de 20 de janeiro de 2010, para simplificar e ampliar a destinação de parcela do Imposto sobre a Renda da Pessoa Física aos Fundos dos Direitos da Criança e do Adolescente e aos Fundos dos Direitos da Pessoa Idosa.",
-      "dataApresentacao": "2026-11-23T18:22"
-    },
-    {
-      "id": 2658970,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658970",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5937,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.575, de 26 de dezembro de 2017, para incluir entre as competências da Diretoria Colegiada da Agência Nacional de Mineração a aprovação e publicação de Plano Quinquenal de Desenvolvimento Institucional.",
-      "dataApresentacao": "2026-11-23T18:21"
-    },
-    {
-      "id": 2658967,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658967",
-      "siglaTipo": "PL",
-      "codTipo": 139,
-      "numero": 5936,
-      "ano": 2026,
-      "ementa": "Institui a Campanha Nacional de Conscientização sobre a Importância da Vacinação durante o período de matrículas escolares.",
-      "dataApresentacao": "2026-11-23T18:21"
     }
   ]
 }
